@@ -44,7 +44,7 @@ She turned. Osei had moved closer. He had his medical pad in his hand and was wa
 
 Renn said: "There's only five people..."
 
-"Five people now," she interrupted, "but we'll be 200 in three hours. Look." 
+"Five people now," she interrupted, "but we'll be two hundred and fifty in three hours. Look." 
 
 She pulled up the ship's supply manifest and started calculating. The food supply was provisioned for twenty crew awake for a year (seven thousand three hundred person-days) plus a five-day landing buffer for all three thousand colonists. Twenty-two thousand three hundred total. She divided. 
 
@@ -66,7 +66,7 @@ The engineer, Sable, who had apparently been sitting in the corner the entire ti
 
 Vonn frowned. "We wake and re-freeze crew routinely."
 
-"Crew pods are a ifferent spec." Sable set down her cup. "Passenger pods are single-use. The re-cryo protocol needs forty-eight hours of prep, per-passenger consumable kits we don't carry in emergency quantities, and pods that haven't been thermally compromised. These pods have been thermally compromised." She paused. "Multi-cycle certification costs maybe four times more per unit. Someone chose not to pay it."
+"Crew pods are a ifferent spec." Sable set down her cup. "Passenger pods are single-use. The re-cryo protocol needs forty-eight hours of prep, per-passenger consumable kits we don't carry in emergency quantities, and pods that haven't been thermally compromised. These pods have been thermally compromised." She paused. "Multi-cycle certification runs about forty percent more per unit. Someone chose not to pay it."
 
 Vonn was quiet for a moment.
 
@@ -194,7 +194,7 @@ She wrote the final number on the screen.
 
 She checked it twice. It was enough now.
 
-The twelve gathered slowly in the corridor outside. Most of them had boarded at Vethara 30 years ago, woken less than an hour ago, disoriented and cold, and were now beginning to understand they were not going back to sleep. 
+The twelve gathered slowly in the corridor outside. Most of them had boarded at Vethara 29 years ago, woken less than an hour ago, disoriented and cold, and were now beginning to understand they were not going back to sleep. 
 
 They did not know each other. Among them: a structural engineer with his blueprints still on his pad, a physician who had taken vitals before he'd put on shoes, a colony administrator who could read a room faster than anyone Mara had ever met. Twelve people with specific faces and specific reasons for being here.
 

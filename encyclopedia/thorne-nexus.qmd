@@ -23,7 +23,7 @@ The Thorne Nexus enables instantaneous communication and travel across interstel
 
 **Interstellar travel:** Massive gates at stellar Lagrange points. Energy-intensive, hazardous for living organisms, restricted to mission-critical uses.
 
-## Limitations (the load-bearing constraints)
+## Limitations (the constraints that shape everything)
 
 **High energy costs:** Prohibitively expensive for casual use. Cargo transport and interstellar travel are luxuries of the wealthy and powerful. FTL communication is broadly accessible; FTL travel is not.
 
@@ -39,13 +39,17 @@ FTL communication being cheap while FTL travel is expensive creates a specific k
 
 
 ::: {.callout-important collapse="true" title="Spoiler — click to open"}
-## Internal extension (not published)
+## What the Nexus entry leaves out
 
-Everything above went out on the Substack. Underneath it sits the layer that explains why an FTL network does not function as a time machine, why gates may only ever be carried by [Alcubierre vessels](/encyclopedia/warp-drive.html), why the network is deliberately maintained without a single redundant route, and what destroys a gate when protection fails.
-
-That material is in [chronology-protection](/encyclopedia/chronology-protection.html). It is internal, and it contains the mechanism behind the Great Scattering. Keep it out of any published export.
+Everything above is the account the Expansion Era gives of itself. Underneath it sits the layer that explains why an FTL network does not function as a time machine, why gate mouths may only ever be carried by [Alcubierre vessels](/encyclopedia/warp-drive.html), why the network is deliberately maintained without a single redundant route, and what destroys a gate when protection fails. That material is in [chronology-protection](/encyclopedia/chronology-protection.html).
 
 Note that the signature-pairing constraint described above — both mouths constructed together, in one place — is doing double duty. It was arrived at for signature reasons and it happens to also guarantee zero initial time offset between the mouths. The published entry gives the first reason. The second is the one that matters.
+
+**The founding pairs.** The published entry says new routes require reaching the destination by conventional means first, which is true of every route built since the Expansion Era and false of the ones the Expansion Era started from. Those came with the Genesis fleet: every seedship carried one half of a pre-paired set, all of them manufactured together at Sol before the Exodus, when the entire fleet was in one place and pairing them cost nothing.
+
+The pairs were assigned colony-to-colony rather than colony-to-Sol — Earth was not expected to survive and did not — in a pattern fixed before departure that contains no cycles.
+
+This is why the network is "dense near old human space, thin on the frontier," and why the reunion of the Genesis colonies happened as a wave rather than scattered across millennia. Nobody rediscovered anything. They inherited a switchboard, in orbit, that they spent nineteen hundred years becoming able to operate. See [chronology-protection](/encyclopedia/chronology-protection.html) and [propulsion](/encyclopedia/propulsion.html).
 
 See also: [galactic-timeline](/encyclopedia/galactic-timeline.html), [chronology-protection](/encyclopedia/chronology-protection.html).
 :::

@@ -45,11 +45,19 @@ The seedships were made out of the arsenal. The weapons assembled to end the spe
 
 The strangest feature of the Genesis programme — that the passenger manifest is a genetic library rather than a list of people — was not a philosophical choice by the Guides. It was the only configuration that closed.
 
-## Genesis Era — nothing
+## Genesis Era — nothing, and a telephone nobody can reach
 
-Colonies in the Genesis Era have no interstellar capability whatsoever. Not degraded capability: none. The seedship that brought them was expended on arrival, and rebuilding an Orion requires an industrial base that a first-generation colony will not have for centuries.
+Colonies in the Genesis Era have no interstellar capability whatsoever. Not degraded capability: none. The seedship does not land — it holds orbit and sends its payload down by descent vehicle — and rebuilding an interstellar drive from a first-generation colony's industrial base is a project of centuries.
 
-The isolation of the Genesis Era is not a cultural condition or a policy. It is physics. Each colony is alone because there is no object in its possession that can cross the distance, and its Guide is asleep.
+But the isolation is stranger than mere absence, and this is the fact the era turns on.
+
+**Every colony had a working Thorne mouth from the day it arrived.** It rode down from Sol aboard the seedship, pre-paired with a sibling mouth on another vessel (see [chronology-protection](/encyclopedia/chronology-protection.html)), and it is still up there, in orbit, attached to the hull of the ship that brought them.
+
+They cannot reach it. A colony that has just learned to farm cannot achieve orbit, and could not power a wormhole throat if it got there — the energy requirement is the binding constraint, and it is enormous. So the mouth waits, functional, nineteen centuries, a few hundred kilometres straight up.
+
+The isolation of the Genesis Era is not a cultural condition, not a policy, and not even quite an absence. It is a phone that has been ringing since the day they landed, in a room nobody can climb to.
+
+What ends the era is not discovery. It is the first colony to build a rocket and a power plant good enough to go and answer it.
 
 ## Expansion Era — the Alcubierre drive
 

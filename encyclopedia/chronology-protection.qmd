@@ -5,7 +5,7 @@ title: "Chronology Protection"
 
 Why the [thorne-nexus](/encyclopedia/thorne-nexus.html) is not a time machine, what has to go wrong for it to become one, and what the universe does about it when it does.
 
-Nothing in this entry has been published. The Nexus entry that went out describes the gate network's engineering and politics; this is the layer underneath it.
+The [thorne-nexus](/encyclopedia/thorne-nexus.html) entry describes the gate network's engineering and its politics. This is the layer underneath both: the reason the network has the shape it has, the reason it is laid the way it is laid, and the reason nobody is permitted to improve it.
 
 ## The problem
 
@@ -31,9 +31,45 @@ The Nexus survives because of what carries its gates. Gate mouths are transporte
 
 **This is the real reason the galaxy lays gates with warp ships.** Not economics, not tradition, not the deceleration advantage. A metric drive is the only transport method in existence that does not poison the cargo.
 
-The corollary is absolute and it is the strictest rule in Nexus law: **no gate mouth may ever be moved by a dilating method.** Forward sails, reaction drives, anything with a gamma. A sail-carried gate is not a cheaper gate. It is a weapon with a delivery date.
+### The transport law
+
+The rule is usually stated absolutely — *no gate mouth may be moved by a dilating method* — but the underlying arithmetic is graded, and the grading is unexpectedly clean.
+
+A mouth carried at velocity β arrives out of step with its twin by a fixed fraction of its own paradox threshold:
+
+> **offset ÷ threshold = (1 − √(1 − β²)) ÷ β**, which for modest speeds is very close to **β ⁄ 2**.
+
+The remarkable part is what does *not* appear. Distance drops out. Duration drops out. A mouth carried one light-year and a mouth carried a thousand arrive with the same fraction of their margin spent, because the threshold scales with the distance exactly as fast as the accumulated dilation does. **Only the speed matters.**
+
+| Transport | β | Margin consumed |
+|---|---|---|
+| Orion pulse, slow | 0.03 | 1.5% |
+| Orion pulse, fast | 0.10 | 5.0% |
+| Alcubierre, any generation | — | **0.0%** |
+| Forward sail, slow | 0.60 | 33% |
+| Forward sail, fast | 0.90 | 63% |
+
+This is why the prohibition sounds absolute in law and is not absolute in physics. Anything under roughly 0.2c is survivable. Anything above 0.8c is a weapon whether or not it was meant as one. And the Alcubierre drive is not merely the best option — it is the only one that spends nothing at all, which is a difference in kind rather than degree.
+
+The corollary that reaches statute: **no gate mouth may ever be moved by a dilating method.** Forward sails, reaction drives, anything with a gamma. A sail-carried gate is not a cheaper gate. It is a weapon with a delivery date.
 
 See [propulsion](/encyclopedia/propulsion.html) for why sails are otherwise attractive, and why this rule costs the Empire real money every year.
+
+### The founding gates
+
+The oldest mouths in the galaxy were carried by Orion pulse ships, at gamma, three hundred years at a time — which by the law above should have been catastrophic and was not.
+
+Every Genesis seedship carried one half of a pre-paired set. The whole fleet was built in one place, at Sol, in the final decades before the Exodus, so pairing them was trivial and was done wholesale. Those pairs are the origin of the entire Nexus network; every later route hangs off them.
+
+They arrived with about **five percent of their margin already spent** — one and a half years of offset against a thirty-year threshold, and less than that in practice, since a ship under acceleration and deceleration does not spend its whole voyage at cruise. Harmless individually. Permanent. Measurable, by anyone who thinks to measure.
+
+Two consequences run from this through the whole of galactic history.
+
+**The founding network carries an inherited debt.** Every original pair leans the same way, because every ship left the same star and braked at the far end. Those biases are small, they are real, and — the point — they **sum along any path that strings them together**. The Confederacy inherited a network whose safety margin was already five percent gone before anyone in it was born.
+
+**The founding topology is a tree, and it was chosen.** The pairs were not assigned Sol-to-colony; Earth was not expected to survive, and did not. They were assigned colony-to-colony, in a pattern fixed before departure. That pattern contains no cycles. It was not an accident and it was not an emergent property of frontier economics: somebody sat down before the Exodus and drew a graph with no loops in it, knowing exactly why.
+
+The Confederacy inherited the topology, inherited the doctrine of never closing a loop, and did not inherit the reason. For three thousand years the Great Houses enforced a rule whose justification had left with the people who wrote it.
 
 ## Barrier three — acyclic topology
 

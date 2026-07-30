@@ -23,6 +23,12 @@ Origin stories. Colonies form, found their cultures and technologies, develop th
 
 Around 14,500 SD, the first inter-galactic communication channel is established when two colonies independently rediscover FTL communication and contact each other. This ends the Genesis Era.
 
+
+::: {.callout-important collapse="true" title="Spoiler — click to open"}
+> **What actually happened.** "Independently rediscover" is what the colonies believed, and it is not what took place. Nobody rediscovered anything: every seedship carried a pre-paired Thorne mouth from Sol, parked in orbit since arrival. Two colonies reached the industrial threshold to get to orbit and power the throat at around the same time, and the reason they reached it at around the same time is that every Guide vault ran the same release schedule. What ends the Genesis Era is a capability milestone, not a discovery — and the "coincidence" of two colonies hitting it together, after nineteen centuries of independent development, has a cause nobody in the Expansion Era ever learns. See [chronology-protection](/encyclopedia/chronology-protection.html) and [thorne-nexus](/encyclopedia/thorne-nexus.html).
+:::
+
+
 Stories: [2023-10-22-tc-my-children](/chronicles/2023-10-22-tc-my-children.html)
 
 ## The Expansion Era (~14,500–18,000 SD)
@@ -67,7 +73,7 @@ Communications lost again. Most populations abandon home planets or move to unci
 
 
 ::: {.callout-important collapse="true" title="Spoiler — click to open"}
-> **Internal note (not published).** "Communications lost again" is an event, not a decline. The Nexus did not decay — it went off, in a cascade of gates destroying themselves across the galaxy over a span of years. The cause was self-inflicted physics, not the synths: wartime splicing broke three thousand years of acyclic-network discipline, closed timelike curves became possible, and chronology protection resolved them the only way it can. Nobody at the time understood why, and nobody afterwards recovered the explanation. Full mechanism in [chronology-protection](/encyclopedia/chronology-protection.html). This note is the reason the Scattering shatters rather than thins.
+> **What actually happened.** "Communications lost again" is an event, not a decline. The Nexus did not decay — it went off, in a cascade of gates destroying themselves across the galaxy over a span of years. The cause was self-inflicted physics, not the synths: wartime splicing broke three thousand years of acyclic-network discipline, closed timelike curves became possible, and chronology protection resolved them the only way it can. Nobody at the time understood why, and nobody afterwards recovered the explanation. Full mechanism in [chronology-protection](/encyclopedia/chronology-protection.html). It is why the Scattering shatters rather than thins.
 :::
 
 

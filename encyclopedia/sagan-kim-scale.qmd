@@ -37,12 +37,22 @@ Stars, extreme radiation environments. No human presence possible.
 
 The scale creates the defining social fracture of the TC universe. Level 6 and 7 individuals can move freely, fostering rich cultural exchange. Level 5 individuals can travel with assistance. Level 4 and below are effectively locked in — their adaptations make them biologically incompatible with most other environments, leading to isolation and potential conflict with more mobile populations.
 
-This is not incidental to the TC universe. It is the load-bearing constraint that shapes everything: the Great Houses, the Confederacy, the divergence of colonial cultures, the legal and social status of adapted vs. non-adapted humans.
+This is not incidental to the TC universe. It is the constraint everything else rests on: the Great Houses, the Confederacy, the divergence of colonial cultures, the legal and social status of adapted vs. non-adapted humans.
 
-## Narrative uses
+## Adapted populations
 
-- A Level 5 world like Aranda requires careful founding: no margin for demographic error, no correction mechanisms, no supply lines. The founding population is the colony.
-- A Level 6 hub like Vethara has infrastructure, supply chains, and the ability to absorb bad colony planning.
-- Level 4 worlds produce populations that effectively cannot leave — their stories are planetary by default.
+Adaptation is not a subtle process. A population modified across generations for a Level 4 or Level 5 world diverges visibly from unmodified human stock — in stature, in colouring, in build, in the tolerances of the skin and the eye. The direction of the change follows the world, so no two adapted populations drift the same way.
+
+The social consequence is obvious and the historical consequence is not: **when two branches of the Genesis diaspora meet after millennia apart, they may not recognise each other as the same species.** One may be adapted past resemblance. The other may have regressed past the memory of ever having had a origin at all.
+
+
+::: {.callout-important collapse="true" title="Spoiler — click to open"}
+This is what is actually happening in *The Sky Is Alive*. The "Silver Gods" — taller, lighter, stronger, faster, silver-skinned, golden-eyed — are not aliens. They are an adapted human population from a low-tier world, visiting a Genesis colony that has lost its technology and its history and taken them for divinities.
+
+There are no non-human sapients in the Transcendent Chronicles. Every intelligence in the galaxy is either descended from Earth, built by something descended from Earth, or a Guide. The reversal in that story is not human-meets-alien. It is two cousins meeting, one of whom cannot tell, and the gods dying of a family illness their instruments have never seen because it has had nineteen centuries to become local.
+:::
+
+
+
 
 See also: [generation-ships](/encyclopedia/generation-ships.html), [aranda](/encyclopedia/aranda.html), [vethara](/encyclopedia/vethara.html).
