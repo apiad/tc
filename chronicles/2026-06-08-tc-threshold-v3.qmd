@@ -1,0 +1,219 @@
+---
+title: "The Threshold"
+subtitle: "Expansion Era (~15,500 SD)"
+---
+
+
+The cryo bay hummed the wrong way.
+
+Mara Solis noticed it before she noticed anything else: before the cold that still lived in her joints, before the antiseptic smell of the recovery station, before the faces of the two men already standing at the monitoring console twenty meters away. The pitch was off, low and irregular.
+
+She sat up on the recovery pad. Her vision resolved unevenly, the console lights sharp, the faces smeared. Emergency wake: the body available before the mind. She had a couple of borrowed lucidity before the crash, and she already knew she was going to spend it badly. Lt. Renn, the watch officer, was speaking in a low voice to two Zone A colonists: Osei Mensah, already dressed and done taking vitals (awake longer than the rest, apparently) and Lenn Varos, who was holding his thermal blanket and watching Renn with a still expression.
+
+"Minor sensor fault," Renn was saying. "We're logging it. Probably a calibration drift in Zone A. These things happen."
+
+Someone pressed a blanket into Mara's hands. She wrapped it around her shoulders without looking.
+
+"Can I see the wake log?" she asked.
+
+Renn looked at her. "You just woke up. Get some rest."
+
+"I know. Can I see the wake log?"
+
+---
+
+The log was on the secondary console, accessible to all colonists. No one had thought to restrict it because no one had thought it mattered. Mara pulled it up and looked at the pod IDs and timestamps for forty-five seconds without speaking.
+
+She was a demographer. She modeled populations for a living: growth curves, resource projections, settlement density distributions. Her entire career was built on reading numbers that most people saw as noise and understanding what they were actually saying. She was good at it because she was deliberate. Because she checked her work. Because she never presented a number she wasn't certain of.
+
+A Tier 5 settlement had no margin for demographic error. Aranda wasn't a hub; it was an endpoint. The founding three thousand would be the colony: no supply lines, no correction mechanism, nothing to import if the age distribution broke wrong or the skill ratios failed. She was on this ship because the math mattered.
+
+Now these numbers were saying something. And she was the only one listening.
+
+She mapped the pod IDs against the ship's zone layout. The numbers moved sluggishly through the cold-and-stimulant fog before they settled, longer than usual. She ran it twice. Zone A: aft section, engine-adjacent. All five woken pods were in Zone A. Not distributed. Not random sensor drift. A front, moving outward from the stern.
+
+The intervals between wake times were shrinking. That seemed important, but her brain was still foggy. She wanted ten minutes: to run the exclusions, to rule out the two alternative explanations before she opened her mouth. The intervals were still shrinking.
+
+"This is exponential," she said.
+
+"What?" said Renn.
+
+She turned. Osei had moved closer. He had his medical pad in his hand and was watching her. Something in his posture loosened.
+
+"The wake intervals are compressing," Mara said. "This isn't a sensor fault. The resonance front is spreading outward from the engine. Zone A is breached. Zone B breaches in..." she looked at the timestamps again, "approximately three hours. If my math is right."
+
+Renn said: "There's only five people..."
+
+"Five people now," she interrupted, "but we'll be 200 in three hours. Look." 
+
+She pulled up the ship's supply manifest and started calculating. The food supply was provisioned for twenty crew awake for a year (seven thousand three hundred person-days) plus a five-day landing buffer for all three thousand colonists. Twenty-two thousand three hundred total. She divided. 
+
+"If Zone B wakes, we have two hundred and fifty permanently awake colonists. Two hundred and fifty people for three hundred and sixty-five days is ninety-one thousand person-days. We have twenty-two thousand." She looked at him. "We starve on day eighty-nine. We don't reach Aranda."
+
+The cryo bay was very quiet.
+
+"She's right about the location," Lenn said, from somewhere behind her. He had the hull blueprints on his own pad. "All five woken pods are in the A-ring. Engine-adjacent."
+
+---
+
+Mission Director Aldric Vonn arrived twelve minutes later, which was how long it took the watch crew to decide this was worth waking him for. He was well-dressed even in cryo-clothes, which Mara found somewhat amussing. He listened to Renn's summary without interrupting.
+
+"Put them back to sleep," he said. "Run the standard re-cryo protocol and close the loop."
+
+The engineer, Sable, who had apparently been sitting in the corner the entire time drinking something hot and saying nothing, looked up.
+
+"Passenger pods are single-use," Sable said.
+
+Vonn frowned. "We wake and re-freeze crew routinely."
+
+"Crew pods are a ifferent spec." Sable set down her cup. "Passenger pods are single-use. The re-cryo protocol needs forty-eight hours of prep, per-passenger consumable kits we don't carry in emergency quantities, and pods that haven't been thermally compromised. These pods have been thermally compromised." She paused. "Multi-cycle certification costs maybe four times more per unit. Someone chose not to pay it."
+
+Vonn was quiet for a moment.
+
+"The five woken colonists," Mara said, as if convincing herself of what now seemed obvious, "are committed. We're awake for the remaining of the journey." She let that sink in. Everyone was looking at her. "What we can still prevent is Zone B from waking up entirely. We have approximately two hours and forty minutes. After that... we're all fucked."
+
+---
+
+The decision to wake Captain Drel burnt another twenty minutes. Renn made it, finally: stated it aloud, checked the timestamp on his authorization pad, and set the pad down. The watch logs would record the time; the post-voyage audit would assess whether he'd waited too long.
+
+Crew pods used scheduled wake: gradual rewarming, no stimulants, no stress spike to put her on her feet in ten minutes. No borrowed lucidity. Drel would arrive properly conscious, but she was forty minutes away. And forty minutes was too long.
+
+In the interim, a fifth colonist woke, a woman named Cassidy, colony administrator, who sat up on her recovery pad, pressed both hands flat against it as if confirming gravity, and then, still clearly running on the stimulus cocktail's borrowed clarity, looked around the bay. She walked directly to Mara's console and said, quietly: "Tell me."
+
+Mara told her. Cassidy nodded once and went to talk to Vonn.
+
+---
+
+Sable had moved to stand behind Mara and was looking at the resonance data with the same narrowed, unhurried attention she'd given everything else.
+
+"Dampener calibration drift," she said. "That's what's pushing the resonance above the pod shielding threshold. It's a software fix. I can recalibrate from the panel in the engine room. Twenty minutes if it's straightforward."
+
+Mara checked the timestamps. "Zone B goes live in one hour and forty-four minutes."
+
+"Then I'll be done in twenty, sugar." Sable smiled, picked up her kit from the corner (she had apparently already retrieved it) and headed for the door.
+
+---
+
+Vonn stepped into her path.
+
+"No you don't. There's protocol." His voice was precise. "Physical access to an active warp engine room requires a waiver signed by a command officer. Watch officer grade minimum." He looked at Renn.
+
+Renn said nothing. His hand didn't move toward the authorization pad.
+
+Sable stopped at the door. 
+
+Mara checked the clock. One hour and forty-three minutes.
+
+"What the fuck...", Mara started, but Cassidy, who had been quiet for the past ten minutes, moved now. 
+
+Not to Renn, not to Sable, but to Vonn. She stood beside him and looked at the console where Mara's supply math still showed on the screen.
+
+"You have full charter authority to authorize emergency protocol waivers," she said.
+
+"I know."
+
+"Your name is on the colonial manifest. All three thousand lives in this ship are now under your responsibility."
+
+Vonn said nothing.
+
+"When they audit this voyage, and they will audit it, the log will show either that you authorized a repair attempt that succeeded, or that you were the last person who could have moved and didn't." She was quiet for a moment.
+
+Vonn looked at the screen. Then at Sable. Then at the screen. He still hesitated.
+
+Then Captain Yeva Drel appeared in the doorway.
+
+She was wrapped in a thermal blanket, holding an electrolyte pack, and was clearly approximately fifty percent present, judging from her expression. Her eyes moved across the room: the console, the zone map, Sable at the door, Vonn in the middle. Slow, taking each thing in once. She looked at Vonn.
+
+She didn't say anything. Vonn signed the waiver on his authorization pad and held it out to Renn.
+
+Fifteen minutes gone. Zone B in one hour and twenty-nine minutes.
+
+Sable went through the door.
+
+---
+
+The wake log showed six awake. Then seven.
+
+Mara watched the intervals. She had the graph on one side of the console and the resonance readings on the other. Osei sat next to her. Neither of them said anything useful.
+
+Then Sable's voice from the engine room: "I have the dampener array. Calibration is off. Patching now."
+
+Eight minutes later the resonance readings moved. The wrong way.
+
+The recalibration had pushed current through the primary loop. The heat signature spiked. On Mara's zone monitor, the Zone B breach countdown dropped from forty-two minutes to twenty-two.
+
+"That made it worse," Osei said.
+
+"I know," Mara said.
+
+She was already looking at the thermal gradient. The spike was wrong for dampener failure: dampener drift produced even distribution across the resonance field. This was asymmetric. Heat-side only. Left of the primary loop.
+
+She knew what that meant. Actually, she was about 75% sure she knew what that meant. The correct thing was to run the exclusion calculations, work through the two alternative explanations, confirm before she sent Sable to the wrong component with nineteen minutes on the clock.
+
+She started running them.
+
+Zone B in nineteen minutes.
+
+Seventeen.
+
+Fourteen.
+
+She stopped.
+
+More time wasn't going to move the number. She had built a career on not guessing. She had watched colony plans fail because someone acted on 80% certainty and got it wrong.
+
+The thermal gradient was asymmetric. Heat-side only. Left of the primary loop.
+
+That was a coolant loss signature. She was 75% sure and she was going to have to be.
+
+"Sable." She transmitted the thermal gradient data. "It's not the dampeners. Look at the asymmetry, left of the primary loop. That's a coolant loss signature. Not calibration."
+
+Eight seconds of silence.
+
+Then: "Fuck. You're right. Coolant access hatch. I'll be in and out in five."
+
+Zone B in twelve minutes.
+
+"I hope you do." Mara said, lowly. She her hands flat on the console and did not move them.
+
+---
+
+Four minutes in, the comms ringed again: "Coolant sealed. Resonance nominal and dropping."
+
+She stared at the graph. The intervals between wake events were lengthening. The rate was dropping. She watched it for three minutes, waiting for it to be noise.
+
+It wasn't noise.
+
+On the zone monitor, the Zone B array stayed green.
+
+---
+
+Twelve Zone A colonists were permanently awake. She ran the consumption math. Twelve people, three hundred and sixty-five days, against twenty-two thousand three hundred person-days of supply. Four thousand three hundred and eighty person-days added to the burden. Within margin. Survivable.
+
+She wrote the final number on the screen.
+
+She checked it twice. It was enough now.
+
+The twelve gathered slowly in the corridor outside. Most of them had boarded at Vethara 30 years ago, woken less than an hour ago, disoriented and cold, and were now beginning to understand they were not going back to sleep. 
+
+They did not know each other. Among them: a structural engineer with his blueprints still on his pad, a physician who had taken vitals before he'd put on shoes, a colony administrator who could read a room faster than anyone Mara had ever met. Twelve people with specific faces and specific reasons for being here.
+
+She modeled populations for a living. She had spent her career looking at numbers that represented futures: trajectories, distributions, aggregate pressure points. The numbers had always been the point. She was good with numbers.
+
+She looked at the twelve people in the corridor. The structural engineer had his pad under one arm. The physician was still in his socks.
+
+She put the consumption math away.
+
+---
+
+Sable came back from the engine room forty minutes after she'd left. Slightly singed along one forearm. She looked at Mara's console, at the flat line on the wake-rate graph where the exponential had stopped.
+
+"Nice curve," she said.
+
+"Ugly one," Mara said.
+
+"Yeah. I think I need drink or two," said Sable.
+
+The stimulants were starting to wear off, and she was feeling it. Sable must have too, her face showed as much.
+
+"You and me both, girl." She said. They went to find something to eat.

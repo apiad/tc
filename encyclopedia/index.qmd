@@ -1,0 +1,34 @@
+---
+title: "The Galactic Encyclopedia"
+subtitle: "The world"
+---
+
+::: {.callout-note}
+Some entries carry a collapsed **Spoiler** panel. Nothing opens on its own.
+:::
+
+## History
+
+- [The Galactic Timeline](galactic-timeline.qmd) — the nine eras
+- [Stellar Calendars](stellar-calendar.qmd) — Stellar, Local and Imperial dating
+
+## Getting between stars
+
+- [Propulsion](propulsion.qmd) — the whole ladder, era by era, including the drives that never worked
+- [The Alcubierre Drive](warp-drive.qmd) — how warp actually behaves, and what it costs the traveller
+- [The Thorne Nexus](thorne-nexus.qmd) — traversable wormholes and the constraint that shaped galactic politics
+- [Chronology Protection](chronology-protection.qmd) — why an FTL network is not a time machine
+- [Generation Ships](generation-ships.qmd) — three generations of colony vessel
+- [Cryo-Sleep](cryo-technology.qmd) — how sleeping through a voyage works, and what it costs
+
+## Worlds
+
+- [The Sagan-Kim Scale](sagan-kim-scale.qmd) — habitability tiers 0 through 7
+- [Vethara](vethara.qmd) — Expansion Era hub, a world that knows about departure
+- [Aranda](aranda.qmd) — Tier 5, thirty light-years out, and the only reason anyone is aboard
+
+## People and powers
+
+- [House Varen](house-varen.qmd) — colonial charter corporation, proto-Great House
+- [Synth Technology](synth-technology.qmd) — how synthetic beings are made and what they became
+- [Lys](lys.qmd) · [Soren Vael](soren-vael.qmd) · [Mireth](mireth.qmd)

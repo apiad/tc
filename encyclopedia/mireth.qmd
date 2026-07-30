@@ -1,0 +1,53 @@
+---
+title: "Mireth"
+subtitle: "Imperial Era (~2,500 ID)"
+---
+
+
+Provincial hub city and home base for the Imperial Cases series. Located on a Tier 6 world in the middle reaches of the Empire — not a capital, not a frontier, but the kind of place where Imperial authority is formally present and practically stretched thin.
+
+---
+
+## The World
+
+Tier 6: comfortable for unmodified humans. The biology is alien but non-hostile. The star is G-type, stable. Day length close to standard. The world was settled early in the Expansion Era and has been inhabited for over two thousand years by 2,500 ID; the alien ecosystem has been partially displaced and partially integrated into colonial life, with the usual tensions that produces.
+
+The world's name in the lore is kept vague in published stories — it is referred to by the city name, which is how its inhabitants refer to it. Mireth is both the city and, colloquially, the world.
+
+---
+
+## The City
+
+Mireth is a mid-tier trading hub: large enough for four Great House commercial presences, small enough that everyone in a given district knows each other's business. Population in the hundreds of thousands, with a transient layer of merchants, travelers, and Thorne Nexus passengers that inflates the effective population considerably.
+
+**District character.** The city has distinct neighborhoods organized by function and House influence. The administrative quarter near the center is all Imperial bureaucracy and Great House offices — expensive, formal, slow. The port district (historically ground-level before the Nexus moved everything to orbit) is now primarily the hub for in-system shipping and short-haul travel, denser and more chaotic. Residential districts organize loosely by class and, increasingly, by how much synth-human integration the locals tolerate in daily life — a fault line that doesn't map neatly onto economics.
+
+**House presence.** House Varen has a secondary commercial office and colonial charter operations center here. At least three other Great Houses maintain trade offices. The competition between them is commercial and conducted through lawyers, contracts, and occasional sabotage. Local governance is technically Imperial but functionally influenced by whichever House currently has the best relationship with the city administrator, which changes every few years.
+
+**Synths.** Visible everywhere. Doing dock labor, administrative work, professional services, skilled trades. The social reality of synths-as-near-persons is fully normalized in Mireth; the legal reality is not. The city has no official policy on how to handle synth disputes beyond referring them to their registered owners. The gap produces situations that fall to the district constabulary, private investigators, and occasionally no one.
+
+---
+
+## Mireth Orbital
+
+The Thorne Nexus gate above Mireth sits in high orbit. Access requires either the city's public space elevator — a slow climb, roughly four hours, with queue times that vary by season and traffic — or a private shuttle, which can reach orbit in under an hour but costs accordingly.
+
+**Mireth Orbital** is the station that manages gate traffic, docking, and transit services. It is technically Imperial jurisdiction; practically, the competing House interests that pay for its maintenance mean authority is negotiated rather than clear. The station has a permanent population of a few thousand (dock workers, gate technicians, administrators, a small service economy) and a transient population that can double that during heavy transit periods.
+
+The Orbital is the most cosmopolitan place in the system. People from a dozen systems pass through on any given day. Synth legal status is particularly ambiguous here: whose jurisdiction applies when you are between the city below and the Nexus gate above? The question has not been definitively answered by Imperial courts. This ambiguity is exploited in both directions.
+
+**The elevator.** A single public space elevator serves the city. The cable anchor is in the port district; the counterweight station is well above geostationary orbit. The ride is long enough to be a setting in itself: four hours of slow ascent, small cars, strangers in close quarters, nothing to do but talk or look out the window at the world getting smaller. The elevator is the working-class route to the Nexus; it runs continuously but queues build.
+
+**Private shuttles.** Available from the port district. Several competing operators, ranging from licensed transit companies to individual pilots who own a shuttle and file the minimum required paperwork. Cost is roughly twenty times the elevator fare for a single passenger. A client paying for investigation work typically funds shuttle transit; an independently-taken case means the elevator.
+
+---
+
+## Travel From Mireth
+
+The Thorne Nexus gate above Mireth connects to a network of paired gates across the Empire. The signature-pairing constraint (see [thorne-nexus](/encyclopedia/thorne-nexus.html)) means only pre-paired destinations are accessible from any given gate. Mireth's gate is a mid-tier hub: more connections than a fringe world, fewer than a capital. Perhaps a dozen paired destinations, spanning a range of travel times once through the gate.
+
+The gate itself is not the bottleneck — transit is near-instantaneous. The bottleneck is access: gate booking fees, transit taxes levied by House interests, and the queue for departure windows.
+
+Travel to non-gate worlds requires reaching the nearest gate world by slowboat first, then transiting. This can add weeks or months. Truly remote destinations in the Expansion-era fringe are still weeks by conventional drive even after a Nexus hop.
+
+---

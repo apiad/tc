@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "chronicles/*.qmd"
+    - "encyclopedia/*.qmd"
+
+website:
+  title: "The Transcendent Chronicles"
+  description: "Thirteen thousand years of human history, after Earth."
+  site-url: https://apiad.github.io/tc
+  navbar:
+    background: dark
+    left:
+      - text: The Chronicles
+        href: chronicles/index.qmd
+      - text: Galactic Encyclopedia
+        href: encyclopedia/index.qmd
+    right:
+      - text: Substack
+        href: https://transcendentchronicles.substack.com
+  page-footer:
+    center: "The Transcendent Chronicles — a work of science fiction by Alejandro Piad Morffis"
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: flatly
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    anchor-sections: true

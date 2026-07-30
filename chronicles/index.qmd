@@ -1,0 +1,25 @@
+---
+title: "The Chronicles"
+subtitle: "The fiction"
+---
+
+Stories from across thirteen millennia. They are not in chronological order of
+writing, and they do not need to be read in any particular order — but the
+prologues are a reasonable place to begin.
+
+## Exodus Era
+
+- [Prologue: The Exodus](2023-10-19-tc-prologue-exodus.qmd)
+
+## Genesis Era
+
+- [My Children](2023-10-22-tc-my-children.qmd)
+
+## Expansion Era
+
+- [The Threshold](2026-06-08-tc-threshold-v3.qmd)
+- [The Sky Is Alive](2023-10-23-tc-sky-is-alive.qmd)
+
+## Frame
+
+- [Prologue: The Historian](2024-09-02-tc-prologue-historian.qmd)

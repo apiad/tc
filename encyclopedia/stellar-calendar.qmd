@@ -1,0 +1,52 @@
+---
+title: "Stellar Calendar and Local Calendars"
+---
+
+
+The TC universe uses three interoperable calendar systems. At almost every point in the story, there is one agreed-upon global time-tracking system alongside local planetary variants.
+
+## The Stellar Calendar (SD)
+
+The primary galactic calendar, used from the Exodus Era through the founding of the Empire.
+
+**Base units:**
+- Standard second: 9,192,631,770 periods of the ground-state hyperfine transitions of cesium-133 (approximately 1/86,400 of an Earth day)
+- Standard day: average Earth rotation period
+- Standard year: one Earth orbit around the Sun
+
+**Date format:** `YEAR.DAY:SECONDS SD`
+Example: `12,378.56:23056 SD` = year 12,378, 56th day, second 23,056 of that day (~6:20 AM).
+
+**Year zero:** Set approximately 12,300 years before the Exodus Era, or equivalently ~10,000 years before the beginning of the Catholic Calendar. The motivation: the first human settlements appeared roughly 10,000 years before the Catholic Calendar, so this reference point is more culturally agnostic.
+
+**Relativistic correction:** Ships' AIs account for relativistic time dilation during transit, recomputing all internal logs to match Stellar Calendar time once landed, using a frame centered on the galaxy's center of mass at relative rest with respect to the galaxy as a whole.
+
+All Genesis ships were synchronized to the Stellar Calendar before departure, ensuring that when two colonies eventually made contact, their historical records could be aligned.
+
+## Local Calendars (LD)
+
+Upon arrival at a habitable planet, the Genesis ship AI computes local year and day durations and defines a Local Calendar with the same mechanism as the Stellar Calendar but centered on that planet. The moment of landing = year zero, day 1.
+
+**Date format:** `YEAR.DAY:SECONDS [Planet name] LD`
+Example: `7.67.8540 Eos LD`
+
+Conversion between local and stellar dates is mathematically exact and computationally trivial. During the Expansion Era, interstellar travelers used Stellar Calendar; locals used their planetary calendar for everyday life.
+
+## The Imperial Calendar (ID)
+
+Introduced when the Empire formed (~18,400 SD). Uses the founding date of the Galactic Empire as year zero, and the orbital parameters of Imperial City as the year/day reference.
+
+The Empire pushed hard for adoption, but many on the fringes retained the Stellar Calendar for a long time. Conversion is as simple as any other local calendar — just a fixed offset.
+
+**ID format:** Same as SD but offset by ~18,400 years, ending in `ID`.
+
+ID originally meant *Imperial Dominion* (formal documents); colloquially called *Imperial Date* by almost everyone.
+
+## Usage in stories
+
+- The Exodus Era and Genesis Era use SD.
+- The Expansion Era uses SD (with local LD variants in dialogue and setting).
+- The Imperial Era uses ID, though SD remains in use on the fringes.
+- The Great Scattering sees widespread fragmentation back to primitive local systems.
+
+When writing TC, always include the calendar designation (SD, LD, or ID) with any specific date. The story title card format used in this project is `~[approximate year] SD` for the Expansion Era (e.g., `~15,500 SD`).

@@ -1,0 +1,113 @@
+---
+title: "The Alcubierre Drive"
+---
+
+
+Called *warp* by everyone who is not writing a certification document. The drive that carries the Expansion Era, that moves every colony ship in [generation-ships](/encyclopedia/generation-ships.html), and whose failure mode is the crisis aboard the CGSS Threshold.
+
+Named, like the [thorne-nexus](/encyclopedia/thorne-nexus.html) and the [sagan-kim-scale](/encyclopedia/sagan-kim-scale.html), for the person who first wrote it down — a courtesy the Expansion Era paid to a planet none of them had seen.
+
+## What it does
+
+The Alcubierre drive does not move a ship. It moves a region of space with the ship inside it.
+
+The field generators contract spacetime ahead of the vessel and expand it behind, producing a travelling distortion — a bubble — with a flat interior. The ship rests at the centre of that flat interior, in free fall, at rest with respect to its immediate surroundings. It is not accelerating. It has never accelerated. The bubble is what travels.
+
+Everything strange about warp travel follows from that one sentence, and nothing else needs to be invented.
+
+## The three properties
+
+### It cannot exceed c, and the reason is not speed
+
+The ceiling is not a limit on how fast the bubble can be driven. It is a limit on whether the crew can ever turn it off.
+
+At superluminal bubble velocity the leading wall of the distortion outruns any signal sent to it from inside. The front of the bubble becomes causally disconnected from the interior. The crew cannot steer it, cannot adjust its geometry, and — the part that matters — **cannot collapse it**. A ship that crosses c is sealed inside a container that is moving faster than its own instructions.
+
+So the limit is not "you cannot go faster than light." The limit is **past c you can never stop**, and the physics offers no second chance, because the moment of the crossing is also the moment control is lost.
+
+Every certification body from the CGSS forward writes the ceiling into the drive at the hardware level. The margin is generous and non-negotiable, and third-generation ships run at effective velocities around 0.98c precisely because the last two percent is where careers and vessels end.
+
+### The Runners
+
+The prohibition has been broken. During the Great Wars, vessels were driven past the threshold deliberately — some as weapons, some by crews who did not believe the theory, at least one as an act of desperation whose circumstances are disputed.
+
+They are still running. A superluminal bubble cannot be collapsed from inside, cannot be intercepted from outside (intercepting it would require exceeding c, which produces a second Runner rather than a rescue), and does not decay on any timescale that matters. Their crews have been dead for thousands of years. The bubbles have not noticed.
+
+They are detectable only as gravitational wakes — a faint, fast, impossible signature crossing a survey field once and never returning. Frontier astronomers log them. Post-Scattering populations, who have lost the physics but kept the sightings, call them the ships that never stopped, and are correct.
+
+Each of them is going somewhere. Some of them will arrive.
+
+**And the seal is not an accident.** A superluminal bubble is a causality violation, and the universe does not permit those to be *used*. A Runner cannot signal, cannot be signalled, cannot be boarded, and cannot be intercepted by anything that would not immediately become a second Runner — so it can never participate in a closed loop. The horizon that traps the crew is chronology protection arriving early and doing its work quietly. The universe does not stop a ship from crossing c. It stops the ship from telling anyone. See [chronology-protection](/encyclopedia/chronology-protection.html).
+
+### It grants no time dilation
+
+Inside the bubble spacetime is flat and the ship is at rest. There is no relative velocity, therefore no gamma, therefore no dilation and no length contraction. Ship time equals coordinate time exactly.
+
+Thirty light-years costs thirty years. Not thirty years of the universe and four of yours — thirty years of yours.
+
+This is the single most consequential fact about the Expansion Era and the easiest to underestimate. A relativistic reaction drive at 0.98c would deliver a traveller to Aranda having aged six years. The Alcubierre drive delivers them having aged thirty. **Warp takes away the one gift relativity gives the traveller**, and gives back the ability to carry three thousand people and their cargo, which no reaction drive can do at any speed.
+
+The whole social architecture of the era rests on this trade. Cryogenics is not a luxury or a convenience aboard a warp ship — it is the only thing that makes the voyage survivable, which is why [cryo-technology](/encyclopedia/cryo-technology.html) treats cryo as infrastructure rather than as a hazard. The two technologies are locked together. Neither is usable without the other.
+
+It is also why departure is a permanent social event on worlds like [vethara](/encyclopedia/vethara.html). There is no version of the physics in which you leave, arrive, and come back to the people you knew.
+
+### It carries no momentum
+
+The ship never moved. It has no velocity to lose.
+
+Two consequences, in opposite directions:
+
+**Deceleration is free.** A warp ship performs no braking manoeuvre, budgets no fuel for arrival, and needs no infrastructure at the destination. It reduces bubble velocity to zero and it is stopped. Approach is a matter of throttling down, not of turning around. This is the drive's quiet advantage over every reaction drive and every sail, and it is why warp — and only warp — can open new routes.
+
+The absence of dilation has a second consequence, and it is the one that matters most to galactic civilization. Because a warp ship accumulates no proper-time difference, it is **the only transport method that can carry a Thorne gate without turning it into a time machine**. Every other method poisons the cargo. This is the actual reason the Nexus is laid by warp vessels, and it is not published. See [chronology-protection](/encyclopedia/chronology-protection.html).
+
+**There is no fallback.** A ship that loses its drive does not coast. It does not drift toward anything. It has no ballistic trajectory to fall back on, because it never had a trajectory at all. It stops, instantly and completely, wherever the failure occurred — which on a typical crossing is fifteen light-years from the nearest object of any kind.
+
+Reaction drives fail into a slow problem. Warp fails into a full stop in deep space, with no momentum, no beacon that anyone can reach, and no possibility of rescue by any means the era possesses. A warp ship is either working or it is a tomb at a set of coordinates nobody will visit.
+
+Crews know this. It is the reason CGSS drive-room culture is what it is.
+
+## Resonance
+
+The bubble is held by a standing wave in the field generators. Like any standing wave it has a mode structure, and the mode structure is not smooth — the bubble wall has harmonic content, and that content couples to matter inside the bubble at specific frequencies.
+
+**The bubble's geometry depends on the mass distribution it encloses.** This is the operationally critical fact. A warp bubble is shaped partly by the ship inside it, so moving mass around within the hull shifts the mode structure of the wall. On a warp vessel, cargo distribution is a flight-critical parameter, not a stowage convenience. Manifests are balanced to tolerances that look absurd to anyone who has only crewed in-system.
+
+**Resonance drift** is the mode structure wandering off nominal. Causes, in order of frequency: generator calibration decay over decades of continuous operation, coolant loss, drive damage, and abnormal mass distribution.
+
+Cryo pods are shielded against resonance up to a calibrated threshold. Above it the shielding itself heats, the pod reads heating as a threat to its occupant, and it initiates emergency wake. This is a safety feature working exactly as designed — sustained above-threshold exposure would cause cellular damage, and emergency wake is the lesser harm. See [cryo-technology](/encyclopedia/cryo-technology.html).
+
+**Why you cannot simply drop the bubble and fix it.** Re-establishing a bubble costs an energy spike far above cruise draw, and no colony ship carries the reserve for an unscheduled restart. And while the bubble is down the ship is not coasting toward its destination — it is motionless, because it never had momentum. Dropping the bubble mid-voyage to perform maintenance means betting the entire voyage on a restart the ship cannot guarantee.
+
+The answer to "why not just stop and repair it" is the same as the answer to "why not just put them back to sleep." The capability was not specified, the margin is not present, and there is no workaround.
+
+## Power, and why the generations differ
+
+A warp ship is a power plant with a hull attached. It is not a fuel tank.
+
+Bubble maintenance is a **continuous draw**, not an expenditure of delta-v. The drive consumes reactor output every second of a thirty-year crossing, and bubble velocity scales with sustained power output rather than with stored propellant. This inverts every intuition inherited from reaction drives: warp ships do not run out of fuel at a distance, they run out of *power*, and running out of power means the bubble collapses and the ship stops forever.
+
+Fuel margin is therefore the standing terror of warp navigation, and it is a margin on a thirty-year integral rather than on a manoeuvre.
+
+It also explains the progression in [generation-ships](/encyclopedia/generation-ships.html) cleanly. First- and second-generation warp vessels do not use different geometry from third-generation ones. They use the same geometry with weaker reactors:
+
+| Ship generation | Era | Effective velocity | Crossing (30 ly) |
+|---|---|---|---|
+| Second generation | Early Expansion, ~14,500–15,000 SD | 0.3–0.6c | 50–100 yr |
+| Third generation | Mid Expansion, ~15,000–18,000 SD | 0.7–0.98c | 20–50 yr |
+
+The improvement of the Expansion Era is a reactor story. Nobody learned anything new about the drive; the theory arrived complete in the vaults. They learned to build better power plants, over two thousand years, at the speed a society can grow without collapsing.
+
+The CGSS Threshold runs at approximately 0.98c effective — thirty light-years from [vethara](/encyclopedia/vethara.html) to [aranda](/encyclopedia/aranda.html) in a thirty-year crossing. It is at the upper end of what third-generation certification permits, which is unremarkable for a Varen charter and entirely normal for the route.
+
+## What a crossing is actually like
+
+There is nothing to see. The bubble wall is opaque to the interior; external starlight does not enter in any usable form, and navigation is dead reckoning against the drive's own integrated record. A warp voyage has no view.
+
+There is no sensation of motion, because there is no motion. There is no acceleration, no thrust gravity, no turnover at midpoint. Ships under warp are configured for spin gravity or for free fall, exactly as they would be at dock.
+
+What there is: a thirty-year continuous power draw, a standing wave that must be held inside tolerance for its entire duration, and a crew rotation designed around the fact that nothing will happen and something might.
+
+
+
+See also: [propulsion](/encyclopedia/propulsion.html), [thorne-nexus](/encyclopedia/thorne-nexus.html), [generation-ships](/encyclopedia/generation-ships.html), [cryo-technology](/encyclopedia/cryo-technology.html).

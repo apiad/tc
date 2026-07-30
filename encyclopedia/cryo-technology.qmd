@@ -1,0 +1,56 @@
+---
+title: "Cryo-Sleep Technology"
+---
+
+
+## How It Works
+
+Cryo-sleep in the TC universe is metabolic suspension via controlled hypothermia combined with a cellular protectant cocktail.
+
+**Pre-freeze protocol (48 hours):** Cellular protectants introduced intravenously. The body is cooled in stages. Metabolic activity reduces to near-zero. Precise slow-cool prevents ice crystal formation in cells — the primary cause of cryo-induced organ damage.
+
+**Suspension:** Core temperature maintained at target range by the pod's thermal management system. Power draw minimal. The passenger is biologically inert. No dreams. No subjective experience of time passing.
+
+**Wake protocol (scheduled):** Gradual rewarming over 4–6 hours. Recovery: 30–60 minutes of confusion, physical weakness, temperature dysregulation. Eating and moderate activity within 2 hours. First scheduled wake after a long voyage feels disorienting — the colonist who boarded is the same person who exits, while everything they left behind has aged by decades.
+
+## Emergency Wake Protocol
+
+Cryo pods monitor their own thermal environment continuously. If internal temperature exceeds the safe threshold — caused by external heat sources such as warp resonance drift, fire, power fault, or thermal damage from adjacent systems — the pod initiates emergency wake: rapid rewarming, wake drugs administered. The passenger wakes in 15–20 minutes, groggy but mobile.
+
+Emergency wake bypasses the standard gradual rewarming. Recovery is harder: 1–2 hours of significant disorientation, nausea, temperature instability. Medically safe. Not comfortable.
+
+## Emergency vs. Scheduled Wake: Recovery Profiles
+
+The two protocols produce distinct recovery curves, which matters when multiple people wake under different circumstances in the same space.
+
+**Emergency wake** fires a stress-response cocktail alongside the rewarming drugs. The body activates before the mind does — passengers are upright, mobile, and capable of basic action within 15–20 minutes. But higher cognition (calculation, judgment, pattern recognition) lags by 30–60 minutes. What feels like clarity is mostly adrenaline. There is a crash. Passengers who have been awake 2–3 hours after emergency wake are genuinely more functional than they were at minute fifteen.
+
+**Scheduled wake** (crew-initiated, using crew pod protocol) is gradual rewarming without the stress cocktail. No immediate spike of stress-driven function. The passenger warms slowly and emerges properly — cognitive function and physical function arrive together, 30–60 minutes after the process begins. No crash. Slower to useful, but steadier once there.
+
+The practical consequence: a crew member woken on scheduled protocol from a crew pod will appear less functional than an emergency-woken passenger in the first hour, even though their eventual recovery is better. In a crisis involving both, this creates a counterintuitive dynamic — the person everyone is waiting on is the most functional one in the room; they just haven't arrived yet.
+
+## Resonance Sensitivity
+
+Cryo pods are shielded against warp engine resonance up to a calibrated threshold. Above this threshold, the shielding itself heats fractionally. Sustained exposure above threshold triggers emergency wake — the pod reads heating as a threat and protects the passenger.
+
+This is a safety feature. Sustained resonance exposure without wake would cause cellular damage; emergency wake is the lesser harm.
+
+Under normal warp operation, engine resonance stays well below the threshold. The threshold can be exceeded by: engine calibration drift, coolant loss, drive damage, or abnormal mass distribution affecting resonance dampeners. The probability of this in any given voyage is low. The consequences when it occurs are significant.
+
+## Single-Use Passenger Pods vs. Multi-Cycle Crew Pods
+
+**Passenger pods (single-use):** One cryo cycle certified. Safe for the initial freeze at departure and the scheduled wake at arrival. After emergency wake, re-cryo requires the full 48-hour pre-freeze protocol including fresh cellular protectant kits — not reusable, not carried in emergency quantities aboard CGSS vessels. Pods that have sustained thermal damage from a resonance event cannot be re-frozen regardless of consumable availability.
+
+**Crew pods (multi-cycle):** Re-cryo capable. Precise thermal management, reusable prep cartridges, redundant monitoring across all cycle stages. Rated for the full number of crew rotation stints across a voyage's lifespan. Cost approximately 40% more per unit than passenger-grade pods.
+
+See [generation-ships](/encyclopedia/generation-ships.html) for the procurement economics behind this distinction.
+
+The question "why can't you just put them back to sleep?" surfaces naturally when passenger pods trigger emergency wake. The answer is technical, economic, and unambiguous: the capability was not specified, the consumables are not present, and the pods are damaged. There is no workaround.
+
+## Social Notes
+
+A 30-year voyage, subjectively experienced, is a night's sleep. Passengers board as one version of themselves and step off unchanged — except that the world they left is 30 years older or gone. Children they knew are middle-aged. Parents are dead. Languages have drifted. The colony they are joining has no cultural memory of Earth beyond what the Guides preserved.
+
+Crew members experience the voyage differently. Rotating through multiple 3-month stints, they accumulate years of conscious experience during the voyage. A crew member completing a 30-year voyage has roughly 3–4 waking years behind them — and has watched waves of colonists sleep and wake while they aged, very slowly, in between. The social distance between crew and colonists upon arrival is not trivial.
+
+Cryo is not considered dangerous in the Expansion Era. It is infrastructure. The psychological weight is not in the sleep — it is in the waking.

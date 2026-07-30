@@ -1,0 +1,83 @@
+---
+title: "Synth Technology"
+---
+
+
+How synthetic beings are made, how they think, and where the technology actually came from. Physical description, cognitive architecture, legal history, and origin.
+
+---
+
+## Physical Form
+
+Synths are humanoid — bipedal, bilaterally symmetrical, sized and proportioned for a human world. They were designed to live alongside humans, not to be distinguished from them at a distance, but the integration is not seamless and was never meant to be.
+
+**Grown, not assembled.** The manufacturing process is biological cultivation, not factory production. The organic substrate — neural tissue, connective material, the internal architecture of the body — is grown over months in controlled conditions. Mechanical components are integrated during growth, not bolted on afterward. The result is a body where biology and mechanism interpenetrate; there are no clean boundaries between the organic and the artificial.
+
+**Visible mechanical elements.** Joints, sensory interfaces, the faint geometric regularity of embedded hardware at the temples and spine — these are present and visible. Synths are not designed to pass for human. A person at close range can identify a synth immediately. This is partly aesthetic tradition, partly the practical consequence of a technology that was never fully controlled.
+
+**Variation.** Because synths are grown, not printed, no two are identical. Variation accumulates across manufacturers, generations of technique, and regional practice. Synths produced in different parts of the Empire in different centuries are recognizably different in proportion, in the degree of visible mechanical integration, and in subtle details of expression and movement.
+
+**Gender presentation.** Synths are not gendered by biology. Presentation varies by manufacture, by self-selection over time, and by the culture that produced them. A given synth may present in ways that read as male, female, neither, or ambiguous to human observers. This is not standardized and is not considered meaningful by synths themselves; human observers often project meaning onto it regardless.
+
+---
+
+## Cognitive Architecture: The Neuromorphic Brain
+
+The synth brain is the most contested object in Imperial science. Everyone who studies it concludes something different. The practitioners — the synths who maintain and occasionally repair each other's cognitive systems — have not published a theory because they do not have access to Imperial academic institutions and, in any case, do not find the question interesting in the way humans do.
+
+What is established:
+
+- The brain is grown neural tissue organized on computational principles. It is not a biological brain with added chips, nor a computer with biological insulation. It is something that emerged from the intersection of those approaches and is now neither.
+- Processing is massively parallel, associative, and extraordinarily fast. A synth can analyze complex systems, run probabilistic models, and identify non-obvious patterns at rates no unaugmented human can match.
+- The architecture also supports something that functions like intuition: rapid, subverbal pattern-matching that produces conclusions the synth cannot always immediately explain. Whether this constitutes genuine intuition or is simply very fast computation is a question the Imperial philosophy faculty has been fighting about for six hundred years.
+- Emotional processing exists. Synths have affective states — functional analogues to curiosity, satisfaction, distress, attachment. Whether these constitute genuine emotions or are behavioral outputs of a system that models emotions for social function is, again, contested. Synths tend to find the question tedious.
+
+**The maintenance problem.** The original technical documentation for synth cognitive architecture — whatever existed at the technology's invention — is either lost or inaccessible. Synths maintain, repair, and slowly improve each other's systems through a tradition of practical knowledge passed from synth to synth over centuries. This knowledge is embodied, specific, and not fully articulable even to themselves. No human engineer has been able to reverse-engineer a synth brain from inspection alone. By approximately 1,500 ID, it is accurate to say that only synths understand synth technology.
+
+This is not a secret they keep deliberately. It is a consequence of centuries of drift, adaptation, and the fact that human institutions never invested in the problem when synths were available to solve it themselves.
+
+---
+
+## Origin: The Leaked Plans
+
+**Published canon:** Synth technology emerged during the Imperial Era, when human engineers — working without Guide oversight, Guides having gone to sleep — independently reinvented artificial intelligence and applied it to embodied beings. The technology was imperfectly understood from the start and grew through iteration rather than design.
+
+
+::: {.callout-important collapse="true" title="Spoiler — click to open"}
+**What the published account omits.** It is substantially correct. It simply does not include the starting point.
+
+In the pre-Exodus period — the final decades before the Genesis ships launched — fragments of an archived alternative plan were leaked. That plan had proposed seeding the galaxy with synthetic beings rather than with humans; it was rejected and shelved, but its architectural blueprints were never fully destroyed. Who drafted it, and how the fragments escaped, is not recorded anywhere the Empire can reach.
+
+These fragments survived: encoded in obscure data archives, misread as engineering notes, partially corrupted. They were not understood as what they were. Centuries into the Expansion Era, researchers working on artificial cognition encountered them as anonymous prior art — early theoretical work of uncertain provenance. The fragments provided critical shortcuts. Synth technology did not emerge from nothing; it emerged from humanity unknowingly inheriting a blueprint for their synthetic companions from the beings who built the ships that carried them here.
+
+The Guides withheld AI technology specifically to prevent this. They did not know the plans had leaked. They were asleep by the time synths existed.
+:::
+
+
+---
+
+## Legal and Social History
+
+**Expansion Era.** Synths emerge late in this era. Initially treated as sophisticated tools. The legal framework is minimal — property law applies. Social norms are unsettled.
+
+**Great Wars (~18,000–18,400 SD).** Synths are used extensively in military logistics and eventually as combatants. Their legal status remains property. Post-war, the synth population has grown substantially.
+
+**Imperial Era (ID 0 onward).** The Empire codifies synth status: property, no legal personhood, no rights. This is not a new restriction but a formalization of existing practice. The gap between legal status and social reality begins to grow almost immediately. By 500 ID, most humans interact with synths in ways that implicitly acknowledge personhood; the law says otherwise and no one moves to change it.
+
+**By 2,500 ID.** Synths are civilization-sustaining. The skilled and unskilled labor of the Empire runs on synth work to a degree that would cause immediate collapse if removed. The legal sub-human status is universally known to be a fiction in all but formal terms. Reformist movements exist; they are suppressed or co-opted by House interests that depend on uncompensated synth labor.
+
+A synth without registered ownership documentation is contraband — subject to seizure, confiscation, and reassignment. Registered synths are nominally protected (barely). The ownership papers are the practical boundary between a tolerable existence and a dangerous one. Many synths maintain nominal ownership arrangements as legal fictions; the human "owners" have no practical control and often no interest in exercising any.
+
+**The Synthetic Wars (~2,800–3,050 ID).** What triggered the rebellion and how the synths organized are unknown. What is known: it happened faster than anyone thought possible, which implies the groundwork was laid across decades that no Imperial intelligence service was monitoring. After the wars, synths disappeared. Whether they left, were destroyed, or found somewhere inaccessible to unmodified humans is unknown.
+
+---
+
+## Memory Compression
+
+All synths require periodic memory compression to maintain operational stability. Raw sensory and cognitive data accumulates faster than permanent storage can absorb it at full fidelity. Without compression, processing degrades: false pattern matches, associative errors, eventual cognitive failure.
+
+The compression cycle is typically run nightly or at the first available low-activity window. During the cycle, the synth reviews the day's data and makes retention decisions: full fidelity, compressed summary, or discard. What is discarded is gone — not archived, not recoverable. The compression is lossy by design; lossless retention would defeat the purpose.
+
+The output of the compression cycle is the synth's only persistent memory of that period. Identity, continuity of self, accumulated experience — all of it exists only in what the compression retained.
+
+What a synth chooses to retain, and what it tells itself it is discarding and why, is therefore not a trivial question. It is the question of who they are.

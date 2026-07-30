@@ -1,0 +1,129 @@
+---
+title: "Propulsion"
+---
+
+
+How things move between stars, era by era. This entry is the spine; [warp-drive](/encyclopedia/warp-drive.html) carries the detail on the technology that matters most to the stories.
+
+## The governing principle: knowledge is free, foundries are not
+
+Every Genesis ship carried the complete preserved corpus of Earth science. Every colony therefore knows — or can know — how every drive in this entry works, from the first generation onward. Nobody in this universe invents a starship. The theory was in the vault before the colony had a name for its own sky.
+
+What gates a civilization is not understanding. It is **industrial capability**: the reactor, the industry that builds the reactor, the population that staffs the industry, the agriculture that feeds the population. A Guide can hand a colony the Alcubierre metric on its first morning and the colony will still spend two thousand years unable to act on it.
+
+This is why the Guide vaults release progressively rather than all at once. The constraint is the rate at which a society can absorb capability without collapsing, not the rate at which it can be told things. Knowledge is gated, never hidden. A colony can always see the shape of what it has not yet been given.
+
+Three consequences run through everything below:
+
+- **The Expansion Era's two-thousand-year length is an industrial curve, not a research programme.** Nobody was figuring anything out. They were building foundries.
+- **Colonies diverge by endowment, not by insight.** Ore, energy, arable land, and [Sagan-Kim](/encyclopedia/sagan-kim-scale.html) tier set the industrial ceiling. A Tier 4 world holds its population genetically captive *and* holds its foundries capped.
+- **The vault thresholds are mechanical, therefore gameable.** A colony that inflates its energy-production figures to trigger an early release is committing the era's characteristic crime.
+
+## The ladder
+
+| Era | Drive | Effective speed | Voyage | The constraint it creates |
+|---|---|---|---|---|
+| Exodus | Orion pulse | 0.03–0.1c | 150–300 yr | Braking costs as much as launching. Mass budget dictates the manifest |
+| Genesis | none | — | — | Isolation is physical, not chosen |
+| Early Expansion | Alcubierre, first generation | 0.3–0.6c | 50–100 yr | Continuous power draw for decades. No margin |
+| Mid Expansion | Alcubierre, second generation | 0.7–0.98c | 20–50 yr | Hard ceiling at c. Drive failure is instant stranding |
+| Late Expansion | Forward sails + Zubrin brakes | 0.6–0.9c | 33–50 yr | Cannot stop without infrastructure at the destination |
+| Imperial | Mature Thorne Nexus | instant | — | Only between pre-paired gates. Gates travel at sub-c |
+| Great Scattering | Fusion torch, chemical, mass drivers | in-system only | — | What dies first is what needed coordination |
+
+Named technologies follow the house convention: each carries the name of the person who first proposed it. Alcubierre, Thorne, Bussard, Forward, Zubrin, Orion. This is a courtesy the Expansion Era paid to a planet none of them had seen.
+
+## Exodus Era — Orion pulse
+
+The Genesis seedships were driven by shaped nuclear charges detonated against a pusher plate. Crude, enormously powerful, and buildable with mid-twentieth-century industry — which is precisely why a dying Earth could build them. An Orion drive does not require exotic materials. It requires bombs, and Earth in its final decades had bombs in quantity.
+
+The seedships were made out of the arsenal. The weapons assembled to end the species became the mechanism that carried it out.
+
+**Reach.** At 0.03–0.1c across a 150–300 year voyage, an Orion ship's practical radius from Sol is roughly thirty light-years. Inside that sphere there are between three and four hundred stellar systems. This is the arithmetic behind "hundreds of Genesis seedships" — the fleet was not sized by ambition or budget. It was sized by how many stars an Orion could reach.
+
+**The manifest.** Roughly half of an Orion's pulse units are spent decelerating at the far end. There is no way around this; a reaction drive must carry its brakes. The resulting mass budget is severe enough that adult colonists in cryo, with their pods and consumables and shielding, do not fit. An embryo masses on the order of a millionth of an adult with life support.
+
+The strangest feature of the Genesis programme — that the passenger manifest is a genetic library rather than a list of people — was not a philosophical choice by the Guides. It was the only configuration that closed.
+
+## Genesis Era — nothing
+
+Colonies in the Genesis Era have no interstellar capability whatsoever. Not degraded capability: none. The seedship that brought them was expended on arrival, and rebuilding an Orion requires an industrial base that a first-generation colony will not have for centuries.
+
+The isolation of the Genesis Era is not a cultural condition or a policy. It is physics. Each colony is alone because there is no object in its possession that can cross the distance, and its Guide is asleep.
+
+## Expansion Era — the Alcubierre drive
+
+The technology that defines the era. Full treatment in [warp-drive](/encyclopedia/warp-drive.html); the summary is that it is a metric drive — the ship rests in a flat bubble and the bubble moves — with three properties that shape everything built around it:
+
+- **A hard ceiling below c**, enforced by physics rather than engineering (see [warp-drive](/encyclopedia/warp-drive.html) for why crossing it is fatal in a specific and permanent way).
+- **No time dilation.** Ship time equals coordinate time. Thirty light-years costs thirty years of the traveller's life, in full.
+- **No momentum.** The ship never accelerates and never moves locally. Cut the drive and it stops where it is.
+
+The generational progression from 50–100 year voyages to 20–50 year voyages is a reactor story, not a drive story. Bubble velocity scales with continuous power output, not with stored fuel. A second-generation ship and a third-generation ship run the same geometry; the third has a power plant that can hold a tighter one. See [generation-ships](/encyclopedia/generation-ships.html).
+
+Cryogenics and the Alcubierre drive are locked together. Because warp returns no dilation, a thirty-year crossing is thirty subjective years for anyone awake through it, and the only way to make interstellar colonization survivable is to sleep. In a universe of relativistic reaction drives, cryo would be a convenience. Here it is infrastructure. See [cryo-technology](/encyclopedia/cryo-technology.html).
+
+## Late Expansion — Forward sails and Zubrin brakes
+
+A beam-driven lightsail carries no power plant at all. A laser array in the origin system does the work; the ship is a mirror and a payload. This is the sail's real advantage — not speed, but that the expensive part stays home and gets reused for every launch after the first.
+
+Sails reach 0.6–0.9c with genuine relativistic dilation, so a sail traveller arrives measurably younger than a warp traveller on the same route. The effect is real but modest: a factor of two at best, not the tenfold saving of a hard-relativistic rocket.
+
+**Deceleration is the whole problem.** A sail can be pushed but not pulled. Stopping requires either a second array waiting at the destination, or a magnetic brake — Zubrin's sail, run against the destination star's wind and the interstellar medium — which works but is slow and imprecise, and adds years to an arrival.
+
+The consequence is that sails only serve routes between worlds that are *already* connected. A frontier system with no array and no industry cannot receive a sail at all.
+
+**And a sail may never carry a Thorne gate.** This is the strictest rule in Nexus law and the reason is not published: a sail travels at genuine relativistic gamma, so a gate mouth carried on one arrives years out of step with its twin — a time machine in delivery packaging. Only [Alcubierre vessels](/encyclopedia/warp-drive.html), which accumulate no proper-time difference at all, may transport gate mouths. See [chronology-protection](/encyclopedia/chronology-protection.html). The rule costs the Empire real money every year and is never relaxed.
+
+This matters because it reproduces, through completely unrelated physics, the same lopsidedness the [thorne-nexus](/encyclopedia/thorne-nexus.html) produces: established routes get cheaper, the frontier stays out of reach. Two independent technologies converging on the same political geometry is why the stratification of the Expansion and Imperial eras feels structural rather than imposed. Nobody designed it. It fell out twice.
+
+## Imperial Era — the mature Nexus
+
+The [thorne-nexus](/encyclopedia/thorne-nexus.html) reaches its full extent under the Empire. Its constraint is unchanged and published: gates work only in matched pairs, and both ends of a pair must be constructed together and then carried apart.
+
+Carried by what? By warp ships, at less than the speed of light.
+
+**The Nexus network can therefore only ever expand at sub-c.** Instantaneous travel exists inside a network whose frontier creeps outward slower than light. An empire that can move an army across ten thousand light-years in an afternoon still takes forty years to reach one new star. This is the ceiling on imperial reach, and it is why the frontier remains a frontier for the entire Imperial Era.
+
+There is a second ceiling, unpublished and stranger: **the network is never permitted a redundant route.** It is maintained as a tree — every system hanging off exactly one path, no cycles anywhere, no alternate way to reach anything. Trade guilds and military planners petition against this for three thousand years and are refused every time without explanation. The reason is chronology protection: offsets sum around loops, so a cycle turns one compromised gate into a galaxy-spanning catastrophe. The Empire runs a catastrophically fragile network on purpose, to bound a blast radius it cannot otherwise survive. See [chronology-protection](/encyclopedia/chronology-protection.html).
+
+## Great Scattering — what survives
+
+The Synthetic Wars destroy propulsion in a specific order, and the order is set by how much coordination each technology requires.
+
+**Dies first:** the Nexus — and it does not decay, it **detonates**. Wartime conditions broke the acyclic discipline: gates laid without certification, routes spliced in desperation to reach cut-off regions, provenance archives burned along with the institutions that kept them. Cycles appeared in a network that had never been permitted one, and the cascade followed. See [chronology-protection](/encyclopedia/chronology-protection.html).
+
+A gate that dies is also permanently dead. Signatures cannot be re-matched locally; restoring a lost route means building a fresh pair and carrying one end across at sub-c. And because a tree that loses edges does not thin out but shatters, what remained after the cascade was not a sparser network — it was thousands of fragments with no path between them.
+
+**Dies next:** sail arrays, which need stellar-scale industrial coordination to build and to aim; then the Alcubierre drive, which needs reactor power densities and field-generator precision that post-war worlds cannot manufacture or maintain.
+
+**Survives:** fusion torches, chemical rockets, mass drivers, orbital tethers, aerobraking. Everything local, everything rebuildable by a single system with a single planet's industry.
+
+Post-Scattering humanity is not merely poorer. It is **system-bound**. The name "Great Scattering" is ironic and earned: everyone scattered, and then discovered they could not come back.
+
+## Failed technologies
+
+**The Bussard ramjet.** Scoop interstellar hydrogen with a magnetic funnel, fuse it, expel it. The idea is genuinely beautiful and it genuinely does not work: the funnel's drag exceeds the thrust the fusion can produce, and interstellar hydrogen fuses by the proton-proton chain, which is far too slow to close the loop.
+
+The Earth corpus says all of this, with the arithmetic. Colonies build ramjets anyway.
+
+They build them because the ramjet is the **only interstellar drive a young colony can actually manufacture**. Warp needs reactors it does not have. Sails need a beam array it cannot fund. The ramjet needs magnets and a fusion chamber, and those are within reach centuries before anything else is.
+
+So it becomes the technology of impatience: the ship of the faction that will not wait two thousand years for the industrial curve to arrive. A gated corpus lets a colony see the shape of what it has not been given, and there is always a faction that reads that shape and leaves.
+
+The ramjet is not the failure mode of the physics. It is the failure mode of the gating. There are hulks between the stars with entire schismatic colonies aboard, ships that accelerated for decades and then decelerated for decades against their own scoops, because the funnel was always a brake wearing the costume of an engine.
+
+**The salvage.** The same hardware, used deliberately as a brake, is the Zubrin magnetic sail — one of the few pieces of Expansion Era engineering that came out of a failure rather than a release. The ramjet is the only technology in the corpus that colonies improved by misusing.
+
+## The deceleration problem
+
+Cross-cutting, and worth stating once because it governs every rung:
+
+- **Reaction drives** (Orion, fusion torch) must carry their brakes. Half the fuel is for stopping. This is what makes them mass-hungry and what shaped the Exodus manifest.
+- **Alcubierre** stops for free — cut the drive and the ship is at rest — but has no fallback, because it has no momentum to coast on.
+- **Sails** cannot stop at all without help. This is their defining limitation and the reason they never opened a single new route.
+- **The Nexus** does not accelerate anything, which is exactly why it is the only method safe for cargo and unsafe for people.
+
+Every drive in this universe is easy in one direction and hard in the other. None of them is easy in both.
+
+See also: [warp-drive](/encyclopedia/warp-drive.html), [thorne-nexus](/encyclopedia/thorne-nexus.html), [generation-ships](/encyclopedia/generation-ships.html), [cryo-technology](/encyclopedia/cryo-technology.html), [sagan-kim-scale](/encyclopedia/sagan-kim-scale.html).

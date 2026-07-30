@@ -1,0 +1,34 @@
+/* The Transcendent Chronicles */
+
+:root {
+  --tc-accent: #b8935f;
+}
+
+body { font-size: 1.02rem; line-height: 1.65; }
+
+.navbar-brand { letter-spacing: 0.04em; font-weight: 600; }
+
+/* Spoiler folds: readers must choose to open these. */
+.callout-important {
+  border-left-color: var(--tc-accent) !important;
+}
+.callout-important .callout-title {
+  background-color: rgba(184, 147, 95, 0.12) !important;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+}
+
+/* Encyclopedia entries read better with a little more air around tables. */
+table { margin: 1.6rem 0; font-size: 0.94rem; }
+
+blockquote {
+  border-left: 3px solid var(--tc-accent);
+  font-style: italic;
+}
+
+.hero {
+  margin: 2.5rem 0 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(128,128,128,0.25);
+}
+.hero p { font-size: 1.15rem; line-height: 1.6; }

@@ -1,0 +1,116 @@
+---
+title: "Chronology Protection"
+---
+
+
+Why the [thorne-nexus](/encyclopedia/thorne-nexus.html) is not a time machine, what has to go wrong for it to become one, and what the universe does about it when it does.
+
+Nothing in this entry has been published. The Nexus entry that went out describes the gate network's engineering and politics; this is the layer underneath it.
+
+## The problem
+
+Faster-than-light signalling plus relativity equals travel into the past. This is not a matter of interpretation. If a signal can outrun light, and there exist observers in relative motion, then a signal that is instantaneous in one frame runs backwards in time in another. Chain two such signals through two different frames and the loop closes: the message arrives before it was sent.
+
+The Nexus is FTL. Therefore the Nexus is, in principle, a time machine. Galactic civilization is built on top of an object that should not be allowed to exist.
+
+It does exist, for three stacked reasons. Each of them is also a way it can fail.
+
+## Barrier one — synchrony at construction
+
+Both mouths of a gate pair are built together, in one place, in one frame, against one clock. They begin their existence with zero offset between them.
+
+This is already the published constraint, arrived at for a different reason: signatures must match, so both ends must be constructed simultaneously in the same location. The signature requirement and the chronology requirement happen to demand the same thing. The engineers who discovered the first did not initially understand that they had also satisfied the second.
+
+## Barrier two — dilation-free transport
+
+A wormhole becomes a time machine by the Morris–Thorne–Yurtsever mechanism: take a pair of mouths with zero offset and **move one of them relativistically**. Differential aging accumulates between the mouths. Once the accumulated offset exceeds the light-travel time separating them through ordinary space, the pair is a time machine.
+
+The recipe for building a time machine, in other words, is *carry one end of a wormhole on a fast rocket*.
+
+The Nexus survives because of what carries its gates. Gate mouths are transported exclusively by Alcubierre vessels — and an Alcubierre ship accumulates **no proper-time difference at all**, because it never moves locally and never experiences dilation (see [warp-drive](/encyclopedia/warp-drive.html)). A gate carried thirty light-years by warp arrives with the same offset it left with: zero.
+
+**This is the real reason the galaxy lays gates with warp ships.** Not economics, not tradition, not the deceleration advantage. A metric drive is the only transport method in existence that does not poison the cargo.
+
+The corollary is absolute and it is the strictest rule in Nexus law: **no gate mouth may ever be moved by a dilating method.** Forward sails, reaction drives, anything with a gamma. A sail-carried gate is not a cheaper gate. It is a weapon with a delivery date.
+
+See [propulsion](/encyclopedia/propulsion.html) for why sails are otherwise attractive, and why this rule costs the Empire real money every year.
+
+## Barrier three — acyclic topology
+
+The offsets of gates traversed in sequence **add**. A path that leaves a system through one gate, crosses to a third, and returns through a fourth accumulates the sum of every offset along the way.
+
+A single gate with a small offset is harmless. A *loop* in the network that sums past threshold is a closed timelike curve spanning a thousand systems.
+
+So the Nexus is maintained as a **tree**. No cycles. Ever. Every system hangs off exactly one route, and there is no alternate path to anywhere.
+
+This is not how anyone would design a network. Redundancy is survivability, redundancy is cheaper logistics, redundancy is what every military planner and every trade guild in the Empire has petitioned for across three thousand years. They are refused every time, and the reason is not published.
+
+**Acyclic topology is containment.** In a tree, a bad gate destroys itself and severs a branch: the damage is one gate and one region. In a cyclic network, a single poisoned mouth anywhere puts a closed timelike curve into a loop that may span half the galaxy — and the protection mechanism resolves the loop by destroying *something in it*, not necessarily the gate at fault.
+
+The Empire accepts a catastrophically fragile network on purpose, to bound the blast radius of a failure it cannot otherwise survive. It is the largest firebreak ever built, and almost nobody knows it is a firebreak.
+
+## What natural drift does — nothing
+
+Worth stating explicitly, because it is the assumption everything else rests on.
+
+The two mouths of a gate sit in different gravitational potentials and move at different orbital velocities, so they do accumulate offset just by existing. The rate is of order one part in a billion. Across the entire Imperial Era that comes to roughly a minute and a half, against a threshold measured in decades.
+
+**Natural drift is seven orders of magnitude short and always will be.** Gates do not age into time machines. This is precisely why the network is trusted, why gate certification focuses on provenance rather than on scheduled retirement — and why the poisoning attack works so well. Everyone knows gates are safe. Everyone is right, until someone lies about where a gate has been.
+
+## When protection fails — the Hawking mechanism
+
+Hawking's chronology protection conjecture is not a decree that paradoxes are forbidden. It proposes a mechanism: as a closed timelike curve approaches formation, vacuum fluctuations circulate through the incipient loop and reinforce themselves without bound. The stress-energy diverges at the Cauchy horizon. The apparatus is destroyed before the curve can close.
+
+The universe does not prevent the paradox. It destroys whatever was about to cause it.
+
+In practice, a gate approaching threshold does not fail quietly or gracefully. The throat begins to radiate — first as a rising acoustic and electromagnetic signature that gate crews describe, invariably and independently, as a hum. The divergence is exponential. From the first detectable signature to the destruction of the gate and everything sharing its station is a matter of days.
+
+Nexus crews are trained on the hum. There is no procedure for stopping it. The procedure is evacuation.
+
+## The poisoned gate
+
+The attack follows from the barriers. Build a gate pair legitimately. Transport one mouth on a Forward sail instead of a warp vessel. Deliver it, certified, into a rival's network.
+
+The arithmetic: a sail running at 0.9c crosses thirty light-years in about thirty-three years of coordinate time and roughly fourteen of its own. The delivered mouth arrives some nineteen years out of step with its twin, against a threshold of thirty.
+
+**Nineteen against thirty. The gate works.** It opens, it carries traffic, it passes every functional test, and it will do so indefinitely. It is loaded and it is not fired.
+
+What fires it is a loop. Splice that gate into a network path that closes a cycle — or add a second compromised mouth anywhere along the same circuit — and the offsets sum past threshold. The hum starts somewhere in the loop, and not necessarily where the crime was committed.
+
+This is why gate provenance is the most sensitive category of information the Great Houses hold. Not expiry dates: **transport records**. A House's real vulnerability is the gates it cannot certify — gates acquired in war, gates whose construction archives burned, gates inherited from Houses that no longer exist. Every major House is running at least one gate whose history it cannot fully account for, and using it daily, and hoping.
+
+Demanding a provenance audit of a rival's gate is, correctly understood, an accusation of mass murder. It is never a routine request.
+
+## The Runners
+
+A superluminal warp bubble is a causality violation by construction. Why does the universe tolerate the [Runners](/encyclopedia/warp-drive.html)?
+
+Because they are sealed. Nothing enters a superluminal bubble and nothing leaves it. A Runner cannot signal, cannot be signalled, cannot be boarded, cannot be intercepted by anything that would not immediately become a second Runner. It cannot participate in a loop.
+
+**It is a causality violation that cannot be used**, and protection only bites where a curve would actually close.
+
+Which reframes the seal entirely. The horizon that traps a Runner's crew is not an unfortunate side effect of the geometry. It *is* the protection, arriving early and doing its work quietly. The universe does not stop a ship from crossing c. It stops the ship from telling anyone.
+
+The two exotic technologies of this civilization fail in the same way, for the same reason. One is sealed so it cannot speak; the other detonates when it would. Both are the same law, applied at different volumes.
+
+## The Great Scattering
+
+The published record says communications were lost, that the Empire's networks depended on synthetic technology, that knowledge was lost and populations scattered. All of that stands. Underneath it is a mechanism.
+
+The Nexus did not decay. **It went off.**
+
+Three thousand years of firebreak doctrine held because the tree held. The Synthetic Wars broke the tree — gates laid without certification under wartime conditions, routes spliced in desperation to restore contact with cut-off regions, provenance archives destroyed along with the institutions that kept them. Cycles appeared in a network that had never been permitted one.
+
+Then one compromised mouth, somewhere, in some loop, summed past threshold.
+
+The cascade is what a firebreak doctrine looks like when it collapses: not a slow decline in service but a sequence of stations annihilating themselves across the galaxy over a span of years, each loss re-routing traffic into loops that had not existed the day before. Every gate that survived became more dangerous as its neighbours died.
+
+**The Scattering is self-inflicted physics.** The synths did not do it. Nobody did it. It was the accumulated consequence of three thousand years of a rule that everyone obeyed and almost nobody understood, broken once under pressure by people acting in good faith.
+
+And because a tree that loses edges does not degrade but shatters, what remained was not a thinner network. It was thousands of disconnected fragments that could no longer reach each other by any means — which is the Great Scattering, and which is why it is called that.
+
+The survivors did not know why. They still do not. History records that the gates began to sing.
+
+
+
+See also: [thorne-nexus](/encyclopedia/thorne-nexus.html), [warp-drive](/encyclopedia/warp-drive.html), [propulsion](/encyclopedia/propulsion.html), [galactic-timeline](/encyclopedia/galactic-timeline.html).

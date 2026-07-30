@@ -1,0 +1,48 @@
+---
+title: "The Sagan-Kim Habitability Scale"
+---
+
+
+The primary framework used throughout the TC universe for assessing a planet's potential to support human life. Conceived in the 22nd century as Earth's environmental degradation accelerated. Named after 20th-century exobiologist Carl Sagan and 22nd-century astrobiologist Dr. Kim.
+
+The scale drives the Genesis Project: the AIs aboard Genesis ships are programmed to deploy their payloads only on planets meeting specific habitability thresholds. Approximately one-third of ships failed to deploy because their destination planet's actual index had drifted below Level 4 upon arrival.
+
+## The Levels
+
+**Level 7: Optimal (Earth pre-industrial)**
+Balanced atmosphere, stable climate, abundant resources. Individuals can migrate freely to other habitable worlds.
+
+**Level 6: Directly habitable**
+Minor atmospheric or environmental quirks requiring minimal adjustment. Full interplanetary mobility.
+
+**Level 5: Minor genetic manipulation required**
+Genetic adjustments needed for optimal adaptation. Individuals can travel to Level 5+ worlds with minor biogenetic surgery or portable life support. May face challenges fully integrating.
+
+**Level 4: Extensive genetic manipulation required**
+Significant challenges requiring comprehensive genetic alteration. Individuals are largely biologically locked to their homeworld. Interplanetary travel severely restricted; extensive modifications render them incompatible with most other environments.
+
+**Level 3: Long-term sheltered settlements only**
+Human life supportable only within protective habitats. Specialized equipment required for travel. Adaptation to other worlds extremely difficult even with life support or genetic modification.
+
+**Level 2: Temporary settlements only**
+Short-term human presence only. Travel limited to specialized missions.
+
+**Level 1: Robot-only environments**
+Entirely inhospitable to human life. Robotic operations only.
+
+**Level 0: Uninhabitable**
+Stars, extreme radiation environments. No human presence possible.
+
+## Implications for Interplanetary Travel
+
+The scale creates the defining social fracture of the TC universe. Level 6 and 7 individuals can move freely, fostering rich cultural exchange. Level 5 individuals can travel with assistance. Level 4 and below are effectively locked in — their adaptations make them biologically incompatible with most other environments, leading to isolation and potential conflict with more mobile populations.
+
+This is not incidental to the TC universe. It is the load-bearing constraint that shapes everything: the Great Houses, the Confederacy, the divergence of colonial cultures, the legal and social status of adapted vs. non-adapted humans.
+
+## Narrative uses
+
+- A Level 5 world like Aranda requires careful founding: no margin for demographic error, no correction mechanisms, no supply lines. The founding population is the colony.
+- A Level 6 hub like Vethara has infrastructure, supply chains, and the ability to absorb bad colony planning.
+- Level 4 worlds produce populations that effectively cannot leave — their stories are planetary by default.
+
+See also: [generation-ships](/encyclopedia/generation-ships.html), [aranda](/encyclopedia/aranda.html), [vethara](/encyclopedia/vethara.html).

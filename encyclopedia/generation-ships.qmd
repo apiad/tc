@@ -1,0 +1,47 @@
+---
+title: "Generation Ships"
+---
+
+
+Colony ships are the connective tissue of the Transcendent Chronicles universe — how humanity spreads, loses itself, and reconnects across thousands of light-years over thirteen millennia.
+
+## Three Generations
+
+The distinction between the three is a **power plant** distinction, not a drive distinction. See [propulsion](/encyclopedia/propulsion.html) and [warp-drive](/encyclopedia/warp-drive.html): the theory of every drive arrived complete in the Guide vaults, and what separates the generations is two thousand years of reactor engineering, not two thousand years of insight.
+
+**First generation (Genesis Era, ~12,300 SD):** The original seedships. Orion pulse drives — shaped nuclear charges against a pusher plate — giving 0.03–0.1c and 150–300 year voyages. Full cryo for everyone. Carried frozen embryos, not adult colonists: roughly half an Orion's pulse units are spent braking, and the resulting mass budget does not close for adults with pods and consumables. The passenger manifest was a genetic library because it was the only configuration that fit. Crews of 20–40 in structured rotation. No warp technology. The Guide AI was the ship's true mind; human crew managed physical systems. These ships are mythologized in the Expansion Era — calling something "first-generation" means ancient, irreplaceable, storied.
+
+**Second generation (Early Expansion, ~14,500–15,000 SD):** First Alcubierre vessels. Effective velocities of 0.3–0.6c compress voyage times to 50–100 years. Full adult colonists for the first time — a metric drive's energy cost does not scale with payload the way a reaction drive's does, so mass stops being the binding constraint and time becomes it. Larger crews (60–100) with formalized rotation protocols. Passenger pods still single-use but more robust construction. The beginning of the commercial colonization model — ships funded by proto-Houses and colonial charter corporations, not planetary governments.
+
+**Third generation (Mid-Expansion, ~15,000–18,000 SD):** Same drive geometry, better reactors: sustained power output pushes effective velocity to 0.7–0.98c and voyages down to 20–50 years. Crew rotation systems fully refined. Passenger pod economics become a significant procurement variable — the cost differential between single-use and multi-cycle certification drives most Houses to specify the cheaper option for colonist berths. The Colonial Genesis Seedship Service (CGSS) standardizes certification, naming, and crew protocols across all member vessels. Ships of this generation include the CGSS Threshold, which runs at approximately 0.98c effective.
+
+Because warp returns no time dilation, faster ships buy back real years of colonists' lives — the entire value of the generational progression is measured in subjective time, not in distance covered.
+
+## Colonial Genesis Seedship Service (CGSS)
+
+The CGSS is the Expansion Era certification and regulatory body for colony ships. It does not operate ships — it licenses, certifies, and sets standards. Established by the proto-Confederacy's early colonial compact to prevent the catastrophic under-provisioning and systemic failures that characterized the transition from first-generation to second-generation colonization.
+
+CGSS responsibilities:
+- Crew qualification and rotation protocols
+- Pod certification tiers (passenger vs. crew grade)
+- Vessel naming conventions (CGSS ships take abstract nouns: Threshold, Meridian, Covenant, Passage, Vigil, Terminus)
+- Colonial charter law governing command authority and mission director scope
+- Incident reporting and post-voyage audits
+
+The CGSS is funded by charter fees paid by the Houses and levies from the proto-Confederacy body. It has structural tension with the Houses, which would prefer less oversight on procurement decisions.
+
+## Crew Rotation System
+
+On third-generation CGSS vessels, no crew member stays awake for the full voyage. Standard watch configuration: 1 command officer + 2 crew, rotating every 3 months. Total crew roster: 15–25 people, each cycling through 6–8 stints over a 30-year voyage.
+
+Crew pods are multi-cycle certified (see [cryo-technology](/encyclopedia/cryo-technology.html)). Re-cryo between stints is routine. A crew member completing a 30-year voyage has accumulated approximately 3–4 years of conscious lived experience during it, spread across decades of ship time.
+
+The watch officer (command slot) holds full shipboard authority during their rotation. Waking the Captain from cryo is a formal protocol decision: the watch officer must document justification and accepts accountability for the call. This is not bureaucracy for its own sake — an unnecessary wake uses a crew pod cycle, introduces recovery downtime, and signals a loss of confidence in the watch. It is not done lightly.
+
+## Passenger Pods vs. Crew Pods
+
+See [cryo-technology](/encyclopedia/cryo-technology.html) for technical detail on both types.
+
+The economic reality: on a ship carrying 3,000 colonists, specifying multi-cycle passenger pods adds roughly 40% to the pod procurement budget. This is a substantial line item in a colonial charter contract. Every House that has reviewed the failure mode analysis has concluded that emergency wakes are sufficiently improbable to accept the risk of single-use specification.
+
+The failure mode analysis is correct. The failure is improbable. It happens.

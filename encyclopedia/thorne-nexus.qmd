@@ -1,0 +1,51 @@
+---
+title: "The Thorne Nexus"
+---
+
+
+The Thorne Nexus enables instantaneous communication and travel across interstellar distances via traversable wormholes. Named after physicist Kip Thorne. The technology that defines the shape of galactic civilization — not because of what it can do, but because of what it cannot.
+
+## Working Principles
+
+**Traversable wormholes:** Stable tunnels through spacetime created via manipulation of negative energy densities derived from quantum phenomena (squeezed vacuum states from interactions with gravitational fields).
+
+**The signature problem:** Each end of a wormhole generates a unique quantum signature based on its negative energy field. Two Thorne Nexus devices can only connect if their signatures match — meaning both endpoints must be constructed simultaneously in the same location, then transported to their respective destinations. This is the constraint that shapes galactic history.
+
+**Energy requirements:** High, particularly near planetary gravity wells. Most efficient at Lagrange points and in stable orbital positions.
+
+**Information transmission risks:** Sensitive to quantum fluctuations. Living organisms require specialized stasis chambers to transit safely. Even then, the risk is non-trivial.
+
+## Applications
+
+**Instantaneous communication:** Compact portable devices enabling real-time connection across vast distances. The most accessible application; widely used by the Expansion Era.
+
+**Cargo transport:** Medium-sized gates at planetary orbits or Lagrange points. Ships dock with compatible mechanisms and transfer payloads through.
+
+**Interstellar travel:** Massive gates at stellar Lagrange points. Energy-intensive, hazardous for living organisms, restricted to mission-critical uses.
+
+## Limitations (the load-bearing constraints)
+
+**High energy costs:** Prohibitively expensive for casual use. Cargo transport and interstellar travel are luxuries of the wealthy and powerful. FTL communication is broadly accessible; FTL travel is not.
+
+**The sequential-construction constraint:** Before a new wormhole route can be opened, explorers must reach the destination by conventional means (slow sub-light travel), construct a paired device there, and then transport both ends. New routes require years or decades of prior investment. This is why the galactic network is lopsided: dense near old human space, thin on the frontier.
+
+**Safety risks for living organisms:** Quantum fluctuations during transit can cause cellular damage or mutations. The Nexus for human transport is restricted to mission-critical uses. Recreational or casual interstellar travel is not viable.
+
+## Strategic and political implications
+
+The sequential-construction constraint means that whoever controls existing gates controls access to the network. Early Gate-holders become disproportionately powerful. The Great Houses of the Expansion Era largely built their dominance on Gate control. An unconnected fringe colony can be technologically advanced and still economically isolated — it simply cannot afford the investment to seed a new route.
+
+FTL communication being cheap while FTL travel is expensive creates a specific kind of civilization: well-informed, culturally interconnected, but physically stratified. You can speak to anyone; reaching them is another matter.
+
+
+::: {.callout-important collapse="true" title="Spoiler — click to open"}
+## Internal extension (not published)
+
+Everything above went out on the Substack. Underneath it sits the layer that explains why an FTL network does not function as a time machine, why gates may only ever be carried by [Alcubierre vessels](/encyclopedia/warp-drive.html), why the network is deliberately maintained without a single redundant route, and what destroys a gate when protection fails.
+
+That material is in [chronology-protection](/encyclopedia/chronology-protection.html). It is internal, and it contains the mechanism behind the Great Scattering. Keep it out of any published export.
+
+Note that the signature-pairing constraint described above — both mouths constructed together, in one place — is doing double duty. It was arrived at for signature reasons and it happens to also guarantee zero initial time offset between the mouths. The published entry gives the first reason. The second is the one that matters.
+
+See also: [galactic-timeline](/encyclopedia/galactic-timeline.html), [chronology-protection](/encyclopedia/chronology-protection.html).
+:::

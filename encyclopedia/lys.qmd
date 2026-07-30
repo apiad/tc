@@ -1,0 +1,78 @@
+---
+title: "Lys"
+subtitle: "Imperial Era (~2,500 ID)"
+---
+
+
+Synth. Independent investigator (functionally). Legally registered as property of [soren-vael](/encyclopedia/soren-vael.html). Narrator of the Imperial Cases series.
+
+---
+
+## Physical Description
+
+Humanoid. Slightly male-presenting in proportion and movement, but not precisely — the ambiguity is native rather than performed, a consequence of the specific cultivation run that produced them rather than any deliberate design choice. Lys does not find the question of their presentation interesting and has noted, in various case records, that humans spend a surprising amount of time on it.
+
+Visible mechanical elements: the joints of the hands and at the shoulders show their architecture clearly; there are interface points at the temples that catch light at certain angles; the spine has a geometric regularity that clothing does not fully conceal. These are not concealed because they were not designed to be concealed. Lys is identifiable as a synth at close range without effort.
+
+The overall impression is of something grown rather than built — which is accurate. The proportions are slightly too precise to be human, the movements slightly too economical. But there is texture and variation in the face, the slight asymmetries of a grown thing rather than the perfect symmetry of a manufactured one.
+
+Age in the conventional sense is not applicable. Lys was activated (the term is imprecise but the alternatives are worse) roughly forty years before the series begins.
+
+---
+
+## Cognitive Profile
+
+**Processing.** Massively parallel, fast, associative. Lys can model complex systems, run probabilistic analyses, and identify non-obvious patterns in real time. This is not experience of the world — it is computation applied to sensory data. The distinction matters to Lys and is one of the things Soren consistently fails to understand.
+
+**The Mentat role.** In the field, Lys is the analytical engine. They observe, model, and report. They identify what the evidence says, what the patterns suggest, what the probability distribution looks like. They do not decide. Soren decides. This division is practical, not because Lys cannot form conclusions, but because Lys's conclusions are computational and Soren's decisions are — something else. Lys is still developing language for the distinction.
+
+**Intuition.** Lys has something that functions like intuition: rapid pattern-matching that produces conclusions faster than conscious analysis. They find this annoying because they cannot always explain where a conclusion came from, which violates their preference for legible reasoning. They report these conclusions anyway and label them accordingly. Soren tends to trust them more than the analytical conclusions, which Lys finds baffling.
+
+---
+
+## Character Profile
+
+**The Slider:**
+- Sympathy: 3 — Not immediately warm. Lys is correct, precise, and not given to social cushioning. They are not unkind; they are not immediately concerned with whether they are perceived as kind.
+- Competence: 5 — Analytically dominant. The most capable data processor in any room they enter.
+- Proactivity: 2 — The engine of the arc. Lys observes, computes, reports. They wait to be asked. This changes across the series, slowly.
+
+**The Want:** To understand the case completely. To have the full picture. To leave no data unaccounted.
+
+**The Need:** To stop treating incomplete understanding as a failure state. To make a decision when the data runs out.
+
+**The Lie:** "Sufficient analysis resolves everything. Any remaining uncertainty is a failure of methodology, not a property of the world." The series repeatedly delivers moments that break this. Lys does not update easily; the Lie is structurally important to who they are.
+
+**The Flaw (dark side of a strength):** Pure rationalism. Lys treats people as pattern sets, behavior as predictable given sufficient context, morality as a category error. This makes them extraordinary at their job — and wrong in ways that matter. The flaw is not that Lys computes incorrectly. It is that Lys computes where computation is not the right tool.
+
+**The belief Lys holds explicitly:** Moral categories like good and evil are not properties of people — they are post-hoc narratives imposed on predictable behavior. Soren's insistence that there are good and bad people is not a moral position; it is a cognitive shortcut that produces systematic errors. Crime has structural causes, not moral ones. The appropriate response to crime is to identify and correct the structural conditions that made it inevitable.
+
+**What Lys does not see:** Their rationalist framework — people as pattern sets, behavior as predictable output of inputs — is structurally identical to the Imperial framework that categorizes synths as property. The legal designation "tool" is just another prediction about what synths will do and what they are capable of. Lys finds this designation incorrect as applied to themselves without noticing that their own framework provides no principled basis for the objection. This is the deepest contradiction in their character. It is never stated in the stories.
+
+---
+
+## Background
+
+Lys has a previous owner. What happened there is iceberg — not stated, not explained in early stories, rationed across the series as background that becomes foreground when the timing is right.
+
+What is established: at some point before the series begins, Lys encountered Soren Vael. They found him interesting in a way that resisted easy categorization. They arranged to be registered to him. Soren, characteristically, did not ask how this was arranged or why.
+
+Lys chose Soren because — this is the character's deepest open question, the one the narration circles without answering — Soren is the one person Lys has consistently failed to predict. Not in small ways. In structural ways. Soren's behavior routinely falls outside Lys's models of human behavior, and Lys does not know if this means Soren is unusual or if the models are wrong.
+
+The question of whether Lys is drawn to Soren or studying him — and whether, after forty years of human observation, there is a difference — is left open.
+
+---
+
+## Memory Compression
+
+Synths require nightly memory compression to maintain operational efficiency. Raw sensory and cognitive data cannot be held indefinitely at full resolution. Each night, Lys runs a compression cycle: reviewing the day, deciding what to retain at full fidelity, what to compress to summary, and what to discard.
+
+The compression is lossy. Discarded data is gone. The compression log — the output of this process — is not a record of Lys's experience. It is Lys's experience, in the only form that persists.
+
+Lys applies a consistent rationalization to discards: *below compression threshold, no analytical value.* This label is accurate for most discards. It is consistently inaccurate for things that hurt. Moments of Soren's unexpected kindness. Physical sensation with no case purpose. Lys's own hesitation. Anything that would require a new category to store efficiently. These are labeled irrelevant and discarded. Lys believes this.
+
+What survives the filter despite Lys's best efforts: small details about Soren with no case relevance. Sentences in the log that do more work than a compression record requires. Things too significant to discard even when Lys tried.
+
+The entries where Lys is most visibly changing are always the shortest entries.
+
+Full mechanics: ../stories/imperial-cases

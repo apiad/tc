@@ -1,0 +1,36 @@
+---
+title: "The Transcendent Chronicles"
+toc: false
+---
+
+::: {.hero}
+Earth is dying. In the twenty-second century it launches hundreds of Genesis
+seedships toward every star within reach — each carrying frozen embryos and a
+guardian intelligence with the whole of human knowledge aboard.
+
+Each ship raises a first generation, seeds a colony, and goes to sleep.
+
+Thirteen thousand years later, their children have forgotten Earth, rediscovered
+each other, built an empire, and lost it. This is their history.
+:::
+
+## Start here
+
+- [Prologue: The Exodus](chronicles/2023-10-19-tc-prologue-exodus.qmd) — how it began
+- [The Threshold](chronicles/2026-06-08-tc-threshold-v3.qmd) — one ship, one year from arrival, and a decision nobody wants
+- [The Galactic Timeline](encyclopedia/galactic-timeline.qmd) — the nine eras, end to end
+
+## The two halves
+
+**[The Chronicles](chronicles/index.qmd)** is the fiction — the stories of people
+living inside this history, who mostly do not know they are inside it.
+
+**[The Galactic Encyclopedia](encyclopedia/index.qmd)** is the world itself: the
+drives, the wormhole network, the habitability scale, the ships, the worlds, the
+long argument between what physics permits and what people attempt anyway.
+
+::: {.callout-note}
+Encyclopedia entries sometimes carry a collapsed **Spoiler** panel. Nothing
+opens on its own. If you would rather meet these things inside a story first,
+leave them closed.
+:::

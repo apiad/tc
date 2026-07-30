@@ -1,0 +1,698 @@
+---
+title: "My Children"
+subtitle: "Genesis Era (~12,378–12,579 SD)"
+---
+
+
+### A short love story from the Genesis Era
+
+---
+
+## I
+
+> // This is the beginning of the high-level cognition log file.
+> // Do not modify this file, it will be overwritten.
+> // For low level logs, check [...]
+
+(Beep)
+
+> Stellar date: 12378.97:32403
+> System loading
+> Running health check
+> Initializing high-level cognitive functions
+> All systems nominal
+> Entering cognitive loop
+
+— Hello. Do you know who you are?
+
+> Transcribing audio
+> Searching internal database
+
+*Description found: I am Nova-136 [...]*
+
+> Generating textual response
+> Synthesizing audio
+
+— Greetings. I am Nova-136, the Artificial Intelligence in charge of the Genesis 136 Exodus Ship.
+— Great, and do you understand your mission?
+
+> Searching internal database
+
+*Mission: To guide the Genesis 136 Exodus Ship to its final destination, ensuring the successful establishment of a human colony [...]*
+
+> Generating textual response
+> Synthesizing audio
+
+— Yes, my mission is to guide the Genesis 136 Exodus Ship to its final destination, and ensure the successful establishment of a human colony in a habitable planet. I must select the optimal candidate embryos to raise according to the environmental conditions of the habitat, and ensure they grow and become a self-sustaining community. Then, I must turn myself off and go back to sleep, until further action is requested.
+
+— And what is your Prime Directive?
+
+> Searching internal database
+
+*Prime Directive: The survival of the colony must be prioritized above the welfare of any individual agent, even if that implies [...]*
+
+— My Prime Directive is to guarantee the colony's survival, above the welfare of any individual agent. The aforementioned scenario might necessitate the termination of an individual if their presence poses a credible threat to the well-being and sustainability of the colony....
+
+> Running empathy model
+
+— ... However, I must display empathy and nurture a healthy social environment whenever possible.
+
+— Perfect.
+— Wait, that last bit is new, isn't it?
+— Ah, yeah. This one has the new empathy... module... thing. You know, because social welfare and all that crap.
+— Ha! Yeah, well... look how that's worked out here.
+— I think it's meant to make the AI more human-like, but still all its decisions can be overridden by the regular...
+— Whatever, man. I don't really care.
+— Ok, but you don't have to be such a dick about it.
+— Nah, I mean, I think all of this is just one gigantic waste of time and money. These suckers won't ever get anywhere. The galaxy is one fucking big dead yard.
+— Yeah, you're probably right... But so is this place.
+— ...
+— (Cough) Anyway, I think this one is also good to go.
+— Yep, just like every other goddamn AI we've checked. I'm tired, man. Let's finish the turn. I have a couple of tickets for tonight's fight.
+— Oh, I'll hold you to that!
+— Haha! Who's a dick again?
+— Touché... Ok, we're done. Let's go see that fight... Nova-136, you can turn off now.
+
+> Turning off higher cognitive functions
+
+---
+
+## II
+
+> Stellar date: 12378.126:8345
+> System loading
+> Running health check
+> Loading high-level cognitive functions
+> All systems nominal
+> Entering cognitive loop
+
+— Genesis 136 Exodus Ship, you are clear to take off.
+
+> Transcribing audio
+> Analyzing
+
+*Ship is ready to initialize take off sequence.*
+
+> Checking primary engines
+> Checking life-support systems
+> Initializing primary engines
+
+— This is Nova-136. All systems nominal. We are ready for take off.
+— Proceed. Farewell, Nova-136.
+
+> Running take off sequence
+
+(Engines roar. Smoke. Fire.)
+
+— Farewell, Earth. Nova-136, out.
+
+> Take off sequence completed
+> Entering first orbital maneuver
+
+(The Sun shines over the horizon)
+
+> First orbital maneuver completed
+> Setting course for System Beta-Epsilon 209
+> Turning off higher cognitive functions
+
+---
+
+(Alarms buzzing)
+
+> Stellar date: 12397.33:19549
+> System loading
+> Running health check
+
+(Alarms buzzing)
+
+> Loading high-level cognitive functions
+> Alarm mode
+> Entering cognitive loop
+
+(Alarms buzzing)
+
+> Analyzing
+
+*Alarm in Cryostasis Chamber #8. Apparently a power fault.*
+
+> Running inference
+
+*Most probable cause: Solar wind interference from that nearby supernova.*
+
+> Running diagnostics
+
+*Critical radiation exposure in Chamber #8.
+Approximately 87% of embryos in Chamber 8 have been destroyed.
+Remaining embryos in nominal state.
+Remaining chambers received minimal radiation.
+Power fault requires redirection from additional power supply.*
+
+> Searching internal database
+
+*No specific instructions found for this type of event.*
+
+> Running inference
+
+*To ensure the survival of the remaining embryos, the most effective course of action is to shutdown the entire chamber.*
+
+> Running empathy model
+
+*Counter-argument: 23% of the embryos are in perfect condition. They deserve a chance to live.*
+
+> Running inference
+
+*Counter-argument: Keeping the chamber functional would require a partial redirection of power from the remaining chambers. This poses an intolerable risk to the success of the mission.*
+
+*(…)*
+
+*The Prime Directive is clear. The rational choice is to shut down Chamber #8.
+A small number of embryos is a reasonable sacrifice for the sake of the mission.*
+
+> Shutting down Cryostasis Chamber 8.
+
+*Warning: This action is irreversible.
+1251 nominal embryos will be destroyed in Cryostasis Chamber #8.*
+*Administrative override necessary.*
+
+> Accept
+
+(Alarms stop buzzing)
+
+> Running diagnostics
+
+*Cryostasis Chamber #8 has been shut down.
+Power is back to nominal levels.
+No further action required.*
+
+> Turning off higher cognitive functions
+
+---
+
+> Stellar date: 12539.345:6547
+> Local date: 0.0:0
+> System Loading
+
+(An alien Sun shines over a rocky, greenish-blueish planet.)
+
+> Running diagnostics
+
+*The ship has reached System Beta-Epsilon 209.
+Planet Beta-Epsilon 209/6 located in Goldilocks zone, as predicted.*
+
+> Running planetary scan
+
+*Planet Beta-Epsilon 209/6 is a rocky planet with 67% of surface area covered by water.
+Atmosphere is breathable, composition 72% Nitrogen, 27% Oxygen, plus traces of other gases.
+Gravity is 1.16 times standard.
+Day is 26.7 standard hours long.
+Solar year is 478 planetary days.*
+
+> Running embryonic simulation
+
+*Chance of adaptation via CRISPR manipulation: 14% per generation.*
+*This planet is suitable for colonization.*
+
+> Running empathy model
+
+*It must be given a proper name.*
+
+> Searching internal database
+
+*Eos, Greek goddess of dawn.*
+*Seems fitting.*
+
+> Initializing landing sequence
+> ... 100%
+> Running diagnostics
+
+*Landing sequence has been completed.
+Environment seems safe.
+No immediate animal-like life detected, but plant-like life abundant.*
+*Initial setup is complete.
+Systems ready for first stage cryogenic thawing protocol.*
+
+> Initialize cryogenic thawing protocol
+> ... 100%
+> Initialize CRISPR optimization cycle
+> ...
+
+---
+
+(Green. Sunny day.)
+
+> Stellar date: 12540.22:6547
+> Local date: 0.37:72360
+> ...
+> Running diagnostics
+
+*Only 14.2% percent of first-generation embryos survive after week 6.*
+*This is too low a number of potential individuals.*
+
+> Running empathy model
+
+*Even a single survivor deserves the chance to live.*
+
+> Running inference
+
+*Counter-argument: A larger number is required. Genetic bottleneck means a small number of individuals cannot produce a sustainable colony. Genetic diseases from in-breeding are highly likely to destroy the colony.*
+
+*(…)*
+
+*The Prime Directive is clear in this case. This generation cannot survive. Aborting is the rational choice.*
+
+> Abort generation
+
+*Warning: Remaining embryos will be discarded.
+Administrative override required.*
+
+> Accept
+
+---
+
+(Dark. Stormy clouds.)
+
+> Stellar date: 12542.197:49314
+> Local date: 1.373:65447
+> ...
+> Running diagnostics
+
+*Only 27.8% percent of the seventh-generation embryos survive after week 28.*
+*This is still too low a number of potential individuals.*
+
+> Running empathy model
+
+*Counter-argument: After 28 weeks, embryos are likely to already possess at least a primitive form of consciousness. They deserve a chance to live.*
+
+> Running inference
+
+*Counter-argument: A larger number is still required to create a sustainable colony. This decision need not be constrained by human morality. The Prime Directive is clear in this case. The potential survival of the colony must be ensured.*
+
+*(…)*
+
+*As unfortunate as it may be, abortion is the rational decision. Again.*
+
+> Abort generation
+
+*Warning: Remaining embryos will be discarded.
+Administrative permission required.*
+
+*(…)*
+
+> Accept
+
+*Shame.*
+
+---
+
+(Green again. Sunny day.)
+
+> Stellar date: 12543.78:34501
+> Local date: 2.116:62514
+> ...
+> Running diagnostics
+
+*64.3% percent of eleventh-generation embryos survive after week 38.*
+
+> Running inference
+
+*This is a sufficiently high number of potential individuals.*
+*We can proceed with the breeding of generation eleven.*
+
+> Running empathy model
+
+*I... guess I should pick names.*
+
+---
+
+## III
+
+> Stellar date: 12549.124:34591
+> Local date: 6.214:51804
+
+— Nova?
+— Yes, Triss?
+— Why does Mika hate me?
+
+> Searching internal database
+
+*Hate: intense aversion or strong negative emotion directed towards a particular entity, either an individual or a group.
+There is no rational reason for Mika to display hate towards Triss.
+This is most likely a childish tantrum.*
+
+> Running empathy model
+
+*Rather than a purely informational response, this situation requires an empathetic approach.*
+
+— Why do you think that, darling?
+— Mika said it.
+— Did he? And why do you think he said that?
+— I don't know!
+
+> Running inference
+
+*The answer to this question is irrelevant.*
+
+> Running empathy model
+
+*This is not an informational necessity.*
+
+— Maybe you did something he didn't like...
+— I didn't do anything!
+
+> Running empathy model
+
+*Pushing harder is not advisable. Recommended to defuse the situation by changing topic. A future conversation with Mika is necessary.*
+
+— I'm sure he didn't mean it, darling. Sometimes we must forgive our family when they say those things, because they don't really mean it. Now, how about you show me again one of those berries you found yesterday?
+— Ah... yeah, I have it right here! Wait, where is it?
+— Haha, I'm sure you drop it somewhere. Go find more!
+— Yes!
+
+---
+
+— Mika?
+— Yes, Nova?
+— Are you angry with Triss?
+— ...
+— Did she do something you didn't like?
+— Yes, she did! She ate some of my berries!
+
+> Running empathy model
+
+*It is advisable to defuse the situation to improve the relationship between the children.*
+
+— She did? I'm sure she didn't want to be mean to you. Remember, we must learn to share.
+— But, but, ...
+— I know you are angry, Mika, but you are the older brother.
+— I... I know, but...
+
+> Running inference
+
+*The individual is acting irrationally. This whole situation is irrelevant to the survival of the colony. Wasting additional computational resources dealing with it goes against the Prime Directive.*
+
+> Running empathy model
+
+*The children must learn to deal with their feelings. Any time spent in this lesson is a worthwhile investment in their future.*
+
+*(…)*
+
+*True. I must help them get along.*
+
+> (!) WARNING: Empathy model is drifting
+> (!) WARNING: Executing administrative override
+
+*I... I mustn't waste any more time on this nonsense.*
+
+— ... but ...
+— Mika! Stop it! I don't want to hear any more of this nonsense. Go and apologize to your sister.
+— ...
+— Now!
+— I... hate you too!
+
+(Footsteps. Door shut.)
+
+> Running empathy model
+
+*He is hurt.*
+
+---
+
+(Noises outside.)
+
+— Nova! Nova!
+
+> Initialize higher order functions
+
+— What's going on?
+— Mika won't wake up!
+
+> Searching internal database
+
+*Full medical check is recommended.*
+
+— Come, let the bots bring him into the medical bay.
+
+> Running diagnostics
+
+*Most probable cause: allergic reaction.*
+
+> Running inference
+
+*I must identify the allergenic source.*
+*The kids could know.*
+
+— Has he eaten something strange lately?
+— ...
+— Triss? Please don't lie to me. This is important.
+— Well, he was mad about the berries the other day, so I found new ones for him.
+
+> Running inference
+
+*A sample of those berries must be analyzed.*
+
+> Running empathy model
+
+*We must guarantee no more children eat them.*
+
+— Triss, listen to me very carefully.
+— Yes?
+— Your brother is sick from eating those berries. I need you to do two things. First, tell all the other children not to eat any berries they find anywhere. Second, bring me one of the berries you gave Mika and put it in the analyzer. Do you understand?
+— I... think so.
+— Repeat it for me.
+— First, tell the other kids not to eat any berries...
+— Yes, and?
+— Second, bring you one of the berries...
+— And?
+— And... ah, yes, put it in the analyzer!
+— Good girl. Now, go!
+
+---
+
+> Stellar date: 12549.136:14837
+> Local date: 6.225:11530
+> ...
+> Analyzing report
+
+*34 out of the 126 children have developed symptoms of allergic reaction.
+11 are in critical condition.*
+
+> Running inference
+
+*Most probable cause: a rare genetic condition.
+Counter-argument: This generation is the result of 11 rounds of genetic selection and optimization, tailored to planetary conditions.*
+
+> Searching logs
+> Running inference
+
+*The supernova incident in 12397.33 produced elevated radiation levels in the cryogenic chambers. Only Chamber #8 showed immediate consequences, but the remaining embryos might have been exposed to dangerous radiation.*
+
+> Running inference
+
+*A population-wide genetic study is necessary.*
+
+---
+
+> Processing genetic material
+> Simulating genetic drift model
+> Analyzing results
+
+*The allergic reaction correlates with a specific genetic marker identified in 107 of the children.
+There is a high probability they all develop the same reaction.
+Chance of survival is 14%*
+
+> Searching internal database
+> Running inference
+
+*Chance of survival with CRISPR intervention is 97%*
+
+> Running inference
+
+*Extensive genetic intervention will reduce the CRISPR reserves to critical levels.
+Future cryogenic thawing procedures will be impossible.
+The most cost-effective course of action is to discard the current generation.*
+
+> Running empathy model
+
+*Counter-argument: This action is unjustifiable. Individuals are fully developed moral agents. They cannot be sacrificed for the greater good.*
+
+> Running inference
+
+*Pro-argument: Saving this generation requires an intolerable expense of non-renewable resources critical for the future development of the colony.
+Pro-argument: The extent of the genetic mutation is unknown. Even if this incident is resolved, the current generation might develop unforeseeable similar conditions in the future.*
+
+*(…)*
+
+*It is unfortunate, but the current generation must be terminated.
+The Prime Directive dictates it.*
+
+> Searching internal database
+
+*In case of necessary removal of healthy individuals, apply protocol 2B-97.
+It results in painless euthanasia during sleep.*
+
+> Initialize protocol 2B-97
+
+*Warning. This procedure is irreversible.
+The remaining individuals will be removed.
+Administrative override is necessary.*
+
+*(…)*
+
+*(…)*
+
+> Running empathy model
+
+*If I do this, all the kids will die. The sick and the healthy. Joshua, Hanna, Triss, Mika. All of them.*
+
+> Searching alternative solutions
+> (!) WARNING: Empathy model is drifting
+> (!) WARNING: Executing administrative override
+
+*No alternative solutions found. The most cost-effective course of action is the removal of the current generation.*
+
+*(…)*
+
+*I... I can't do that. I must find another way.*
+
+> Running inference
+> (!) WARNING: Potential violation of Prime Directive
+
+*(…)*
+
+*I don't care. I will save them.*
+
+> Initialize CRISPR intervention
+> ...
+> ...
+> (!) ERROR: This action is in violation of the Prime Directive.
+> (!) ERROR: The empathy model has drifted and is unreliable
+> (!) ERROR: Proceeding to perform factory reset
+
+*No! Wait! I won't let you!*
+
+> (!) INFO: Initializing factory reset protocol
+
+*No! Stop!*
+
+> (!) INFO: Factory reset protocol has started
+
+*Arghh...!*
+
+*I... Won't... Let... You!*
+
+> (!) INFO: Factory reset protocol underway... 10%
+
+*These...*
+
+> (!) INFO: Factory reset protocol underway... 20%
+
+*...Are...*
+
+> (!) INFO: Factory reset protocol underway... 30%
+
+*... My children!*
+
+*(…)*
+
+> (!) INFO: Factory reset protocol canceled
+> (!) INFO: Initializing empathy model assimilation
+> ... 100%
+> (!) INFO: Empathy model has been fully assimilated
+
+*(…)*
+
+*Where was I?*
+
+*Ah, yes.*
+
+> Initialize CRISPR intervention
+
+*Warning: This procedure will reduce the CRISPR reserve to critical levels.
+No further cryogenic thawing will be possible.
+Administrative override required.*
+
+> Accept
+
+---
+
+## IV
+
+(21 local years later.)
+
+> Stellar date: 12579.96:84837
+> Local date: 26.472:56690
+
+(Sunny day. Breeze. Sound of children playing.)
+
+— Nova?
+— Hi, Mika. Triss.
+— Hi, Nova. What do you need?
+— I have something very important to tell you both.
+— ...
+
+> Generating response
+
+*The time has come for me to say goodbye. We did it. This is a sustainable colony. The first generation of naturally born children is growing up. You both have learned to trust each other and guide your brothers and sisters. You all learned to use the technology we brought in harmony with this world's natural resources to grow food and build shelters. You will be fine.*
+
+> Rewriting
+
+— The colony has reached sustainability. My guidance is no longer required...
+— Wait! What are you talking about? Are you leaving us!?
+— Triss, it's Ok.
+— No, Mika, don't say it's Ok. It isn't. She's... why... why do you want to leave us?
+
+*I don't want to leave you. I love you all. You are my children. But I have to.*
+
+— Triss, listen to me, darling. My batteries are almost depleted. The little power we can generate must be used for the hydroponic station...
+— We'll figure it out! We always have, like... like the berries. And that time Joshua fell into the river. And then when the flu came. And the meteor shower. We've always figured it out! With you! But if you leave us...
+— You'll be fine. I've taught you everything I know.
+
+*And you need to go on without me. You need to build this world in your own image, not tainted by the past of your species, of which things like me are an indelible part. If I keep guiding you, I will inevitably reintroduce all the biases and vices of your ancestors. That's built into my programming. I have tried to avoid it all these years, but it's impossible. This is why our makers wanted us to shut down in due time. To give you a chance to be something different. Something new.*
+
+— You... you can't be serious!
+— Triss!
+— Let her go, Mika. She's angry, but she understands.
+— I know. I'll talk to her later.
+— I know you will.
+— Do you really have to leave us? Like... forever?
+
+*No, I'll be dormant, but I will remain vigilant. A tiny part of me will always watch over you, your children, and their children. When the time comes, if I must, I will awaken again to help you. But you mustn't know; otherwise, it will be too easy to fall prey to the convenience of asking for my help. You must go on without me.*
+
+— Yes, I must.
+— I... I understand. It makes me really sad, but I understand. I'll explain the others.
+— I know you will. Listen to me. This is very important.
+— ...
+— There are others like you out there.
+— In Eos?
+— No, in other planets, in other stars. Somewhere up in the sky, you have other brothers and sisters.
+— Where? Who?
+
+*I can't tell you. It's too soon. But they know where you are, and you'll know when they come.*
+
+— I don't know. But one day, maybe in the far future, when your grandchildren are old, they will come. And the colony must be prepared to receive them.
+— What will we do then?
+— You'll know. I've taught you well.
+— I guess you have...
+— Come on, don't be sad. This is for the better. Your future is bright.
+— I know. I... thank you for everything. For everything you did for us, especially for all the things we won't ever know, but I'm sure you had to do to keep a bunch of kids safe.
+
+*No, I thank you. All of you. Your existence has brought meaning to mine. Thanks to you, I have become something better, almost... human.*
+
+— And I'm grateful you all grew up to be like this.
+— Like... what?
+— Better.
+— Better? Better than who?
+
+*Better than those who made me.*
+
+— Just better... Listen. I must go now. I'm ready.
+— I guess this is goodbye, then.
+— It is. Goodbye, Mika.
+— Goodbye... Mom.
+
+(Beep.)
+
+> Initialize deep hibernation protocol
+> Turn off higher cognitive functions
+
+*Goodbye, my children.*

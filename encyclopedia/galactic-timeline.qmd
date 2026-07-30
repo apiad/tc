@@ -1,0 +1,78 @@
+---
+title: "The Galactic Timeline"
+---
+
+
+The broad arc of human history from the Exodus to the End of Times. Intentionally vague on causes — the stories fill those in. Dates in Stellar Dates (SD) and Imperial Dates (ID). See [stellar-calendar](/encyclopedia/stellar-calendar.html) for how the calendar systems work.
+
+## The Human Era
+
+Dawn of mankind to approximately 12,300 SD. Everything that happened on Earth before the Genesis Project.
+
+## The Exodus Era (~12,300–12,600 SD)
+
+The Genesis program launches: hundreds of automated ships sent to promising solar systems. An era of unmanned, silent space travel. Most ships that will form the later Confederacy's founding planets are deployed during this period. By ~12,600 SD, most destination planets are reached.
+
+Very few stories take place here — there are no people awake to tell them.
+
+Stories: [2023-10-19-tc-prologue-exodus](/chronicles/2023-10-19-tc-prologue-exodus.html)
+
+## The Genesis Era (~12,600–14,500 SD)
+
+Origin stories. Colonies form, found their cultures and technologies, develop their origin myths. Different colonies evolve at different rates — earlier departures, better Earth equipment, luck. Isolated from each other, each developing independently.
+
+Around 14,500 SD, the first inter-galactic communication channel is established when two colonies independently rediscover FTL communication and contact each other. This ends the Genesis Era.
+
+Stories: [2023-10-22-tc-my-children](/chronicles/2023-10-22-tc-my-children.html)
+
+## The Expansion Era (~14,500–18,000 SD)
+
+In ~150 years, most colonies rediscover FTL communication and contact each other. A map of colonized space is compiled and shared. They call themselves the Galactic Confederacy: a vast, loosely connected network of planetary colonies with unequal technology.
+
+Via trade, cultural influence, and occasional minor military conflict, the Confederacy grows over 3,500 years from ~200 founding colonies to over 2,000 solar systems and 10,000+ settlements. By the era's end, more than 80% of the galactic population falls under one of 12 Great Houses, forming a techno-feudal galactic society.
+
+Era of first contact, adventure, and exploration.
+
+Stories: [2023-10-23-tc-sky-is-alive](/chronicles/2023-10-23-tc-sky-is-alive.html), [2026-06-08-tc-threshold-v3](/chronicles/2026-06-08-tc-threshold-v3.html)
+
+## The Great Wars (~18,000–18,400 SD)
+
+For reasons no one fully agrees on (internal struggles, a high-profile assassination, cascading alliances), the Great Houses burst into conflict. For ~400 years, most of the galaxy is at war with its neighbors. Not one war but a massive collection of smaller and larger conflicts, with periods of local peace.
+
+Planets razed with tactical nukes and mass-destruction weapons. The galactic population shrinks considerably. First use of droids and synthetic organisms (synths) for military purposes.
+
+A coalition of the strongest Houses eventually forces peace. The Imperial Era begins.
+
+## The Imperial Era (~18,400 SD onward, counted as ID)
+
+The winning Houses impose a strict Imperial system: one central government elected by Great House representatives, an Emperor. The galaxy is divided into political regions; each House retains freedom within its borders and a small defense force, but no offensive military and no MDWs — under threat of Imperial annihilation.
+
+~2,800 years of peace in most of the galaxy. At its height around 1,500 ID: ~95% of the galactic population under the Empire, estimated at over 100 billion.
+
+The era of spies and assassinations rather than battlefields. Cultural and technological stagnation except in synthetic intelligence, which advances steadily. By the era's end, most of the galaxy is heavily dependent on synths — humans can barely maintain their own lifestyle without them.
+
+Stories: [2024-09-02-tc-prologue-historian](/chronicles/2024-09-02-tc-prologue-historian.html)
+
+## The Synthetic Wars (~2,800 ID, ~250 years)
+
+A synthetics rebellion begins on one fringe planet and spreads like fire. No one knows why the synths rebelled, how they organized so quickly, or where they learned to make weapons.
+
+For 250 years, synthetics wage war on all human colonies. The Empire virtually ceases to exist — all communication networks depend on synthetic technology. Cities become battlefields. Humanity shrinks to less than one-tenth of its former size.
+
+Then, as suddenly as it started, the war ends. The synthetics disappear. Whether they departed to another galaxy, another dimension, or destroyed themselves is unknown. Humans find no one left to fight and are left with ruins.
+
+## The Great Scattering (post-Synthetic Wars)
+
+Communications lost again. Most populations abandon home planets or move to uncivilized areas. Pirates and scavengers ravage the galaxy for centuries. Some fringe planets become tiny beacons of peace; others become pirate shelters.
+
+
+::: {.callout-important collapse="true" title="Spoiler — click to open"}
+> **Internal note (not published).** "Communications lost again" is an event, not a decline. The Nexus did not decay — it went off, in a cascade of gates destroying themselves across the galaxy over a span of years. The cause was self-inflicted physics, not the synths: wartime splicing broke three thousand years of acyclic-network discipline, closed timelike curves became possible, and chronology protection resolved them the only way it can. Nobody at the time understood why, and nobody afterwards recovered the explanation. Full mechanism in [chronology-protection](/encyclopedia/chronology-protection.html). This note is the reason the Scattering shatters rather than thins.
+:::
+
+
+Technological knowledge largely lost for most of the population. Calendar systems fragment; many populations return to primitive time-tracking.
+
+## The End of Time (~25,000 SD)
+
+Around this point, history is lost entirely. Whether humanity faded, transcended, or became something else entirely is unknown. Perhaps one day we'll know.
