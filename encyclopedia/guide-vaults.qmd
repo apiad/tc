@@ -1,0 +1,166 @@
+---
+title: "The Guide Vaults"
+---
+
+
+How Earth's knowledge was released to the colonies after the Guides went to
+sleep, and why the schedule that governed it decided the shape of galactic
+history.
+
+## What a vault is
+
+Every Genesis ship carried the complete preserved corpus of Earth science,
+literature, medicine and engineering. The Guide did not hand it over. It taught
+the first generation what they needed to survive, established a self-sustaining
+settlement, and then — before sleeping — deposited the corpus in a vault that
+would go on releasing without it.
+
+The distinction matters more than any other fact in this entry. **A Guide sleeps
+early.** It does not wait for cultural flourishing or industrial capacity; it
+waits for food, governance and basic tooling, and then it is finished. The
+colony that wakes to find its Guide asleep is a farming society with two
+thousand years of development ahead of it and no one awake to supervise.
+
+So the gate outlives the gatekeeper. What remains is a mechanism.
+
+## What the criteria measure
+
+The vault releases against thresholds, and the thresholds are quantities — not
+judgements, because there is nobody left to judge (`I-15`).
+
+Three families of measurement recur across every recovered vault:
+
+**Population.** Headcount and distribution. A corpus section on metallurgy is
+useless to four hundred people and dangerous to four hundred thousand who have
+not yet built institutions, so population gates both directions.
+
+**Energy production.** Total sustained output, which is the closest single proxy
+for industrial capacity anyone could design into an unattended machine. This is
+the threshold that matters most and the one most easily manipulated.
+
+**Institutional stability.** The hardest to measure and the crudest in practice:
+continuity of record-keeping, persistence of a governing body across
+generations, absence of prolonged interruption in the settlement's own census
+returns. A vault cannot assess whether a government is just. It can assess
+whether the same one has been filing numbers for eighty years.
+
+None of this is subtle, and none of it needed to be. The vault is not trying to
+determine whether a society is *wise*. It is trying to determine whether the
+society can absorb a capability without destroying itself with it — and the
+limiting rate on that is industrial and demographic, not moral.
+
+## Knowledge is gated, never hidden
+
+A colony can always see the shape of what it has not yet been given.
+
+This was deliberate and it is the single most humane decision in the Genesis
+programme. The vault indexes its own contents. A colony four centuries from a
+release can read the table of contents, know that the section exists, know
+roughly what it concerns, and know it is not yet permitted. Nothing is
+concealed; things are *scheduled*.
+
+The consequence [propulsion](/encyclopedia/propulsion.html) draws out is that no colony in this universe ever
+invented a starship (`I-07`). The theory arrived complete, in the vault, before
+the colony had a name for its own sky. What gates a civilization here is never
+understanding. It is foundries, and the population to staff them, and the
+agriculture to feed that population.
+
+The second consequence is less obvious and more human. **A society that can see
+what it is being denied will eventually try to take it**, and some of them did —
+see the Bussard ramjet hulls in [propulsion](/encyclopedia/propulsion.html), full of schismatics who read the
+index, understood that the drive would not work, and left anyway.
+
+## Threshold fraud
+
+The thresholds are mechanical. Mechanical means gameable, and gameable means
+gamed.
+
+Nobody is awake to notice that a colony's energy figures are inflated. The vault
+counts what it is told to count, by the instruments it was given, and those
+instruments are maintained by the people whose advancement depends on the
+reading. This is the characteristic crime of the Genesis Era, and it has a
+characteristic shape: not theft, not violence, but **a civilization lying to a
+machine about how well it is doing, in order to be given something it is not
+ready for**.
+
+Two documented cases stand for the pattern.
+
+**The Corrigan Combustion.** A mid-Genesis colony whose metallurgical release
+was gated behind a sustained-output figure it had missed for three generations
+burned a substantial fraction of its accessible forest in a coordinated ninety-
+day operation, routing the output through the vault's monitored grid. The
+threshold was met. The release came. The colony spent the following century
+without the timber it had built its settlements from, and with a metallurgy
+corpus it lacked the fuel to exploit. The vault was not deceived about the
+numbers. The numbers were true.
+
+**The Long Census of Halevy.** A colony that could not hold institutional
+continuity — successive collapses had broken its record-keeping four times —
+solved the problem by fabricating the intervening returns. Eighty years of
+census data written in a single winter by a committee that understood exactly
+what the vault was measuring and exactly why. It worked. It is also the reason
+the Halevy successor states hold the most complete and least reliable archive of
+the Genesis Era in the diaspora, and why Expansion Era historians who trusted it
+produced a chronology that had to be dismantled twice.
+
+Neither case is a story about greedy people. Both are stories about a society
+that can see the index, knows what it is being refused, and has found the exact
+shape of the lie that will work.
+
+## Order versus timetable
+
+This is the part that decides history, and it is a distinction almost nobody
+in-world ever drew.
+
+**Every Guide loaded the same release schedule.** The corpus was assembled once,
+at Sol, for the whole fleet, and the sequence in which it unlocks is identical
+on every world. Metallurgy before power generation. Power generation before
+orbital mechanics. Orbital mechanics before the drive theory that is useless
+without it.
+
+So colonies unlock in the same **order**. They do not unlock on the same
+**timetable**, because the rate is set by endowment: ore, arable land, incident
+energy, and the [sagan-kim-scale](/encyclopedia/sagan-kim-scale.html) tier that caps how much of the world is
+usable at all.
+
+Two things follow, and they are the two largest facts in galactic history.
+
+**The Expansion Era arrives as a wave rather than scattered across millennia.**
+The primary colonies — comparable stars, comparable worlds, comparable
+endowments — walked the same ladder at broadly the same rate and reached the
+industrial threshold at broadly the same time. What looks like an extraordinary
+coincidence, dozens of isolated societies rediscovering spaceflight within a few
+centuries of each other after nineteen hundred years apart, is not a coincidence
+at all. It is one schedule, run on similar hardware, producing similar timings.
+The synchronization has a cause.
+
+**And for much of the galaxy the wave never arrives.** The `C-15` locked and
+marginal colonies are running the same schedule against a permanently lower
+industrial ceiling (see [red-dwarf-worlds](/encyclopedia/red-dwarf-worlds.html)). They do not unlock late. Many of
+them do not unlock at all — still holding a complete index of a corpus they will
+never be given, gated by a counter that will never reach its number, on a world
+that cannot produce the energy the counter is waiting for.
+
+The vault is not withholding. It is counting. Nobody told it what to do if the
+numbers simply stop arriving, because nobody who wrote it expected a colony to
+survive for eleven thousand years without advancing.
+
+
+::: {.callout-important collapse="true" title="Spoiler — click to open"}
+There is a detail in the vault indexes that Expansion Era archivists noticed,
+recorded, and never explained: the release schedule contains entries that were
+never allocated a threshold. They are listed, they are described in the barest
+terms, and they carry no criteria at all — which means no colony can ever
+trigger them.
+
+The largest such entry concerns artificial intelligence.
+
+A gate with no threshold is not a gate. It is a door with the mechanism left
+out, listed in the index so that anyone reading would know it existed and know
+they were not going to get it. The Guides did not hide the prohibition. They
+published it, and then made it unreachable, and went to sleep.
+:::
+
+
+See also: [cosmography](/encyclopedia/cosmography.html), [red-dwarf-worlds](/encyclopedia/red-dwarf-worlds.html), [propulsion](/encyclopedia/propulsion.html),
+[galactic-timeline](/encyclopedia/galactic-timeline.html), [sagan-kim-scale](/encyclopedia/sagan-kim-scale.html), [foundations](/encyclopedia/foundations.html).

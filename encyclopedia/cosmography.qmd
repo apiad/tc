@@ -1,0 +1,184 @@
+---
+title: "Cosmography"
+---
+
+
+What the Genesis programme was actually aiming at, and why the galaxy came out
+shaped the way it did.
+
+Every other entry in this encyclopedia describes what happened after the ships
+arrived. This one describes the sky they were launched into, which decided most
+of it in advance.
+
+## The census
+
+The Exodus planners worked from a complete survey of the solar neighbourhood
+out to ten parsecs — thirty-two and a half light-years, and by a coincidence
+nobody planned, almost exactly the practical reach of an Orion pulse drive
+(`C-01`, `C-02`). Everything the programme could reach had been catalogued
+before the first hull was laid.
+
+Within that volume: `C-03` objects in something under three hundred systems. Of
+the stars, `C-04` are M dwarfs — red, dim, and long-lived, making up between
+sixty-nine and seventy-three percent of the sample. Only `C-05` are F, G or K
+type: the stars a human being would recognise as a sun.
+
+The full target list survives as `lore/data/nearby-stars.csv`, and every world
+named anywhere in this encyclopedia orbits a star that appears in it, at that
+star's real distance and real spectral class (`I-09`, `I-10`).
+
+## The primary target set
+
+Strip out the F/G/K stars disqualified by a disruptive binary companion, by
+flare pathology, or by having left the main sequence, and restrict what remains
+to the thirty light-years an Orion can actually cross. What is left is `C-06`
+systems holding forty-two stars.
+
+They are the good ground, and they are named: Alpha Centauri A and B. Tau Ceti.
+Epsilon Indi. 61 Cygni A and B. 40 Eridani A. Sigma Draconis. 82 Eridani. Delta
+Pavonis. Eta Cassiopeiae. Xi Bootis. 61 Virginis. Chara. p Eridani. 107
+Piscium. Gliese 105 A. 41 Arae. Chi Draconis. Procyon A. Zeta Tucanae. Gamma
+Leporis. Beta Comae Berenices. Alula Australis. And a handful more, out to the
+edge of reach.
+
+Thirty-two systems. That is the entire inheritance.
+
+## The marginal target set
+
+The rest of the neighbourhood is poor. Within reach there are 168 M dwarfs, plus
+the twenty F/G/K stars that failed their assessment — one hundred and eighty-
+eight poor targets against `C-06` good ones.
+
+A red dwarf's habitable zone lies close in, close enough that a world sitting in
+it is tidally locked: one hemisphere in permanent day, one in permanent night,
+and life possible only in a ring at the terminator. There are no seasons. There
+is no year visible in the sky. The star flares, periodically and without
+warning, across a world with nowhere to hide. And it is dim, which turns out to
+matter more than any of the rest — see [red-dwarf-worlds](/encyclopedia/red-dwarf-worlds.html).
+
+The programme selected the best `C-07` of them anyway.
+
+**The Genesis fleet had thirty-two good systems and nearly two hundred poor
+ones.** That sentence is the founding fact of galactic history, and everything
+downstream is a consequence of it.
+
+## The fleet, and how it was aimed
+
+The fleet was sized by the target list. Not by budget, not by ambition — the
+same argument [propulsion](/encyclopedia/propulsion.html) makes about why the manifest carried embryos, moved
+up one level. There were only ever so many places to go, and the number of ships
+is the number of places, times the redundancy the planners thought they could
+afford.
+
+**Primary flights.** `C-06` systems, `C-08` hulls each — ninety-six ships.
+
+The redundancy is the central decision of the whole programme, and it was forced
+by ignorance. Twenty-second-century instruments could not confirm a habitable
+planet at thirty light-years. They could resolve a star, estimate a mass, and
+guess at what might be orbiting it. Three ships at Tau Ceti was not
+extravagance. It was the only hedge available to a blind, one-way shot with a
+three-century latency and no possibility of correction.
+
+Where a system offered more than one candidate body, the redundant hulls were
+aimed at different ones. Where it offered only a single candidate, the spare
+hulls carried secondary-body instructions — a large moon, an outer world,
+anything survivable at Tier 3 to 5.
+
+**Marginal flights.** `C-07` poor targets, `C-09` hull each.
+
+Nobody expected most of these to work, and most of them did not. They were
+launched because thirty-two systems is not enough civilization to bet a species
+on, and because a red dwarf burns for a trillion years while a G-type sun does
+not. A programme optimising for the next ten thousand years would have sent
+everything to the good stars. This one was optimising for something longer.
+
+**Fleet total: `C-10` hulls.**
+
+## The manifest
+
+Every item aboard a Genesis ship traces to a constraint. The manifest is a
+derivation, not an inventory.
+
+| Carried | Because |
+|---|---|
+| Cryo-preserved embryos, not adults | Roughly half an Orion's pulse units are spent braking at the far end. The mass budget does not close for adults with pods, consumables and shielding. An embryo masses on the order of a millionth of an adult with life support |
+| No human crew at all | The same arithmetic, and no technology existed that could keep anyone breathing and fed for three centuries |
+| A Guide | Someone must raise the first generation. With no crew, it must be the ship |
+| The full preserved Earth corpus | Information is the only cargo that costs nothing to carry |
+| One pre-paired Thorne mouth | The whole fleet was assembled in one place, at Sol, so pairing it wholesale was trivial. See [chronology-protection](/encyclopedia/chronology-protection.html) |
+| No AI technology | A rule the Guides imposed on themselves before departure |
+
+**Marginal flights carried a different manifest.** They traded embryo mass for
+survival mass: an expanded genetic-adaptation corpus, a deeper medical library,
+and descent vehicles hardened against flare exposure — paid for with a smaller
+embryo complement.
+
+The consequence compounds. A marginal colony begins with a narrower founder
+population on a world demanding far more adaptation, which means higher
+selective pressure acting on less genetic variety. It is a large part of why so
+few of them survived, and a large part of why the ones that did diverged from
+baseline human stock so quickly and so far.
+
+## Why a third of the ships never deployed
+
+The published figure — approximately one ship in three failed to deploy, its
+destination having drifted below the habitability threshold on arrival — is
+correct, and its usual explanation is not.
+
+Nothing drifted. The data was already wrong when the ship left.
+
+Every target dossier was stale on arrival by `C-16`: the light-travel lag from
+the target to Earth's instruments, plus the transit itself. The planners were
+reading a sky that had moved on before they finished looking at it, and then
+flying into it for three hundred years.
+
+**The Guides did not choose badly. They chose correctly, against data that had
+expired before the ship was built.**
+
+
+::: {.callout-important collapse="true" title="Spoiler — click to open"}
+There is a second thing wrong with the published figure, and it is subtler than
+the first. One-in-three is the *primary* fleet's rate. The marginal fleet's rate
+was `C-12` — far worse, and far less recorded, because the colonies that failed
+did not survive to write encyclopedias and the colonies that succeeded were
+mostly in no condition to.
+
+The number that came down to us is the number the winners measured. It is not a
+falsified figure. It is a survivorship artifact, and it has been quoted for
+eleven thousand years by people with no way to notice.
+:::
+
+
+## What the colonies became
+
+| | Hulls | Deployed | Colonies |
+|---|---|---|---|
+| Primary, prime body | `C-06` | `C-11` | ~23, mostly Tier 5–7, free-rotating |
+| Primary, secondary body | 64 | `C-11` | ~43 at Tier 3–5 |
+| Marginal | `C-07` | `C-12` | ~38 at Tier 3–5, tidally locked |
+
+`C-13` founding colonies. About `C-14` of them mobile and wealthy; about `C-15`
+locked or marginal.
+
+That ratio — one in five — is the fracture the rest of galactic history runs
+along. It is not a policy, not an injustice anyone designed, and not a
+consequence of who worked harder. It is the shape of the sky within thirty
+light-years of a dying planet, transcribed onto a species.
+
+## Twin colonies
+
+A minority of primary systems host more than one colony: the prime body, plus
+one or two on lesser bodies under the same sun, from redundant hulls that had
+nowhere better to go.
+
+They are almost never equals. A Tier 6 world and a Tier 4 sibling, in the same
+system, aware of each other from the first generation and reachable by in-system
+rockets centuries before anything else in the galaxy is reachable at all.
+
+This is the one place in the Genesis Era where isolation is not total, and the
+one place where the inequality that would define the Expansion Era existed
+inside a single sky from the beginning. Two colonies, one star, and a difference
+in fortune that neither of them chose and both of them could see.
+
+See also: [foundations](/encyclopedia/foundations.html), [red-dwarf-worlds](/encyclopedia/red-dwarf-worlds.html), [generation-ships](/encyclopedia/generation-ships.html),
+[sagan-kim-scale](/encyclopedia/sagan-kim-scale.html), [propulsion](/encyclopedia/propulsion.html), [galactic-timeline](/encyclopedia/galactic-timeline.html).

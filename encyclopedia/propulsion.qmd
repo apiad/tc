@@ -19,6 +19,38 @@ Three consequences run through everything below:
 - **Colonies diverge by endowment, not by insight.** Ore, energy, arable land, and [Sagan-Kim](/encyclopedia/sagan-kim-scale.html) tier set the industrial ceiling. A Tier 4 world holds its population genetically captive *and* holds its foundries capped.
 - **The vault thresholds are mechanical, therefore gameable.** A colony that inflates its energy-production figures to trigger an early release is committing the era's characteristic crime.
 
+## The dust barrier
+
+Interstellar space is empty enough to be called a vacuum and not empty enough to
+fly through fast. It holds atoms, molecules, dust, and things larger than dust,
+and every one of them is a projectile to a hull moving at a fraction of light
+speed.
+
+The arithmetic is brutal and it is not an engineering problem. A single iron
+atom striking at `C-17` carries enough energy to carve a damage track a tenth of
+a millimetre deep. A grain of dust at that speed is a grenade — it detonates,
+explosively evaporating and grinding away whatever shielding it met. A rock the
+size of a fist releases more energy than a fission weapon. And the effects do
+not scale linearly: they worsen far faster than the velocity rises.
+
+`C-17` is therefore a ceiling on **anything with local velocity** (`I-05`), and
+which technologies it binds is the fact that shapes this entire ladder:
+
+- **Orion pulse, `C-02`.** Comfortably below the threshold. The Exodus works
+  unmodified, and the fleet's slowness — usually read as a limitation — is also
+  the only reason three hundred years of unshielded flight was survivable at
+  all.
+- **The Alcubierre drive: immune.** A warp ship has no local velocity. It is at
+  rest in a flat bubble, and the interstellar medium is not striking a hull at
+  `C-18` because nothing is moving through it (`I-06`). This is the third
+  consequence of the same sentence that gives warp its lack of dilation and its
+  lack of momentum, and it is the reason warp is not merely the *best* way to
+  cross interstellar space but very nearly the only one. See [warp-drive](/encyclopedia/warp-drive.html).
+- **Forward sails, 0.6–0.9c: catastrophically exposed.** A sail travels at
+  genuine relativistic velocity through real matter. Energy per unit mass of
+  impactor at 0.9c is some sixty times the `C-17` case. Sails are not shieldable
+  at cruise, and no material has ever been proposed that would change this.
+
 ## The ladder
 
 | Era | Drive | Effective speed | Voyage | The constraint it creates |
@@ -39,7 +71,7 @@ The Genesis seedships were driven by shaped nuclear charges detonated against a 
 
 The seedships were made out of the arsenal. The weapons assembled to end the species became the mechanism that carried it out.
 
-**Reach.** At 0.03–0.1c across a 150–300 year voyage, an Orion ship's practical radius from Sol is roughly thirty light-years. Inside that sphere there are between three and four hundred stellar systems. This is the arithmetic behind "hundreds of Genesis seedships" — the fleet was not sized by ambition or budget. It was sized by how many stars an Orion could reach.
+**Reach.** At `C-02` across a 150–300 year voyage, an Orion ship's practical radius from Sol is `C-01`. Inside that sphere there are between three and four hundred stellar systems — and that number is misleading, because only `C-06` of them are worth going to. The fleet was not sized by ambition or budget. It was sized by how many stars an Orion could reach *and* how few of those were any good. See [cosmography](/encyclopedia/cosmography.html).
 
 **The manifest.** Roughly half of an Orion's pulse units are spent decelerating at the far end. There is no way around this; a reaction drive must carry its brakes. The resulting mass budget is severe enough that adult colonists in cryo, with their pods and consumables and shielding, do not fit. An embryo masses on the order of a millionth of an adult with life support.
 
@@ -59,13 +91,16 @@ The isolation of the Genesis Era is not a cultural condition, not a policy, and 
 
 What ends the era is not discovery. It is the first colony to build a rocket and a power plant good enough to go and answer it.
 
+**And for most of the fleet it never stopped ringing.** A colony that never reaches orbit never answers. The locked and marginal worlds mostly did not reach orbit — their industrial ceiling is set by a dim star and a habitable ring (see [red-dwarf-worlds](/encyclopedia/red-dwarf-worlds.html)) — which means there are working, pre-paired Thorne mouths in orbit around worlds that stayed pre-industrial for thirteen thousand years. Functional. Powered down. Waiting, at the End of Time, for a call from a planet that never learned it could make one.
+
 ## Expansion Era — the Alcubierre drive
 
-The technology that defines the era. Full treatment in [warp-drive](/encyclopedia/warp-drive.html); the summary is that it is a metric drive — the ship rests in a flat bubble and the bubble moves — with three properties that shape everything built around it:
+The technology that defines the era. Full treatment in [warp-drive](/encyclopedia/warp-drive.html); the summary is that it is a metric drive — the ship rests in a flat bubble and the bubble moves — with four properties that shape everything built around it:
 
 - **A hard ceiling below c**, enforced by physics rather than engineering (see [warp-drive](/encyclopedia/warp-drive.html) for why crossing it is fatal in a specific and permanent way).
 - **No time dilation.** Ship time equals coordinate time. Thirty light-years costs thirty years of the traveller's life, in full.
 - **No momentum.** The ship never accelerates and never moves locally. Cut the drive and it stops where it is.
+- **Immunity to the medium.** Having no local velocity, a warp ship is not struck by the interstellar medium at all — the one property that makes crossings survivable rather than merely fast, and the reason the era belongs to warp instead of to sails.
 
 The generational progression from 50–100 year voyages to 20–50 year voyages is a reactor story, not a drive story. Bubble velocity scales with continuous power output, not with stored fuel. A second-generation ship and a third-generation ship run the same geometry; the third has a power plant that can hold a tighter one. See [generation-ships](/encyclopedia/generation-ships.html).
 
@@ -76,6 +111,10 @@ Cryogenics and the Alcubierre drive are locked together. Because warp returns no
 A beam-driven lightsail carries no power plant at all. A laser array in the origin system does the work; the ship is a mirror and a payload. This is the sail's real advantage — not speed, but that the expensive part stays home and gets reused for every launch after the first.
 
 Sails reach 0.6–0.9c with genuine relativistic dilation, so a sail traveller arrives measurably younger than a warp traveller on the same route. The effect is real but modest: a factor of two at best, not the tenfold saving of a hard-relativistic rocket.
+
+**And sails only fly down swept corridors.** Because a sail carries real velocity through real matter (see the dust barrier above), a sail route is not a line between two stars — it is a *cleared volume*, surveyed for debris and maintained from the destination end, along which a sail can travel without being disassembled by the medium. Establishing a corridor is a decades-long industrial undertaking by the system that wants the traffic.
+
+This is not an additional inconvenience on top of the deceleration problem. It is the same conclusion arriving by a second road: sails serve routes between worlds that are already connected, wealthy, and motivated, and they cannot reach anywhere else at all.
 
 **Deceleration is the whole problem.** A sail can be pushed but not pulled. Stopping requires either a second array waiting at the destination, or a magnetic brake — Zubrin's sail, run against the destination star's wind and the interstellar medium — which works but is slow and imprecise, and adds years to an arrival.
 

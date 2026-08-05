@@ -1,0 +1,116 @@
+---
+title: "Foundations"
+---
+
+
+The numbers this universe runs on, and the constraints it may not break.
+
+This entry is the root of the encyclopedia. Everything else derives from it, and
+nothing in it derives from anything else. Its companion is
+guide-master-plan, which holds the *why*; this file holds the *how much* and
+the *what may not happen*.
+
+## How to use this file
+
+**Constants are cited, never restated.** Every number in the Transcendent
+Chronicles lives in exactly one place — the table below — and every other entry
+refers to it by ID. An entry that writes out a figure instead of citing it will
+drift the first time the figure changes, and the figures have changed once
+already.
+
+**Invariants are falsifiable.** They are not themes or preferences. Each one can
+be checked against a claim and can be shown to be violated. An entry that
+contradicts an invariant is wrong, not interesting.
+
+Entries declare what they rest on in their frontmatter:
+
+```yaml
+derives_from: [I-04, C-01, propulsion]
+```
+
+`bin/tc-check` validates that every cited ID exists, that the derivation graph
+has no cycles, that no entry restates a guarded value without citing its
+constant, and that every named world orbits a star in
+`lore/data/nearby-stars.csv`. The star catalog is the one place where this
+encyclopedia is checkable against something outside itself: the F/G/K rows and
+their habitability judgements come from Sol Company's ten-parsec tables, and the
+M-dwarf rows from a SIMBAD query for everything with a parallax above 100
+milliarcseconds — which is exactly the ten-parsec boundary.
+
+The **Guard** column names a literal string the checker watches for. If an entry
+contains that string without citing the constant that owns it, the check fails.
+Constants whose values appear too often in ordinary prose are left unguarded
+rather than made noisy: `30 ly` and `0.2c` are ordinary measurements, and
+`C-07`'s bare `~150` and `C-10`'s bare `~250` collide with durations —
+the Expansion wave takes ~150 years and the Synthetic Wars run ~250. Where a
+figure is guardable but its digits are not distinctive, the guard carries a
+word of context — `~80 locked` rather than `~80`. A guard that fires on
+innocent prose is worse than no guard, because a noisy gate is one people
+learn to route around.
+
+## Constants
+
+| ID | Value | Guard | Meaning |
+|---|---|---|---|
+| `C-01` | 30 ly | | Orion practical reach from Sol (150–300 yr at cruise) |
+| `C-02` | 0.03–0.1c | | Orion cruise velocity |
+| `C-03` | ~380 in ~260 | | Objects / systems within 10 pc (RECONS 2012) |
+| `C-04` | 217 | | M dwarfs catalogued within 10 pc |
+| `C-05` | 63 | | F/G/K stars catalogued within 10 pc |
+| `C-06` | 32 | `thirty-two` | Primary target systems: F5–K5, stable HZ, within `C-01` |
+| `C-07` | ~150 |  | Marginal targets selected from the 188 poor targets in reach |
+| `C-08` | 3 | | Hulls per primary target |
+| `C-09` | 1 | | Hulls per marginal target |
+| `C-10` | ~250 | `~250 hulls` | Genesis fleet size in hulls |
+| `C-11` | ~2/3 | | Primary-fleet deployment success rate |
+| `C-12` | ~1/4 | | Marginal-fleet deployment success rate |
+| `C-13` | ~100 | `~100 founding` | Founding colonies |
+| `C-14` | ~20 | `~20 mobile` | Mobile founding colonies (Tier 6–7, free) |
+| `C-15` | ~80 | `~80 locked` | Locked or marginal founding colonies |
+| `C-16` | 30–330 yr | `30 to 330` | Target-dossier staleness on arrival |
+| `C-17` | 0.2c | | ISM impact threshold for local-velocity craft |
+| `C-18` | 0.98c | | Third-generation Alcubierre effective velocity |
+| `C-19` | 12 | `12 Great Houses` | Great Houses |
+| `C-20` | >100 billion | `100 billion` | Imperial peak population (~1,500 ID) |
+| `C-21` | 100–400 billion | | Stars in the Milky Way — the scale the diaspora is a speck against |
+
+## Invariants
+
+| ID | Invariant |
+|---|---|
+| `I-01` | No FTL travel exists except the [thorne-nexus](/encyclopedia/thorne-nexus.html). Warp is subluminal, always |
+| `I-02` | No gate mouth may be transported by a method carrying relativistic gamma |
+| `I-03` | The Nexus contains no cycles |
+| `I-04` | No Genesis seedship carried adult humans or any human crew |
+| `I-05` | Nothing with local velocity exceeds `C-17` through unswept space |
+| `I-06` | Alcubierre vessels have no local velocity, no time dilation, and no momentum |
+| `I-07` | No colony invented a technology. Every drive's theory arrived complete in the Guide corpus |
+| `I-08` | No non-human sapients exist **within the diaspora's reach**. Every intelligence in recorded history descends from Earth, was built by something that did, or is a Guide. Whether the wider galaxy is inhabited is unknown and must stay unknown |
+| `I-09` | Every named star exists in the real 10 pc catalog, at its real distance and spectral class |
+| `I-10` | No Genesis colony lies beyond `C-01` from Sol |
+| `I-11` | A sleeping Guide answers; it does not act. Oracle invocation only |
+| `I-12` | AI technology was withheld from every colony |
+| `I-14` | Habitability has two axes: irradiance tier 0–7 and rotational state free/locked |
+| `I-15` | Vault release thresholds are mechanical and gameable. No Guide judges them after sleep |
+
+## On the emptiness of the neighbourhood
+
+`I-08` says the diaspora met nobody. It does not say the galaxy is empty, and no
+entry may treat the one as evidence for the other.
+
+Orion's reach is `C-01` — a bubble of `C-06` good systems inside a galaxy of
+`C-21` stars. At its height the Confederacy held some two thousand systems,
+roughly one part in a hundred million of the whole. Finding nobody in a sample
+that size is not evidence of absence. It is not evidence of anything.
+
+The galaxy may be crowded. The only others humanity ever found were itself.
+
+
+
+## What is not here
+
+Dates and eras live in [galactic-timeline](/encyclopedia/galactic-timeline.html). The calendar systems live in
+[stellar-calendar](/encyclopedia/stellar-calendar.html). The star catalog is `lore/data/nearby-stars.csv`, which is
+data rather than prose and is not an encyclopedia entry.
+
+See also: [cosmography](/encyclopedia/cosmography.html), [galactic-timeline](/encyclopedia/galactic-timeline.html), [propulsion](/encyclopedia/propulsion.html), [sagan-kim-scale](/encyclopedia/sagan-kim-scale.html).

@@ -1,0 +1,177 @@
+---
+title: "Red Dwarf Worlds"
+---
+
+
+Where most of humanity actually lives, and why almost none of its history was
+written there.
+
+`C-04` of the stars within reach of the Exodus are red dwarfs, and the fleet
+aimed `C-07` hulls at the best of them (see [cosmography](/encyclopedia/cosmography.html)). The colonies that
+survived became `C-15` of the founding settlements — the demographic bulk of the
+species, on worlds that the Confederacy would later describe, without noticing
+what it was saying, as the edge of things.
+
+## The terminator
+
+A red dwarf is dim, so its habitable zone lies close in. Close enough that tidal
+forces win.
+
+A world in that zone is locked: the same hemisphere faces the star forever. One
+side is in permanent day, standing under a sun that never moves. The other is in
+permanent night, and cold enough on the worst of these worlds that the
+atmosphere itself weathers out onto the rock. Between them runs the terminator —
+a ring of perpetual dusk, a few hundred kilometres wide, where the temperature
+gradient is survivable and the light comes in sideways forever.
+
+Everything lives in the ring.
+
+This is the first fact of a red dwarf world and it shapes every other. A locked
+world has no temperate band and no polar waste; it has an inside and an outside
+and a habitable circle drawn between them. Cities are strung along the ring like
+beads. Agriculture runs in the band where the light is strongest without being
+lethal, which is the same band everyone wants to live in. Territory on such a
+world is not an area. It is an arc, and an arc has exactly two directions to
+expand in, and someone is already there.
+
+The characteristic political geography of the diaspora's poorer half is a chain
+of settlements that cannot grow sideways.
+
+## A sky with no year in it
+
+There are no seasons. A locked world has no axial tilt worth the name and no
+meaningful orbital variation, so the light does not change. The sun does not
+rise, does not set, and does not move. It hangs at a fixed angle that depends
+only on where you stand, and you can navigate by it the way a sailor navigates
+by a lighthouse.
+
+Which means there is no year visible in the sky at all.
+
+This is stranger than it sounds and its consequences run deep. A calendar has to
+be *invented* rather than observed. On Earth and on the free-rotating worlds, the
+year is a thing you notice; a child learns it before anyone teaches it. On a
+locked world the orbital period is an astronomical abstraction that a
+pre-industrial population has no way to perceive and no reason to care about.
+
+So locked colonies keep time by whatever else recurs. Tidal cycles where there
+is an ocean and a moon. Crop maturation, which fixes the calendar to the
+agriculture rather than the other way round. Physiological rhythm, in
+populations that kept a sleep cycle they no longer had a sun to hang it on.
+Several kept the ship's clock — the arbitrary twenty-four-hour period their
+Guide ran the first settlement on, preserved for millennia as a religious
+inheritance nobody could account for.
+
+The result is that the diaspora's poorer half does not share a unit of time with
+its richer half, and did not until the Expansion Era imposed one. See
+[stellar-calendar](/encyclopedia/stellar-calendar.html) for what that imposition cost.
+
+## Flares
+
+Red dwarfs are unstable in a way the Sun is not. They flare — irregularly,
+violently, and across a spectrum that strips atmosphere and sterilises surfaces.
+A world close enough to be warm is close enough to be scoured.
+
+Nothing about this is survivable by prediction. Flare intervals are not periodic
+and the warning is minutes at best. What is survivable is *architecture*: you
+live under rock, or under water, or under enough engineered mass that the event
+is a noise overhead rather than a death.
+
+Every long-lived culture on a locked world is a culture that goes underground on
+short notice and has organised itself around being able to. The shelter is the
+civic building. The drill is the civic ritual. Populations that took millennia to
+develop writing had flare protocol before they had law, because a settlement that
+did not have it did not become a settlement.
+
+And it is not superstition dressed as caution. A society whose central shared
+experience is *the sky occasionally tries to kill everyone, without warning, and
+the only response is to be already inside* produces a theology, and the theology
+is remarkably consistent across worlds that never met. The star is not benevolent
+and not malicious. It is awake, and it is indifferent, and you do not stand
+under it longer than you need to.
+
+Confederacy observers in the Expansion Era recorded these as sun-fearing
+religions and filed them as primitive. They were engineering documents with
+liturgy attached.
+
+## Energy poverty, which decides everything
+
+The rest of this entry describes texture. This part decides history.
+
+**Red dwarfs are dim.** A world in the habitable zone of one receives enough
+energy to be warm and nothing like enough to be rich. Every energy budget on
+such a world is tighter than its equivalent on a free-rotating world around a
+G-type sun: less incident light for agriculture, less for any solar
+infrastructure, a thinner margin for everything built on top.
+
+Less available energy means less foundry capacity. Less foundry capacity means a
+lower industrial ceiling. And the Guide vaults release against *measured
+industrial thresholds* — population, energy production, institutional stability
+(see [guide-vaults](/encyclopedia/guide-vaults.html)).
+
+So a locked colony does not merely develop more slowly. **It develops toward a
+ceiling it may never reach, gated by a mechanism that cannot see why it is
+failing.** The vault is not cruel and not broken. It is counting, and the numbers
+do not arrive.
+
+This is the mechanism behind the single most consequential asymmetry in galactic
+history. The mobile colonies unlocked their corpus together, found each other,
+and built the Confederacy. The locked colonies mostly did not, and were still
+pre-industrial when the Confederacy arrived — which is why first contact between
+branches of the diaspora was not a reunion but a **discovery**, asymmetric from
+the first day, conducted by people who had a word for what they were doing and
+had used it before.
+
+See [galactic-timeline](/encyclopedia/galactic-timeline.html) for what the Expansion Era did with that advantage.
+
+## Adaptation
+
+A marginal-flight colony began with a narrower founder population than a primary
+one — the manifest traded embryo mass for the adaptation corpus and the hardened
+descent vehicles that would let anyone survive at all (see [cosmography](/encyclopedia/cosmography.html)).
+
+Narrow founder populations, higher selective pressure, and a world demanding
+irreversible modification: the outcome is divergence, fast and far. Adapted
+populations change in stature, in colouring, in build, in the tolerances of the
+skin and the eye — and because the direction of the change follows the world, no
+two of them drift the same way. A population shaped by a dim sun and a permanent
+sideways light does not resemble one shaped by a thin atmosphere and a
+high-radiation ring, and neither resembles baseline human stock.
+
+Under [sagan-kim-scale](/encyclopedia/sagan-kim-scale.html) this is what `I-14`'s second axis measures. A Tier 5
+free world and a Tier 5 locked world are the same tier and not the same place,
+and they do not produce the same people.
+
+The social consequence is [sagan-kim-scale](/encyclopedia/sagan-kim-scale.html)'s to state. The historical one
+belongs here: these populations cannot leave. Not by policy — biologically.
+Adapted past compatibility with the worlds their cousins live on, they are bound
+to the planet that made them, permanently, in a galaxy whose wealth is measured
+in mobility.
+
+## The long inheritance
+
+One thing belongs to these worlds and to nothing else in the diaspora.
+
+A G-type star has a working life of ten billion years. A red dwarf burns for a
+trillion, and burns steadily for almost all of it. Every mobile colony in the
+Confederacy is living on borrowed cosmic time by comparison; the locked worlds
+are not.
+
+The Exodus planners knew this, and it is why `C-07` hulls went to targets nobody
+expected to work. A programme optimising for the next ten thousand years would
+have sent everything to the good stars. This one did not.
+
+
+::: {.callout-important collapse="true" title="Spoiler — click to open"}
+Worth holding while reading the later eras: after the Great Scattering, when the
+Nexus is gone and the mobile worlds are stranded in fragments, the locked
+populations are exactly where they always were — on worlds no empire can reach,
+around stars that will still be burning when every G-type sun in the former
+Confederacy has gone out.
+
+The Scattering did not scatter them. It left them alone, which is a different
+thing, and in the very long run it may not be the worse one.
+:::
+
+
+See also: [cosmography](/encyclopedia/cosmography.html), [sagan-kim-scale](/encyclopedia/sagan-kim-scale.html), [guide-vaults](/encyclopedia/guide-vaults.html),
+[galactic-timeline](/encyclopedia/galactic-timeline.html), [stellar-calendar](/encyclopedia/stellar-calendar.html), [foundations](/encyclopedia/foundations.html).

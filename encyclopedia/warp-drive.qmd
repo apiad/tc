@@ -15,7 +15,7 @@ The field generators contract spacetime ahead of the vessel and expand it behind
 
 Everything strange about warp travel follows from that one sentence, and nothing else needs to be invented.
 
-## The three properties
+## The four properties
 
 ### It cannot exceed c, and the reason is not speed
 
@@ -66,6 +66,60 @@ The absence of dilation has a second consequence, and it is the one that matters
 Reaction drives fail into a slow problem. Warp fails into a full stop in deep space, with no momentum, no beacon that anyone can reach, and no possibility of rescue by any means the era possesses. A warp ship is either working or it is a tomb at a set of coordinates nobody will visit.
 
 Crews know this. It is the reason CGSS drive-room culture is what it is.
+
+### It is immune to the interstellar medium
+
+The ship never moves, so nothing hits it.
+
+This is the fourth consequence of the flat interior and the least remarked on,
+because it is an absence rather than an event. Everything else that crosses
+interstellar space at a fraction of light speed is being sandblasted the entire
+way: at `C-17` a single iron atom carves a track a tenth of a millimetre into a
+hull, a dust grain detonates, and the damage worsens faster than the velocity
+rises (`I-05`, and see [propulsion](/encyclopedia/propulsion.html)). A Forward sail at 0.9c meets that
+medium at sixty times the energy per unit mass and cannot be shielded against
+it.
+
+A warp vessel at `C-18` effective meets it at nothing. The ship is at rest with
+respect to its immediate surroundings; the surroundings are what move. There is
+no relative velocity, therefore no impact, therefore no erosion, therefore no
+shield.
+
+**This, more than speed, is why the Expansion Era is a warp era.** Warp is not
+the fastest way across interstellar space by a wide margin — a sail is
+comparable and a hard-relativistic rocket would be better. It is the only way
+that does not require the traveller to survive the crossing.
+
+## The bow shock
+
+The medium does not vanish. It accumulates.
+
+Interstellar matter swept up by the leading wall of the bubble is not destroyed
+and does not pass through. It rides there, compressed against the distortion,
+for the whole of the crossing — and when the bubble is collapsed it is released,
+all of it, forward, in an instant.
+
+Three consequences, all operational:
+
+**Arrival is dangerous to the destination.** A thirty-light-year crossing sweeps
+a substantial column of gas and dust, and the release is directional and
+energetic. Warp vessels drop their bubbles at standoff distance under
+certification protocol, well outside inhabited orbits, and approach the rest of
+the way on in-system drives. Nobody warps into a populated system. The rule is
+older than the Confederacy and predates any written explanation of it.
+
+**The hazard is route-dependent.** A crossing through a dense region of the
+medium loads the bubble more heavily than one through a void, so route selection
+carries a variable that has nothing to do with distance and is not visible from
+inside. Navigational charts record medium density along established runs, and
+the charts are commercially valuable.
+
+**It is a weapon.** Collapse a bubble deliberately, at the wrong distance, on
+the wrong heading, and the accumulated column of a long voyage arrives as a
+directed release. This was worked out during the Great Wars — by more than one
+House, independently — and used. The attack consists entirely of arriving
+somewhere, which is what makes it difficult to prove and impossible to prevent
+by treaty.
 
 ## Resonance
 

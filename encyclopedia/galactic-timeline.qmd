@@ -19,7 +19,11 @@ Stories: [2023-10-19-tc-prologue-exodus](/chronicles/2023-10-19-tc-prologue-exod
 
 ## The Genesis Era (~12,600–14,500 SD)
 
-Origin stories. Colonies form, found their cultures and technologies, develop their origin myths. Different colonies evolve at different rates — earlier departures, better Earth equipment, luck. Isolated from each other, each developing independently.
+Origin stories. Colonies form, found their cultures and technologies, develop their origin myths. Isolated from each other, each developing independently.
+
+`C-13` colonies took root, and they did not take root equally. About `C-14` of them sit on free-rotating Tier 6–7 worlds around the prime bodies of the `C-06` primary systems: comfortable, resource-rich, and on a development curve that will carry them to orbit. The other `C-15` are locked or marginal — terminator worlds around red dwarfs, and the poorer secondary bodies — where survival requires irreversible genetic adaptation and the industrial ceiling is permanently lower (see [red-dwarf-worlds](/encyclopedia/red-dwarf-worlds.html)).
+
+Both halves run the same vault release schedule, in the same order, at wildly different rates (see [guide-vaults](/encyclopedia/guide-vaults.html)). The difference in endowment during these nineteen centuries is the difference that everything afterwards is built on.
 
 Around 14,500 SD, the first inter-galactic communication channel is established when two colonies independently rediscover FTL communication and contact each other. This ends the Genesis Era.
 
@@ -33,11 +37,17 @@ Stories: [2023-10-22-tc-my-children](/chronicles/2023-10-22-tc-my-children.html)
 
 ## The Expansion Era (~14,500–18,000 SD)
 
-In ~150 years, most colonies rediscover FTL communication and contact each other. A map of colonized space is compiled and shared. They call themselves the Galactic Confederacy: a vast, loosely connected network of planetary colonies with unequal technology.
+In ~150 years, most of the *mobile* colonies reach orbit, power their Thorne mouths, and find each other. A map of colonized space is compiled and shared. They call themselves the Galactic Confederacy.
 
-Via trade, cultural influence, and occasional minor military conflict, the Confederacy grows over 3,500 years from ~200 founding colonies to over 2,000 solar systems and 10,000+ settlements. By the era's end, more than 80% of the galactic population falls under one of 12 Great Houses, forming a techno-feudal galactic society.
+**The wave is a primary-fleet event.** The `C-14` mobile colonies cross the industrial threshold together — same release schedule, comparable worlds, comparable endowments — and the coincidence that looks so extraordinary in the histories is nothing of the kind (see [guide-vaults](/encyclopedia/guide-vaults.html)). The `C-15` locked and marginal colonies mostly do not cross it, and are still pre-industrial when the Confederacy arrives.
 
-Era of first contact, adventure, and exploration.
+So contact between the two halves of the diaspora is **not a reunion. It is a discovery**, and it is asymmetric from the first day: conducted by people who arrive in ships, from a civilization with a word for what it is doing, upon populations who have no way to refuse and in many cases no memory of having come from anywhere.
+
+This is where the legal sub-humanity of adapted populations begins. Not as doctrine and not as malice — as the ordinary administrative consequence of one side writing all the records. The locked worlds were found, and the finding is the founding document.
+
+Via trade, cultural influence, and occasional minor military conflict, the Confederacy grows over 3,500 years to over 2,000 solar systems and 10,000+ settlements. By the era's end, more than 80% of the galactic population falls under one of 12 Great Houses (`C-19`), forming a techno-feudal galactic society — twelve seats distributed across `C-06` systems that were ever worth holding.
+
+Era of first contact, adventure, and exploration. It is worth remembering whose era it was.
 
 Stories: [2023-10-23-tc-sky-is-alive](/chronicles/2023-10-23-tc-sky-is-alive.html), [2026-06-08-tc-threshold-v3](/chronicles/2026-06-08-tc-threshold-v3.html)
 
@@ -65,11 +75,21 @@ A synthetics rebellion begins on one fringe planet and spreads like fire. No one
 
 For 250 years, synthetics wage war on all human colonies. The Empire virtually ceases to exist — all communication networks depend on synthetic technology. Cities become battlefields. Humanity shrinks to less than one-tenth of its former size.
 
+**The synths are mobile exactly where humanity is not.** A synthetic body needs no breathable atmosphere, no tolerable pressure, no compatible biochemistry — it can walk on a Tier 1 world, and no human can follow it there under any circumstances, adapted or not. In a galaxy where most of the population is biologically bound to a single planet, the rebellion had access to the entire volume between the worlds, and the Empire never once fought it on ground of its own choosing.
+
 Then, as suddenly as it started, the war ends. The synthetics disappear. Whether they departed to another galaxy, another dimension, or destroyed themselves is unknown. Humans find no one left to fight and are left with ruins.
+
+
+::: {.callout-important collapse="true" title="Spoiler — click to open"}
+> **Where they went.** They did not leave. The only destinations a synthetic population can reach and a human population cannot are the Tier 0–2 worlds, and those are scattered through every system the diaspora ever touched — including the systems holding the most heavily adapted, most divergent human populations in the galaxy. After the Great Scattering severs everything, those two groups are alone together, unobserved, for the remainder of recorded history. See guide-master-plan.
+:::
+
 
 ## The Great Scattering (post-Synthetic Wars)
 
-Communications lost again. Most populations abandon home planets or move to uncivilized areas. Pirates and scavengers ravage the galaxy for centuries. Some fringe planets become tiny beacons of peace; others become pirate shelters.
+Communications lost again. Most mobile populations abandon home planets or move to uncivilized areas. Pirates and scavengers ravage the galaxy for centuries. Some fringe planets become tiny beacons of peace; others become pirate shelters.
+
+**The `C-15` locked populations do not scatter.** They cannot. Adapted past compatibility with any world but their own, they lose their only link to the rest of the species and stay exactly where they are — not dispersed but marooned, in place, permanently. For the majority of humanity the Great Scattering is not an exodus. It is a door closing.
 
 
 ::: {.callout-important collapse="true" title="Spoiler — click to open"}

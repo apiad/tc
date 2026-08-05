@@ -5,7 +5,9 @@ title: "The Sagan-Kim Habitability Scale"
 
 The primary framework used throughout the TC universe for assessing a planet's potential to support human life. Conceived in the 22nd century as Earth's environmental degradation accelerated. Named after 20th-century exobiologist Carl Sagan and 22nd-century astrobiologist Dr. Kim.
 
-The scale drives the Genesis Project: the AIs aboard Genesis ships are programmed to deploy their payloads only on planets meeting specific habitability thresholds. Approximately one-third of ships failed to deploy because their destination planet's actual index had drifted below Level 4 upon arrival.
+The scale drives the Genesis Project: the AIs aboard Genesis ships are programmed to deploy their payloads only on planets meeting specific habitability thresholds. Approximately one-third of the primary fleet failed to deploy, its destination having been assessed below Level 4 on arrival.
+
+The usual explanation for that figure — that the worlds themselves drifted — is wrong. Nothing drifted. Every target dossier was stale on arrival by `C-16`: the light-travel lag from the target to Earth's instruments, plus the transit itself. The planners were reading a sky that had already moved on, and then flying into it for three centuries. They did not choose badly. They chose correctly, against data that had expired before the ship was built. See [cosmography](/encyclopedia/cosmography.html).
 
 ## The Levels
 
@@ -33,6 +35,39 @@ Entirely inhospitable to human life. Robotic operations only.
 **Level 0: Uninhabitable**
 Stars, extreme radiation environments. No human presence possible.
 
+## The second axis: rotational state
+
+A single number cannot describe a tidally locked world, and most of the
+diaspora lives on one. The scale therefore has two axes, not one (`I-14`):
+
+**Irradiance tier (0–7)** — the levels above. How much of the world a human body
+can occupy.
+
+**Rotational state (free / locked)** — whether the world turns with respect to
+its star. A free world has a day, a year, seasons, and a temperate band. A
+locked world has a permanent day hemisphere, a permanent night hemisphere, and a
+habitable ring at the terminator. See [red-dwarf-worlds](/encyclopedia/red-dwarf-worlds.html).
+
+**A Tier 5 free world and a Tier 5 locked world are the same tier and not the
+same place, and they do not produce the same people.** Any assessment that
+reports a tier without a rotational state is incomplete, and Expansion Era
+survey practice — which routinely did exactly that — is the reason several
+colonial charters were written against worlds nobody had correctly described.
+
+## Where the tiers actually come from
+
+The distribution of tiers across the diaspora is not a spread of luck. It falls
+directly out of what the Exodus could reach (see [cosmography](/encyclopedia/cosmography.html)):
+
+- **Tier 6–7, free.** The prime bodies of the `C-06` primary systems — `C-14`
+  colonies. Rare, mobile, wealthy. The Great Houses form here, and the reason
+  they form here is astronomy rather than politics.
+- **Tier 4–5, locked.** Red dwarf terminator worlds, plus the poorer secondary
+  bodies in primary systems. `C-15` colonies, and the demographic bulk of the
+  species.
+- **Tier 3 and below.** Sheltered settlement only. Some marginal deployments
+  landed here. Most did not last the first millennium.
+
 ## Implications for Interplanetary Travel
 
 The scale creates the defining social fracture of the TC universe. Level 6 and 7 individuals can move freely, fostering rich cultural exchange. Level 5 individuals can travel with assistance. Level 4 and below are effectively locked in — their adaptations make them biologically incompatible with most other environments, leading to isolation and potential conflict with more mobile populations.
@@ -49,7 +84,9 @@ The social consequence is obvious and the historical consequence is not: **when 
 ::: {.callout-important collapse="true" title="Spoiler — click to open"}
 This is what is actually happening in *The Sky Is Alive*. The "Silver Gods" — taller, lighter, stronger, faster, silver-skinned, golden-eyed — are not aliens. They are an adapted human population from a low-tier world, visiting a Genesis colony that has lost its technology and its history and taken them for divinities.
 
-There are no non-human sapients in the Transcendent Chronicles. Every intelligence in the galaxy is either descended from Earth, built by something descended from Earth, or a Guide. The reversal in that story is not human-meets-alien. It is two cousins meeting, one of whom cannot tell, and the gods dying of a family illness their instruments have never seen because it has had nineteen centuries to become local.
+Every intelligence humanity ever met descends from Earth, was built by something that did, or is a Guide (`I-08`). The reversal in that story is not human-meets-alien. It is two cousins meeting, one of whom cannot tell, and the gods dying of a family illness their instruments have never seen because it has had nineteen centuries to become local.
+
+This is a claim about the diaspora and not about the galaxy. Orion's reach was `C-06` good systems inside a galaxy of `C-21` stars; at its height the Confederacy held a part in a hundred million of it. Whether anyone else is out there was never determined and is not knowable from a sample that size — which makes the reversal land harder rather than softer. The galaxy may be crowded. The only others humanity ever found were itself.
 :::
 
 
