@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+$body-bg: #161d2f;
+$body-color: #e9e5da;
+$link-color: #eaa99c;
+$navbar-bg: #161d2f;
+$navbar-fg: #a3abbf;
+$navbar-hl: #e9e5da;
+$footer-bg: #161d2f;
+$code-bg: #1d2539;
+$border-color: #2e3854;
+$font-family-sans-serif: "Literata", Georgia, serif;
+$font-family-monospace: "JetBrains Mono", ui-monospace, monospace;
+$headings-font-weight: 400;
+
+/*-- scss:rules --*/
+:root {
+  --tc-bg: #161d2f;
+  --tc-panel: #1d2539;
+  --tc-rule: #2e3854;
+  --tc-text: #e9e5da;
+  --tc-dim: #a3abbf;
+  --tc-dawn: #eaa99c;
+  --tc-cold: #8fb8cf;
+}

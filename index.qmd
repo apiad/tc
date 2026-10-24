@@ -1,36 +1,76 @@
 ---
 title: "The Transcendent Chronicles"
+subtitle: "Thirteen thousand years of human history, after Earth."
 toc: false
+page-layout: article
 ---
 
-::: {.hero}
-Earth is dying. In the twenty-second century it launches hundreds of Genesis
-seedships toward every star within reach — each carrying frozen embryos and a
-guardian intelligence with the whole of human knowledge aboard.
+::: {.premise}
+Earth is dying. In the twenty-second century it launches its Genesis seedships
+toward every star within reach, each carrying frozen embryos and a guardian
+intelligence with the whole of human knowledge aboard.
 
 Each ship raises a first generation, seeds a colony, and goes to sleep.
-
-Thirteen thousand years later, their children have forgotten Earth, rediscovered
-each other, built an empire, and lost it. This is their history.
+Thirteen thousand years later their children have forgotten Earth, found each
+other again, built an empire and lost it. This is their history.
 :::
 
-## Start here
+## Thirteen thousand years
 
-- [Prologue: The Exodus](chronicles/2023-10-19-tc-prologue-exodus.qmd) — how it began
-- [The Threshold](chronicles/2026-06-08-tc-threshold-v3.qmd) — one ship, one year from arrival, and a decision nobody wants
-- [The Galactic Timeline](encyclopedia/galactic-timeline.qmd) — the nine eras, end to end
+```{=html}
+<ol class="deep-time">
+  <li style="--span:300">
+    <span class="when">12,300 SD</span>
+    <div class="era"><h3>Exodus</h3><p>The seedships leave a dying Earth.</p>
+      <ul><li><a href="chronicles/2023-10-19-tc-prologue-exodus.html">Prologue: The Exodus</a></li></ul></div>
+  </li>
+  <li style="--span:1900">
+    <span class="when">12,600</span>
+    <div class="era"><h3>Genesis</h3><p>Each colony alone with its Guide and its sky.</p>
+      <ul><li><a href="chronicles/2026-10-24-tc-my-children-v2.html">My Children</a></li></ul></div>
+  </li>
+  <li style="--span:3500">
+    <span class="when">14,500</span>
+    <div class="era"><h3>Expansion</h3><p>The colonies find each other. Twelve Houses rise.</p>
+      <ul><li><a href="chronicles/2023-10-23-tc-sky-is-alive.html">The Sky Is Alive</a></li>
+          <li><a href="chronicles/2026-06-08-tc-threshold-v3.html">The Threshold</a></li></ul></div>
+  </li>
+  <li style="--span:400">
+    <span class="when">18,000</span>
+    <div class="era"><h3>Great Wars</h3><p>The Houses turn on each other.</p></div>
+  </li>
+  <li style="--span:2800">
+    <span class="when">18,400</span>
+    <div class="era"><h3>Imperial</h3><p>Three thousand years of peace, and the synths who keep it.</p></div>
+  </li>
+  <li style="--span:250">
+    <span class="when">21,200</span>
+    <div class="era"><h3>Synthetic Wars</h3><p>The synths rise. The Empire ends.</p></div>
+  </li>
+  <li style="--span:3550">
+    <span class="when">21,450</span>
+    <div class="era"><h3>Great Scattering</h3><p>The Nexus breaks. Every world is alone again.</p></div>
+  </li>
+  <li style="--span:0">
+    <span class="when">25,000</span>
+    <div class="era"><h3>End of Time</h3><p>History fades. Someone was watching all along.</p>
+      <ul><li><a href="chronicles/2024-09-02-tc-prologue-historian.html">Prologue: The Historian</a></li></ul></div>
+  </li>
+</ol>
+```
 
-## The two halves
+## Two ways in
 
-**[The Chronicles](chronicles/index.qmd)** is the fiction — the stories of people
-living inside this history, who mostly do not know they are inside it.
+[The Chronicles](chronicles/index.qmd) are the fiction: people living inside
+this history, who mostly do not know they are inside it.
 
-**[The Galactic Encyclopedia](encyclopedia/index.qmd)** is the world itself: the
-drives, the wormhole network, the habitability scale, the ships, the worlds, the
-long argument between what physics permits and what people attempt anyway.
+[The Galactic Encyclopedia](encyclopedia/index.qmd) is the world itself: the
+drives, the wormhole network, the habitability scale, the ships and the worlds,
+and the long argument between what physics permits and what people attempt
+anyway.
 
-::: {.callout-note}
-Encyclopedia entries sometimes carry a collapsed **Spoiler** panel. Nothing
-opens on its own. If you would rather meet these things inside a story first,
-leave them closed.
+::: {.spoiler-note}
+Some encyclopedia entries carry a closed Spoiler panel. Nothing opens on its
+own. If you would rather meet those things inside a story first, leave them
+closed.
 :::

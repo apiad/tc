@@ -1,34 +1,169 @@
-/* The Transcendent Chronicles */
+/* The Transcendent Chronicles
+   Colours come from theme-dark.scss / theme-light.scss as --tc-* variables.
+   Dawn (rose) is the one accent: Eos, the first light of a colony.
+   Cold (blue) is where history ends. The deep-time column runs between them. */
 
-:root {
-  --tc-accent: #b8935f;
+@import url("https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,300..700;1,7..72,300..700&family=JetBrains+Mono:wght@400;500&display=swap");
+
+body {
+  font-family: "Literata", Georgia, serif;
+  font-size: 1.08rem;
+  line-height: 1.7;
+  font-optical-sizing: auto;
 }
 
-body { font-size: 1.02rem; line-height: 1.65; }
+main.content { max-width: 40rem; }
 
-.navbar-brand { letter-spacing: 0.04em; font-weight: 600; }
+a { text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
+a:hover { text-decoration-thickness: 2px; }
+
+/* ---------- Titles ---------- */
+
+#title-block-header { margin: 3rem 0 2.5rem; }
+#title-block-header .title {
+  font-size: clamp(2.3rem, 7vw, 3.6rem);
+  font-weight: 300;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+}
+#title-block-header .subtitle {
+  color: var(--tc-dim);
+  font-size: 1.05rem;
+  font-style: italic;
+  font-weight: 400;
+  margin-top: 0.9rem;
+}
+
+h2 {
+  font-size: 1.55rem;
+  font-weight: 400;
+  margin-top: 3.2rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+h3 { font-size: 1.2rem; font-weight: 500; }
+
+/* Story part numerals (I, II, III...) read as section breaks, not headings. */
+.quarto-title-block + * h2, section.level2 > h2 { letter-spacing: 0.02em; }
+hr {
+  border: none;
+  height: 1.6rem;
+  margin: 2.4rem 0;
+  opacity: 1;
+  background: radial-gradient(circle, var(--tc-dim) 1.5px, transparent 2px) center / 1.6rem 1.6rem repeat-x;
+  max-width: 4.8rem;
+}
+
+/* ---------- Navbar and footer ---------- */
+
+.navbar { border-bottom: 1px solid var(--tc-rule); box-shadow: none; }
+.navbar-brand .navbar-title { font-weight: 400; letter-spacing: 0.01em; }
+.nav-footer { border-top: 1px solid var(--tc-rule); color: var(--tc-dim); font-size: 0.9rem; }
+
+/* ---------- Home ---------- */
+
+.premise p { font-size: 1.18rem; line-height: 1.65; }
+
+.deep-time {
+  list-style: none;
+  margin: 2rem 0 1rem;
+  padding: 0;
+  position: relative;
+}
+/* The column: history cooling from first dawn to the end of time. */
+.deep-time::before {
+  content: "";
+  position: absolute;
+  left: 6.2rem;
+  top: 0.55rem;
+  bottom: 0.9rem;
+  width: 3px;
+  border-radius: 2px;
+  background: linear-gradient(var(--tc-dawn), var(--tc-cold));
+}
+.deep-time > li {
+  display: grid;
+  grid-template-columns: 5.4rem 1fr;
+  column-gap: 2rem;
+  /* Each era's height follows its length in years, with room for its text. */
+  min-height: max(4.5rem, calc(var(--span) * 0.0045rem));
+  position: relative;
+}
+.deep-time > li::before {
+  content: "";
+  position: absolute;
+  left: calc(6.2rem - 4px);
+  top: 0.45rem;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: var(--tc-bg);
+  border: 2px solid var(--tc-dim);
+}
+.deep-time .when {
+  text-align: right;
+  color: var(--tc-dim);
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+  padding-top: 0.15rem;
+}
+.deep-time .era h3 { margin: 0; font-size: 1.12rem; }
+.deep-time .era p { margin: 0.1rem 0 0.4rem; color: var(--tc-dim); font-size: 0.95rem; line-height: 1.5; }
+.deep-time .era ul { list-style: none; padding: 0; margin: 0 0 1.2rem; }
+.deep-time .era li { font-style: italic; }
+
+.spoiler-note { color: var(--tc-dim); font-size: 0.92rem; margin-top: 2.5rem; }
+
+/* ---------- Machine logs (stories told through a log) ---------- */
+
+.syslog {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--tc-dim);
+  margin: 1.4rem 0;
+  padding: 0.2rem 0 0.2rem 1rem;
+  border-left: 1px solid var(--tc-rule);
+  overflow-wrap: anywhere;
+}
+.syslog span { display: block; }
+.syslog .comment { font-style: italic; opacity: 0.8; }
+.syslog .date { color: var(--tc-text); }
+.syslog .admin, .syslog .ledger { color: var(--tc-cold); }
+.syslog .admin.over, .syslog .warning, .syslog .error { color: var(--tc-dawn); }
+.syslog .error { font-weight: 500; }
+
+/* ---------- Encyclopedia ---------- */
+
+table { margin: 1.6rem 0; font-size: 0.92rem; }
+blockquote {
+  border-left: 2px solid var(--tc-dawn);
+  padding-left: 1.1rem;
+  color: var(--tc-text);
+}
 
 /* Spoiler folds: readers must choose to open these. */
 .callout-important {
-  border-left-color: var(--tc-accent) !important;
+  border-left-color: var(--tc-dawn) !important;
+  background: var(--tc-panel) !important;
 }
+.callout-important .callout-header,
 .callout-important .callout-title {
-  background-color: rgba(184, 147, 95, 0.12) !important;
-  font-variant: small-caps;
-  letter-spacing: 0.06em;
+  background: transparent !important;
 }
 
-/* Encyclopedia entries read better with a little more air around tables. */
-table { margin: 1.6rem 0; font-size: 0.94rem; }
+/* ---------- Phone ---------- */
 
-blockquote {
-  border-left: 3px solid var(--tc-accent);
-  font-style: italic;
+@media (max-width: 575px) {
+  body { font-size: 1.02rem; }
+  #title-block-header { margin: 1.8rem 0 2rem; }
+  .deep-time::before { left: 4.4rem; }
+  .deep-time > li { grid-template-columns: 3.8rem 1fr; column-gap: 1.4rem; }
+  .deep-time > li::before { left: calc(4.4rem - 4px); }
+  .deep-time .when { font-size: 0.78rem; }
+  .syslog { font-size: 0.74rem; padding-left: 0.7rem; }
 }
 
-.hero {
-  margin: 2.5rem 0 3rem;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid rgba(128,128,128,0.25);
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
 }
-.hero p { font-size: 1.15rem; line-height: 1.6; }

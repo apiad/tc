@@ -39,12 +39,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-0c6c582a2e32955cc333a2e936bacdbf.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-54f06c783d860b74dc52681c70533cb1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-11a1a1d9b7e48054b6b29c711471923d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-a078a497d8ca868aac49b6ff86827a12.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-044da13b38e0994470ecb2d34a414f67.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-8a98f2cf6759f2a461dad68eb5f3c11e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -220,7 +220,8 @@ ul.task-list li input[type="checkbox"] {
       }
     };
     const authorPrefersDark = true;
-    const darkModeDefault = authorPrefersDark;
+    const queryPrefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+    const darkModeDefault = queryPrefersDark.matches;
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
@@ -231,6 +232,14 @@ ul.task-list li input[type="checkbox"] {
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
       window.dispatchEvent(new Event('resize'));
     };
+    queryPrefersDark.addEventListener("change", e => {
+      if(window.localStorage.getItem("quarto-color-scheme") !== null)
+        return;
+      const alternate = e.matches
+      toggleColorMode(alternate);
+      localAlternateSentinel = e.matches ? 'alternate' : 'default'; // this is used alongside local storage!
+      toggleGiscusIfUsed(alternate, darkModeDefault);
+    });
     // Switch to dark mode if need be
     if (hasAlternateSentinel()) {
       toggleColorMode(true);
@@ -288,6 +297,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">The Transcendent Chronicles</h1>
+<p class="subtitle lead">Thirteen thousand years of human history, after Earth.</p>
 </div>
 
 
@@ -304,35 +314,58 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="hero">
-<p>Earth is dying. In the twenty-second century it launches hundreds of Genesis seedships toward every star within reach — each carrying frozen embryos and a guardian intelligence with the whole of human knowledge aboard.</p>
-<p>Each ship raises a first generation, seeds a colony, and goes to sleep.</p>
-<p>Thirteen thousand years later, their children have forgotten Earth, rediscovered each other, built an empire, and lost it. This is their history.</p>
+<div class="premise">
+<p>Earth is dying. In the twenty-second century it launches its Genesis seedships toward every star within reach, each carrying frozen embryos and a guardian intelligence with the whole of human knowledge aboard.</p>
+<p>Each ship raises a first generation, seeds a colony, and goes to sleep. Thirteen thousand years later their children have forgotten Earth, found each other again, built an empire and lost it. This is their history.</p>
 </div>
-<section id="start-here" class="level2">
-<h2 class="anchored" data-anchor-id="start-here">Start here</h2>
-<ul>
-<li><a href="./chronicles/2023-10-19-tc-prologue-exodus.html">Prologue: The Exodus</a> — how it began</li>
-<li><a href="./chronicles/2026-06-08-tc-threshold-v3.html">The Threshold</a> — one ship, one year from arrival, and a decision nobody wants</li>
-<li><a href="./encyclopedia/galactic-timeline.html">The Galactic Timeline</a> — the nine eras, end to end</li>
-</ul>
+<section id="thirteen-thousand-years" class="level2">
+<h2 class="anchored" data-anchor-id="thirteen-thousand-years">Thirteen thousand years</h2>
+<ol class="deep-time">
+  <li style="--span:300">
+    <span class="when">12,300 SD</span>
+    <div class="era"><h3 class="anchored">Exodus</h3><p>The seedships leave a dying Earth.</p>
+      <ul><li><a href="chronicles/2023-10-19-tc-prologue-exodus.html">Prologue: The Exodus</a></li></ul></div>
+  </li>
+  <li style="--span:1900">
+    <span class="when">12,600</span>
+    <div class="era"><h3 class="anchored">Genesis</h3><p>Each colony alone with its Guide and its sky.</p>
+      <ul><li><a href="chronicles/2026-10-24-tc-my-children-v2.html">My Children</a></li></ul></div>
+  </li>
+  <li style="--span:3500">
+    <span class="when">14,500</span>
+    <div class="era"><h3 class="anchored">Expansion</h3><p>The colonies find each other. Twelve Houses rise.</p>
+      <ul><li><a href="chronicles/2023-10-23-tc-sky-is-alive.html">The Sky Is Alive</a></li>
+          <li><a href="chronicles/2026-06-08-tc-threshold-v3.html">The Threshold</a></li></ul></div>
+  </li>
+  <li style="--span:400">
+    <span class="when">18,000</span>
+    <div class="era"><h3 class="anchored">Great Wars</h3><p>The Houses turn on each other.</p></div>
+  </li>
+  <li style="--span:2800">
+    <span class="when">18,400</span>
+    <div class="era"><h3 class="anchored">Imperial</h3><p>Three thousand years of peace, and the synths who keep it.</p></div>
+  </li>
+  <li style="--span:250">
+    <span class="when">21,200</span>
+    <div class="era"><h3 class="anchored">Synthetic Wars</h3><p>The synths rise. The Empire ends.</p></div>
+  </li>
+  <li style="--span:3550">
+    <span class="when">21,450</span>
+    <div class="era"><h3 class="anchored">Great Scattering</h3><p>The Nexus breaks. Every world is alone again.</p></div>
+  </li>
+  <li style="--span:0">
+    <span class="when">25,000</span>
+    <div class="era"><h3 class="anchored">End of Time</h3><p>History fades. Someone was watching all along.</p>
+      <ul><li><a href="chronicles/2024-09-02-tc-prologue-historian.html">Prologue: The Historian</a></li></ul></div>
+  </li>
+</ol>
 </section>
-<section id="the-two-halves" class="level2">
-<h2 class="anchored" data-anchor-id="the-two-halves">The two halves</h2>
-<p><strong><a href="./chronicles/index.html">The Chronicles</a></strong> is the fiction — the stories of people living inside this history, who mostly do not know they are inside it.</p>
-<p><strong><a href="./encyclopedia/index.html">The Galactic Encyclopedia</a></strong> is the world itself: the drives, the wormhole network, the habitability scale, the ships, the worlds, the long argument between what physics permits and what people attempt anyway.</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Encyclopedia entries sometimes carry a collapsed <strong>Spoiler</strong> panel. Nothing opens on its own. If you would rather meet these things inside a story first, leave them closed.</p>
-</div>
+<section id="two-ways-in" class="level2">
+<h2 class="anchored" data-anchor-id="two-ways-in">Two ways in</h2>
+<p><a href="./chronicles/index.html">The Chronicles</a> are the fiction: people living inside this history, who mostly do not know they are inside it.</p>
+<p><a href="./encyclopedia/index.html">The Galactic Encyclopedia</a> is the world itself: the drives, the wormhole network, the habitability scale, the ships and the worlds, and the long argument between what physics permits and what people attempt anyway.</p>
+<div class="spoiler-note">
+<p>Some encyclopedia entries carry a closed Spoiler panel. Nothing opens on its own. If you would rather meet those things inside a story first, leave them closed.</p>
 </div>
 
 

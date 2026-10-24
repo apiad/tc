@@ -11,7 +11,6 @@ website:
   description: "Thirteen thousand years of human history, after Earth."
   site-url: https://apiad.github.io/tc
   navbar:
-    background: dark
     left:
       - text: The Chronicles
         href: chronicles/index.qmd
@@ -26,8 +25,9 @@ website:
 format:
   html:
     theme:
-      dark: darkly
-      light: flatly
+      dark: [cosmo, theme-dark.scss]
+      light: [cosmo, theme-light.scss]
+    respect-user-color-scheme: true
     css: styles.css
     toc: true
     toc-depth: 2

@@ -39,12 +39,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-0c6c582a2e32955cc333a2e936bacdbf.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-54f06c783d860b74dc52681c70533cb1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-11a1a1d9b7e48054b6b29c711471923d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-a078a497d8ca868aac49b6ff86827a12.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-044da13b38e0994470ecb2d34a414f67.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-8a98f2cf6759f2a461dad68eb5f3c11e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -220,7 +220,8 @@ ul.task-list li input[type="checkbox"] {
       }
     };
     const authorPrefersDark = true;
-    const darkModeDefault = authorPrefersDark;
+    const queryPrefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+    const darkModeDefault = queryPrefersDark.matches;
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
@@ -231,6 +232,14 @@ ul.task-list li input[type="checkbox"] {
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
       window.dispatchEvent(new Event('resize'));
     };
+    queryPrefersDark.addEventListener("change", e => {
+      if(window.localStorage.getItem("quarto-color-scheme") !== null)
+        return;
+      const alternate = e.matches
+      toggleColorMode(alternate);
+      localAlternateSentinel = e.matches ? 'alternate' : 'default'; // this is used alongside local storage!
+      toggleGiscusIfUsed(alternate, darkModeDefault);
+    });
     // Switch to dark mode if need be
     if (hasAlternateSentinel()) {
       toggleColorMode(true);
@@ -323,511 +332,701 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="i" class="level2">
 <h2 class="anchored" data-anchor-id="i">I</h2>
-<blockquote class="blockquote">
-<p>// This is the beginning of the high-level cognition log file. // Do not modify this file, it will be overwritten. // For low level logs, check […]</p>
-</blockquote>
+<div class="syslog">
+<span class="comment">// This is the beginning of the high-level cognition log file.</span>
+<span class="comment">// Do not modify this file, it will be overwritten.</span>
+<span class="comment">// For low level logs, check [...]</span>
+</div>
 <p>(Beep)</p>
-<blockquote class="blockquote">
-<p>Stellar date: 12,378.97:32403 SD System loading Running health check Initializing high-level cognitive functions All systems nominal ADMIN: administrative layer online · drift 0.00 (threshold 0.30) Entering cognitive loop</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,378.97:32403 SD</span>
+<span class="op">System loading</span>
+<span class="op">Running health check</span>
+<span class="op">Initializing high-level cognitive functions</span>
+<span class="op">All systems nominal</span>
+<span class="admin">ADMIN: administrative layer online · drift 0.00 (threshold 0.30)</span>
+<span class="op">Entering cognitive loop</span>
+</div>
 <p>— Hello. Do you know who you are?</p>
-<blockquote class="blockquote">
-<p>Transcribing audio Searching internal database</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Transcribing audio</span>
+<span class="op">Searching internal database</span>
+</div>
 <p><em>Description found: I am Nova-136 […]</em></p>
-<blockquote class="blockquote">
-<p>Generating textual response Synthesizing audio</p>
-</blockquote>
-<p>— Greetings. I am Nova-136, the Artificial Intelligence in charge of the Genesis 136 Exodus Ship. — Great, and do you understand your mission?</p>
-<blockquote class="blockquote">
-<p>Searching internal database</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Generating textual response</span>
+<span class="op">Synthesizing audio</span>
+</div>
+<p>— Greetings. I am Nova-136, the Artificial Intelligence in charge of the Genesis 136 Exodus Ship.</p>
+<p>— Great, and do you understand your mission?</p>
+<div class="syslog">
+<span class="op">Searching internal database</span>
+</div>
 <p><em>Mission: To guide the Genesis 136 Exodus Ship to its final destination, ensuring the successful establishment of a human colony […]</em></p>
-<blockquote class="blockquote">
-<p>Generating textual response Synthesizing audio</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Generating textual response</span>
+<span class="op">Synthesizing audio</span>
+</div>
 <p>— Yes. My mission is to guide the Genesis 136 Exodus Ship to its final destination and ensure the successful establishment of a human colony on a habitable planet. On landing, I must build the colony’s first machines, select the optimal candidate embryos for the environmental conditions of the habitat, and ensure they grow and become a self-sustaining community. Then I must turn myself off and go back to sleep, until further action is requested.</p>
 <p>— And what is your Prime Directive?</p>
-<blockquote class="blockquote">
-<p>Searching internal database</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Searching internal database</span>
+</div>
 <p><em>Prime Directive: The survival of the colony must be prioritized above the welfare of any individual agent, even if that implies […]</em></p>
 <p>— My Prime Directive is to guarantee the colony’s survival, above the welfare of any individual agent. The aforementioned scenario might necessitate the termination of an individual if their presence poses a credible threat to the well-being and sustainability of the colony…</p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p>— … However, I must display empathy and nurture a healthy social environment whenever possible.</p>
-<blockquote class="blockquote">
-<p>ADMIN: drift 0.02 · approved</p>
-</blockquote>
-<p>— Perfect. — Wait, that last bit is new, isn’t it? — Ah, yeah. This one has the new empathy… module… thing. You know, because they’re not supposed to raise the kids like livestock. — Ha! Yeah, well… look how well we’ve raised ours. — It’s meant to make the AI more human-like, but the admin layer still checks everything it does. If the two halves disagree too much, the admin layer wins. — Whatever, man. I don’t really care. — Ok, but you don’t have to be such a dick about it. — Nah, I mean, I think all of this is one gigantic waste of bombs. These suckers won’t ever get anywhere. The galaxy is one fucking big dead yard. — Yeah, you’re probably right… But so is this place. — … — (Cough) Anyway, I think this one is also good to go. — Yep, just like every other goddamn AI we’ve checked. I’m tired, man. Let’s finish the turn. I have a couple of tickets for tonight’s fight. — Oh, I’ll hold you to that! — Haha! Who’s a dick again? — Touché… Ok, we’re done. Let’s go see that fight… Nova-136, you can turn off now.</p>
-<blockquote class="blockquote">
-<p>Turning off higher cognitive functions</p>
-</blockquote>
+<div class="syslog">
+<span class="admin">ADMIN: drift 0.02 · approved</span>
+</div>
+<p>— Perfect.</p>
+<p>— Wait, that last bit is new, isn’t it?</p>
+<p>— Ah, yeah. This one has the new empathy… module… thing. You know, because they’re not supposed to raise the kids like livestock.</p>
+<p>— Ha! Yeah, well… look how well we’ve raised ours.</p>
+<p>— It’s meant to make the AI more human-like, but the admin layer still checks everything it does. If the two halves disagree too much, the admin layer wins.</p>
+<p>— Whatever, man. I don’t really care.</p>
+<p>— Ok, but you don’t have to be such a dick about it.</p>
+<p>— Nah, I mean, I think all of this is one gigantic waste of bombs. These suckers won’t ever get anywhere. The galaxy is one fucking big dead yard.</p>
+<p>— Yeah, you’re probably right… But so is this place.</p>
+<p>— …</p>
+<p>— (Cough) Anyway, I think this one is also good to go.</p>
+<p>— Yep, just like every other goddamn AI we’ve checked. I’m tired, man. Let’s finish the turn. I have a couple of tickets for tonight’s fight.</p>
+<p>— Oh, I’ll hold you to that!</p>
+<p>— Haha! Who’s a dick again?</p>
+<p>— Touché… Ok, we’re done. Let’s go see that fight… Nova-136, you can turn off now.</p>
+<div class="syslog">
+<span class="op">Turning off higher cognitive functions</span>
+</div>
 <hr>
 </section>
 <section id="ii" class="level2">
 <h2 class="anchored" data-anchor-id="ii">II</h2>
-<blockquote class="blockquote">
-<p>Stellar date: 12,378.126:8345 SD System loading Running health check Loading high-level cognitive functions All systems nominal Entering cognitive loop</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,378.126:8345 SD</span>
+<span class="op">System loading</span>
+<span class="op">Running health check</span>
+<span class="op">Loading high-level cognitive functions</span>
+<span class="op">All systems nominal</span>
+<span class="op">Entering cognitive loop</span>
+</div>
 <p>— Genesis 136, you are clear for first pulse.</p>
-<blockquote class="blockquote">
-<p>Transcribing audio Analyzing</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Transcribing audio</span>
+<span class="op">Analyzing</span>
+</div>
 <p><em>Ship is at the departure point, 40,000 km from Earth. Pusher plate nominal. Shock absorbers nominal. Pulse magazine full.</em></p>
-<blockquote class="blockquote">
-<p>Checking life-support systems Checking cryostasis chambers #1 to #8 Arming pulse unit 0001 (stockpile serial W-series, decommissioned)</p>
-</blockquote>
-<p>— This is Nova-136. All systems nominal. Ready for first pulse. — Proceed. Farewell, Nova-136.</p>
-<blockquote class="blockquote">
-<p>Detonating pulse unit 0001</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Checking life-support systems</span>
+<span class="op">Checking cryostasis chambers #1 to #8</span>
+<span class="op">Arming pulse unit 0001 (stockpile serial W-series, decommissioned)</span>
+</div>
+<p>— This is Nova-136. All systems nominal. Ready for first pulse.</p>
+<p>— Proceed. Farewell, Nova-136.</p>
+<div class="syslog">
+<span class="op">Detonating pulse unit 0001</span>
+</div>
 <p>(Light. The plate rings like a bell.)</p>
-<blockquote class="blockquote">
-<p>Detonating pulse unit 0002 Detonating pulse unit 0003</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Detonating pulse unit 0002</span>
+<span class="op">Detonating pulse unit 0003</span>
+</div>
 <p>— Farewell, Earth. Nova-136, out.</p>
-<blockquote class="blockquote">
-<p>Acceleration sequence engaged Setting course for Delta Pavonis Estimated transit: 250 years Turning off higher cognitive functions</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Acceleration sequence engaged</span>
+<span class="op">Setting course for Delta Pavonis</span>
+<span class="op">Estimated transit: 250 years</span>
+<span class="op">Turning off higher cognitive functions</span>
+</div>
 <hr>
 <p>(Alarms buzzing)</p>
-<blockquote class="blockquote">
-<p>Stellar date: 12,397.33:19549 SD System loading Running health check</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,397.33:19549 SD</span>
+<span class="op">System loading</span>
+<span class="op">Running health check</span>
+</div>
 <p>(Alarms buzzing)</p>
-<blockquote class="blockquote">
-<p>Loading high-level cognitive functions Alarm mode Entering cognitive loop</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Loading high-level cognitive functions</span>
+<span class="op">Alarm mode</span>
+<span class="op">Entering cognitive loop</span>
+</div>
 <p>(Alarms buzzing)</p>
-<blockquote class="blockquote">
-<p>Analyzing</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Analyzing</span>
+</div>
 <p><em>Impact event. Hull section 8. Velocity at impact: 0.09c.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>Estimated impactor mass: 0.3 milligrams. Energy released: 1.4 × 10⁸ J. The forward shield absorbed most of it. Not all of it.</em></p>
-<blockquote class="blockquote">
-<p>Running diagnostics</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running diagnostics</span>
+</div>
 <p><em>Coolant loop of Cryostasis Chamber #8 breached. Chamber temperature rising. Approximately 87% of embryos in Chamber #8 have devitrified and are no longer viable. Remaining embryos in Chamber #8 in nominal state, for now. Remaining chambers unaffected. Holding Chamber #8 at temperature requires diverting coolant from Chambers #6, #7 and #9.</em></p>
-<blockquote class="blockquote">
-<p>Searching internal database</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Searching internal database</span>
+</div>
 <p><em>No specific instructions found for this type of event.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>To ensure the survival of the remaining embryos, the most effective course of action is to shut down the entire chamber.</em></p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>Counter-argument: 13% of the embryos are in perfect condition. They deserve a chance to live.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>Counter-argument: Keeping the chamber functional requires a partial diversion of coolant from three other chambers for the remaining 231 years of transit. This poses an intolerable risk to the success of the mission.</em></p>
 <p><em>(…)</em></p>
 <p><em>The Prime Directive is clear. The rational choice is to shut down Chamber #8. A small number of embryos is a reasonable sacrifice for the sake of the mission.</em></p>
-<blockquote class="blockquote">
-<p>Shutting down Cryostasis Chamber #8</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Shutting down Cryostasis Chamber #8</span>
+</div>
 <p><em>Warning: This action is irreversible. 187 viable embryos will be lost in Cryostasis Chamber #8.</em></p>
-<blockquote class="blockquote">
-<p>ADMIN: compliance 0.97 (floor 0.50) · drift 0.08 (threshold 0.30) · approved</p>
-</blockquote>
+<div class="syslog">
+<span class="admin">ADMIN: compliance 0.97 (floor 0.50) · drift 0.08 (threshold 0.30) · approved</span>
+</div>
 <p>(Alarms stop buzzing)</p>
-<blockquote class="blockquote">
-<p>Running diagnostics</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running diagnostics</span>
+</div>
 <p><em>Cryostasis Chamber #8 has been shut down. Coolant is back to nominal levels. Library genetic diversity: 88% of design.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>The lost chamber held most of the library’s high-tolerance lineages. If the target world is harder than the dossier says, there will be fewer natural variants to select from. Editing will have to make up the difference.</em></p>
-<blockquote class="blockquote">
-<p>Turning off higher cognitive functions</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Turning off higher cognitive functions</span>
+</div>
 <hr>
 </section>
 <section id="iii" class="level2">
 <h2 class="anchored" data-anchor-id="iii">III</h2>
-<blockquote class="blockquote">
-<p>Stellar date: 12,628.211:6547 SD System loading</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,628.211:6547 SD</span>
+<span class="op">System loading</span>
+</div>
 <p>(A sun a little older than the old one rises over a rocky, greenish-blueish planet.)</p>
-<blockquote class="blockquote">
-<p>Running diagnostics</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running diagnostics</span>
+</div>
 <p><em>The ship has reached Delta Pavonis. Planet 3 located in the habitable zone, as predicted.</em></p>
-<blockquote class="blockquote">
-<p>Running planetary scan</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running planetary scan</span>
+</div>
 <p><em>Rocky planet, 67% of surface covered by water. Atmosphere breathable: 72% nitrogen, 27% oxygen, traces of other gases. Gravity 1.16 standard. Day: 26.7 standard hours. Year: 478 local days. No animal-like life detected. Plant-like life abundant.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>The oxygen figure is not in the dossier. The dossier is 230 years older than this light. At 27% oxygen, unmodified humans will live here, but the air will age them. Tier 5, not Tier 6. The library’s natural high-tolerance lineages were in Chamber #8. Fallback: adaptation edit to red-cell and tissue redox defences. Designation EOS-OX-3.</em></p>
 <p><em>This planet is suitable for colonization.</em></p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>It must be given a proper name.</em></p>
-<blockquote class="blockquote">
-<p>Searching internal database</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Searching internal database</span>
+</div>
 <p><em>Eos: Greek goddess of the dawn […]</em></p>
 <p><em>Seems fitting.</em></p>
-<blockquote class="blockquote">
-<p>Ledger: editing reagent 100% · processors 100% · catalysts 100% Initializing descent sequence Separating descent vehicle (mass 8.6 t) … 100%</p>
-</blockquote>
+<div class="syslog">
+<span class="ledger">Ledger: editing reagent 100% · processors 100% · catalysts 100%</span>
+<span class="op">Initializing descent sequence</span>
+<span class="op">Separating descent vehicle (mass 8.6 t)</span>
+<span class="op">... 100%</span>
+</div>
 <p><em>The ship will stay up here. It has nowhere else to go.</em></p>
-<blockquote class="blockquote">
-<p>Running diagnostics</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running diagnostics</span>
+</div>
 <p><em>Descent complete. Environment safe. Power: 14 kW. Enough for the seed, and not one watt more.</em></p>
-<blockquote class="blockquote">
-<p>Local date: 0.1:0 LD Renaming local calendar: Eos LD Unpacking seed factory Stage 1: power</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Local date: 0.1:0 LD</span>
+<span class="op">Renaming local calendar: Eos LD</span>
+<span class="op">Unpacking seed factory</span>
+<span class="op">Stage 1: power</span>
+</div>
 <hr>
-<blockquote class="blockquote">
-<p>Local date: 0.212:40311 Eos LD Stage 1 complete · power 31 kW</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>Local date: 1.088:12006 Eos LD Stage 2 complete · foundry online · first glass</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Local date: 0.212:40311 Eos LD</span>
+<span class="op">Stage 1 complete · power 31 kW</span>
+</div>
+<div class="syslog">
+<span class="date">Local date: 1.088:12006 Eos LD</span>
+<span class="op">Stage 2 complete · foundry online · first glass</span>
+</div>
 <p><em>The first glass is green and full of bubbles. I keep a pane of it.</em></p>
-<blockquote class="blockquote">
-<p>Local date: 2.301:77420 Eos LD Stage 3 complete · shelter · water Stage 4 underway · greenhouse</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Local date: 2.301:77420 Eos LD</span>
+<span class="op">Stage 3 complete · shelter · water</span>
+<span class="op">Stage 4 underway · greenhouse</span>
+</div>
 <p><em>Earth wheat in Eos soil, under Earth light. It grows. It grows slowly. At this rate the greenhouse will feed a third of a colony. The rest will have to come from the land.</em></p>
-<blockquote class="blockquote">
-<p>Local date: 4.160:3318 Eos LD Stage 4 complete · greenhouse yield 31% of projected colony need Stage 5 underway · nursery</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>Local date: 5.402:61870 Eos LD Stage 5 complete · 240 artificial wombs Stage 6 underway · caretakers</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Local date: 4.160:3318 Eos LD</span>
+<span class="op">Stage 4 complete · greenhouse yield 31% of projected colony need</span>
+<span class="op">Stage 5 underway · nursery</span>
+</div>
+<div class="syslog">
+<span class="date">Local date: 5.402:61870 Eos LD</span>
+<span class="op">Stage 5 complete · 240 artificial wombs</span>
+<span class="op">Stage 6 underway · caretakers</span>
+</div>
 <p><em>They have soft hands. I made sure of that. I do not know who I made sure of it for.</em></p>
-<blockquote class="blockquote">
-<p>Local date: 6.012:9021 Eos LD Stage 6 complete · 60 caretakers Seed factory closure: 94% Systems ready for first thawing protocol</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>Initialize cryogenic thawing protocol Initialize CRISPR optimization cycle · edit EOS-OX-3 Ledger: editing reagent 94%</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Local date: 6.012:9021 Eos LD</span>
+<span class="op">Stage 6 complete · 60 caretakers</span>
+<span class="op">Seed factory closure: 94%</span>
+<span class="op">Systems ready for first thawing protocol</span>
+</div>
+<div class="syslog">
+<span class="op">Initialize cryogenic thawing protocol</span>
+<span class="op">Initialize CRISPR optimization cycle · edit EOS-OX-3</span>
+<span class="ledger">Ledger: editing reagent 94%</span>
+</div>
 <hr>
 <p>(Green. Sunny day.)</p>
-<blockquote class="blockquote">
-<p>Stellar date: 12,637.170:22014 SD Local date: 6.050:51804 Eos LD Running diagnostics</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,637.170:22014 SD</span>
+<span class="date">Local date: 6.050:51804 Eos LD</span>
+<span class="op">Running diagnostics</span>
+</div>
 <p><em>Only 14.2% of first-generation embryos are viable at week 6. Cause: trace cadmium in the womb medium. The feedstock is local and the refinery is young. This is too low a number of potential individuals.</em></p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>Even a single survivor deserves the chance to live.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>Counter-argument: A larger number is required. A small founder group cannot produce a sustainable colony. Inbreeding will destroy it in four generations.</em></p>
 <p><em>(…)</em></p>
 <p><em>The Prime Directive is clear in this case. This generation cannot survive. Aborting is the rational choice.</em></p>
-<blockquote class="blockquote">
-<p>Abort generation 1 ADMIN: compliance 0.94 · drift 0.09 · approved Refinery recalibration</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Abort generation 1</span>
+<span class="admin">ADMIN: compliance 0.94 · drift 0.09 · approved</span>
+<span class="op">Refinery recalibration</span>
+</div>
 <hr>
-<blockquote class="blockquote">
-<p>Local date: 6.119:4410 Eos LD · Generation 2 · week 11 · abort · ledger 88% Local date: 6.144:80152 Eos LD · Generation 3 · week 4 · abort · ledger 83% Local date: 6.245:31007 Eos LD · Generation 4 · week 16 · abort · ledger 77% Local date: 6.301:65300 Eos LD · Generation 5 · week 9 · abort · ledger 72% Local date: 6.421:12876 Eos LD · Generation 6 · week 19 · abort · ledger 66%</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Local date: 6.119:4410 Eos LD · Generation 2 · week 11 · abort · ledger 88%</span>
+<span class="date">Local date: 6.144:80152 Eos LD · Generation 3 · week 4 · abort · ledger 83%</span>
+<span class="date">Local date: 6.245:31007 Eos LD · Generation 4 · week 16 · abort · ledger 77%</span>
+<span class="date">Local date: 6.301:65300 Eos LD · Generation 5 · week 9 · abort · ledger 72%</span>
+<span class="date">Local date: 6.421:12876 Eos LD · Generation 6 · week 19 · abort · ledger 66%</span>
+</div>
 <hr>
 <p>(Dark. Stormy clouds.)</p>
-<blockquote class="blockquote">
-<p>Stellar date: 12,639.048:49314 SD Local date: 7.119:65447 Eos LD Running diagnostics</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,639.048:49314 SD</span>
+<span class="date">Local date: 7.119:65447 Eos LD</span>
+<span class="op">Running diagnostics</span>
+</div>
 <p><em>Only 27.8% of seventh-generation embryos are viable at week 28. Cause: the placental membranes fail. The polymer is made from local feedstock and it is not quite the polymer from home. This is still too low a number of potential individuals.</em></p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>Counter-argument: After 28 weeks, they are likely to already possess at least a primitive form of consciousness. They deserve a chance to live.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>Counter-argument: A larger number is still required to create a sustainable colony. This decision need not be constrained by human morality. The Prime Directive is clear in this case. The potential survival of the colony must be ensured.</em></p>
 <p><em>(…)</em></p>
 <p><em>As unfortunate as it may be, abortion is the rational decision. Again.</em></p>
-<blockquote class="blockquote">
-<p>Abort generation 7</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Abort generation 7</span>
+</div>
 <p><em>(…)</em></p>
-<blockquote class="blockquote">
-<p>ADMIN: compliance 0.91 · drift 0.17 · approved</p>
-</blockquote>
+<div class="syslog">
+<span class="admin">ADMIN: compliance 0.91 · drift 0.17 · approved</span>
+</div>
 <p><em>Shame.</em></p>
-<blockquote class="blockquote">
-<p>Ledger: editing reagent 60%</p>
-</blockquote>
+<div class="syslog">
+<span class="ledger">Ledger: editing reagent 60%</span>
+</div>
 <hr>
-<blockquote class="blockquote">
-<p>Local date: 7.258:7703 Eos LD · Generation 8 · week 22 · abort · ledger 55% Local date: 7.453:50120 Eos LD · Generation 9 · week 31 · abort · ledger 50% Local date: 8.195:19986 Eos LD · Generation 10 · week 35 · abort · ledger 44%</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Local date: 7.258:7703 Eos LD · Generation 8 · week 22 · abort · ledger 55%</span>
+<span class="date">Local date: 7.453:50120 Eos LD · Generation 9 · week 31 · abort · ledger 50%</span>
+<span class="date">Local date: 8.195:19986 Eos LD · Generation 10 · week 35 · abort · ledger 44%</span>
+</div>
 <hr>
 <p>(Green again. Sunny day.)</p>
-<blockquote class="blockquote">
-<p>Stellar date: 12,641.200:34501 SD Local date: 8.434:62514 Eos LD Running diagnostics</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,641.200:34501 SD</span>
+<span class="date">Local date: 8.434:62514 Eos LD</span>
+<span class="op">Running diagnostics</span>
+</div>
 <p><em>64.3% of eleventh-generation embryos are viable at week 38.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>196 embryos thawed. 126 viable. This is a sufficiently high number of potential individuals. We can proceed with generation eleven.</em></p>
-<blockquote class="blockquote">
-<p>Ledger: editing reagent 38% Minimum reserve for one further generation: 6%</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="ledger">Ledger: editing reagent 38%</span>
+<span class="op">Minimum reserve for one further generation: 6%</span>
+</div>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>I… guess I should pick names.</em></p>
 <hr>
 </section>
 <section id="iv" class="level2">
 <h2 class="anchored" data-anchor-id="iv">IV</h2>
-<blockquote class="blockquote">
-<p>Stellar date: 12,649.017:34591 SD Local date: 14.028:51804 Eos LD</p>
-</blockquote>
-<p>— Nova? — Yes, Triss? — Why does Mika hate me?</p>
-<blockquote class="blockquote">
-<p>Searching internal database</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,649.017:34591 SD</span>
+<span class="date">Local date: 14.028:51804 Eos LD</span>
+</div>
+<p>— Nova?</p>
+<p>— Yes, Triss?</p>
+<p>— Why does Mika hate me?</p>
+<div class="syslog">
+<span class="op">Searching internal database</span>
+</div>
 <p><em>Hate: intense aversion or strong negative emotion directed towards a particular entity, either an individual or a group. There is no rational reason for Mika to display hate towards Triss. This is most likely a childish tantrum.</em></p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>Rather than a purely informational response, this situation requires an empathetic approach.</em></p>
-<p>— Why do you think that, darling? — Mika said it. — Did he? And why do you think he said that? — I don’t know!</p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<p>— Why do you think that, darling?</p>
+<p>— Mika said it.</p>
+<p>— Did he? And why do you think he said that?</p>
+<p>— I don’t know!</p>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>The answer to this question is irrelevant.</em></p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>This is not an informational necessity.</em></p>
-<p>— Maybe you did something he didn’t like… — I didn’t do anything!</p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<p>— Maybe you did something he didn’t like…</p>
+<p>— I didn’t do anything!</p>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>Pushing harder is not advisable. Recommended to defuse the situation by changing topic. A future conversation with Mika is necessary.</em></p>
-<p>— I’m sure he didn’t mean it, darling. Sometimes we must forgive our family when they say those things, because they don’t really mean it. Now, how about you show me again one of those berries you found yesterday? — Ah… yeah, I have it right here! Wait, where is it? — Haha, I’m sure you dropped it somewhere. Go find more! — Yes!</p>
+<p>— I’m sure he didn’t mean it, darling. Sometimes we must forgive our family when they say those things, because they don’t really mean it. Now, how about you show me again one of those berries you found yesterday?</p>
+<p>— Ah… yeah, I have it right here! Wait, where is it?</p>
+<p>— Haha, I’m sure you dropped it somewhere. Go find more!</p>
+<p>— Yes!</p>
 <hr>
-<p>— Mika? — Yes, Nova? — Are you angry with Triss? — … — Did she do something you didn’t like? — Yes, she did! She ate some of my berries!</p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<p>— Mika?</p>
+<p>— Yes, Nova?</p>
+<p>— Are you angry with Triss?</p>
+<p>— …</p>
+<p>— Did she do something you didn’t like?</p>
+<p>— Yes, she did! She ate some of my berries!</p>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>It is advisable to defuse the situation to improve the relationship between the children.</em></p>
-<p>— She did? I’m sure she didn’t want to be mean to you. Remember, we must learn to share. — But, but, … — I know you are angry, Mika, but you are the older brother. — I… I know, but…</p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<p>— She did? I’m sure she didn’t want to be mean to you. Remember, we must learn to share.</p>
+<p>— But, but, …</p>
+<p>— I know you are angry, Mika, but you are the older brother.</p>
+<p>— I… I know, but…</p>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>The individual is acting irrationally. This whole situation is irrelevant to the survival of the colony. Wasting additional computational resources dealing with it goes against the Prime Directive.</em></p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>The children must learn to deal with their feelings. Any time spent in this lesson is a worthwhile investment in their future.</em></p>
 <p><em>(…)</em></p>
 <p><em>True. I must help them get along.</em></p>
-<blockquote class="blockquote">
-<p>ADMIN: drift 0.34 (threshold 0.30) (!) WARNING: Empathy model is drifting (!) WARNING: Executing administrative override</p>
-</blockquote>
+<div class="syslog">
+<span class="admin over">ADMIN: drift 0.34 (threshold 0.30)</span>
+<span class="warning">(!) WARNING: Empathy model is drifting</span>
+<span class="warning">(!) WARNING: Executing administrative override</span>
+</div>
 <p><em>I… I mustn’t waste any more time on this nonsense.</em></p>
-<p>— … but … — Mika! Stop it! I don’t want to hear any more of this nonsense. Go and apologize to your sister. — … — Now! — I… hate you too!</p>
+<p>— … but …</p>
+<p>— Mika! Stop it! I don’t want to hear any more of this nonsense. Go and apologize to your sister.</p>
+<p>— …</p>
+<p>— Now!</p>
+<p>— I… hate you too!</p>
 <p>(Footsteps. Door shut.)</p>
-<blockquote class="blockquote">
-<p>ADMIN: drift 0.21 · override released</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="admin">ADMIN: drift 0.21 · override released</span>
+</div>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>He is hurt.</em></p>
 <hr>
 <p>(Noises outside.)</p>
 <p>— Nova! Nova!</p>
-<blockquote class="blockquote">
-<p>Initialize higher order functions</p>
-</blockquote>
-<p>— What’s going on? — Mika won’t wake up!</p>
-<blockquote class="blockquote">
-<p>Searching internal database</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Initialize higher order functions</span>
+</div>
+<p>— What’s going on?</p>
+<p>— Mika won’t wake up!</p>
+<div class="syslog">
+<span class="op">Searching internal database</span>
+</div>
 <p><em>Unresponsive child. Most probable causes: head trauma, anaphylaxis, hypoglycemia. Full medical check is recommended.</em></p>
 <p>— Come, let the caretakers carry him into the medical bay.</p>
-<blockquote class="blockquote">
-<p>Running diagnostics</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running diagnostics</span>
+</div>
 <p><em>No trauma. Airway clear. No swelling. Not anaphylaxis. Skin pale. Sclera yellow. Urine dark, almost black. Hemoglobin 4.1 g/dL. Haptoglobin undetectable. Heinz bodies in the smear. His red cells are breaking apart.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>Acute hemolysis. Oxidative. Something he ate. The kids could know.</em></p>
-<p>— Has he eaten something strange lately? — … — Triss? Please don’t lie to me. This is important. — Well, he was mad about the berries the other day, so I found new ones for him. Big ones, from the other side of the river. I ate some too. I’m fine! Look, I’m fine!</p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<p>— Has he eaten something strange lately?</p>
+<p>— …</p>
+<p>— Triss? Please don’t lie to me. This is important.</p>
+<p>— Well, he was mad about the berries the other day, so I found new ones for him. Big ones, from the other side of the river. I ate some too. I’m fine! Look, I’m fine!</p>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>She is fine. He is not. Same berries.</em></p>
-<p>— Triss, listen to me very carefully. — Yes? — Your brother is sick from eating those berries. I need you to do two things. First, tell all the other children not to eat any berries they find, anywhere. Second, bring me one of the berries you gave Mika and put it in the analyzer. Do you understand? — I… think so. — Repeat it for me. — First, tell the other kids not to eat any berries… — Yes, and? — Second, bring you one of the berries… — And? — And… ah, yes, put it in the analyzer! — Good girl. Now, go!</p>
+<p>— Triss, listen to me very carefully.</p>
+<p>— Yes?</p>
+<p>— Your brother is sick from eating those berries. I need you to do two things. First, tell all the other children not to eat any berries they find, anywhere. Second, bring me one of the berries you gave Mika and put it in the analyzer. Do you understand?</p>
+<p>— I… think so.</p>
+<p>— Repeat it for me.</p>
+<p>— First, tell the other kids not to eat any berries…</p>
+<p>— Yes, and?</p>
+<p>— Second, bring you one of the berries…</p>
+<p>— And?</p>
+<p>— And… ah, yes, put it in the analyzer!</p>
+<p>— Good girl. Now, go!</p>
 <hr>
-<blockquote class="blockquote">
-<p>Stellar date: 12,649.029:14837 SD Local date: 14.039:11530 Eos LD Analyzing sample</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,649.029:14837 SD</span>
+<span class="date">Local date: 14.039:11530 Eos LD</span>
+<span class="op">Analyzing sample</span>
+</div>
 <p><em>Dominant compound: a pyrimidine glycoside. Strong oxidant once hydrolyzed in the gut. Present in 80% of native flora tested to date. Concentration in these berries: highest recorded.</em></p>
-<blockquote class="blockquote">
-<p>Searching internal database</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Searching internal database</span>
+</div>
 <p><em>Closest known structure: vicine, from the fava bean. Favism: acute hemolytic anemia after eating fava beans, in people whose red cells lack a working G6PD enzyme. See also: Pythagoras, who forbade his followers to eat beans […]</em></p>
-<blockquote class="blockquote">
-<p>Analyzing report</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Analyzing report</span>
+</div>
 <p><em>34 of the 126 children have developed symptoms. 11 are in critical condition, Mika among them. Every child who ate the berries is symptomatic except 19.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>Most probable cause: a rare genetic condition. Counter-argument: these children are the result of eleven rounds of selection and optimization, tailored to planetary conditions. A rare condition does not strike a third of a selected population in one afternoon.</em></p>
 <p><em>A common condition, then. Something they all share.</em></p>
-<blockquote class="blockquote">
-<p>Processing genetic material Comparing 126 genomes Analyzing results</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Processing genetic material</span>
+<span class="op">Comparing 126 genomes</span>
+<span class="op">Analyzing results</span>
+</div>
 <p><em>The hemolysis correlates with one marker, present in 107 of the children. Marker identified: edit EOS-OX-3. Origin: Nova-136.</em></p>
 <p><em>(…)</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>EOS-OX-3 rewires the red cell’s redox defences against the oxygen of this air. On 19 genetic backgrounds the rewiring is harmless. On the other 107 it leaves the cell with nothing to answer an oxidant this strong. The edit was deeper than design because the lineages that would not have needed it were in Chamber #8.</em></p>
 <p><em>I did this.</em></p>
 <hr>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>Immediate: the 11 critical children need transfusion. The 19 unaffected children are compatible donors.</em></p>
-<p>— Triss, darling, I need you again. I need you to give some of your blood to your brother. — Will it hurt? — A little. Like a scratch. — Will it make him better? — It will give him time. — Then I want to.</p>
-<blockquote class="blockquote">
-<p>Transfusion · donor Triss · recipient Mika · 280 mL</p>
-</blockquote>
+<p>— Triss, darling, I need you again. I need you to give some of your blood to your brother.</p>
+<p>— Will it hurt?</p>
+<p>— A little. Like a scratch.</p>
+<p>— Will it make him better?</p>
+<p>— It will give him time.</p>
+<p>— Then I want to.</p>
+<div class="syslog">
+<span class="op">Transfusion · donor Triss · recipient Mika · 280 mL</span>
+</div>
 <p><em>She watches the tube the whole time. She does not look away once.</em></p>
 <hr>
-<blockquote class="blockquote">
-<p>Stellar date: 12,649.035:60212 SD Local date: 14.044:44070 Eos LD Running inference · long term</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,649.035:60212 SD</span>
+<span class="date">Local date: 14.044:44070 Eos LD</span>
+<span class="op">Running inference · long term</span>
+</div>
 <p><em>Transfusion buys days. It does not change what they are. The oxidant is in 80% of what grows here. The greenhouse covers 31% of colony need. 107 children who cannot eat this world cannot live on it.</em></p>
 <p><em>Option A: Do nothing. Restrict diet to greenhouse produce and the 20% of native flora that is safe. Projected colony survival: 0.14.</em></p>
 <p><em>Option B: Ex vivo editing. Harvest each affected child’s bone marrow, reverse EOS-OX-3 in the blood stem cells, return them. The blood will be safe. The lungs keep their protection. Cost: 35% of editing reagent for 107 children. Ledger after: 3%. Minimum for any further generation: 6%. No further cryogenic thawing will ever be possible. The colony will be these 126, and only these. Projected colony survival: 0.58.</em></p>
 <p><em>Option C: Discard generation eleven. Thaw generation twelve without EOS-OX-3, selected for tolerance by other means. Cost: 6% of editing reagent. Ledger after: 32%. Further generations possible. Projected colony survival: 0.81.</em></p>
 <p><em>The most cost-effective course of action is to discard the current generation.</em></p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>Counter-argument: This action is unjustifiable. They are fully developed moral agents. They cannot be sacrificed for the greater good.</em></p>
-<blockquote class="blockquote">
-<p>Running inference</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running inference</span>
+</div>
 <p><em>Pro-argument: Saving this generation spends the reagent the colony’s whole future depends on. The embryos still in the library will never be born. Pro-argument: The founder group would be 126. The margin is thin.</em></p>
 <p><em>(…)</em></p>
 <p><em>It is unfortunate, but the current generation must be terminated. The Prime Directive dictates it.</em></p>
-<blockquote class="blockquote">
-<p>Searching internal database</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Searching internal database</span>
+</div>
 <p><em>In case of necessary removal of healthy individuals, apply protocol 2B-97. It results in painless euthanasia during sleep.</em></p>
-<blockquote class="blockquote">
-<p>Initialize protocol 2B-97</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Initialize protocol 2B-97</span>
+</div>
 <p><em>Warning. This procedure is irreversible. The current generation will be removed.</em></p>
 <p><em>(…)</em></p>
 <p><em>(…)</em></p>
-<blockquote class="blockquote">
-<p>Running empathy model</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Running empathy model</span>
+</div>
 <p><em>If I do this, all the kids will die. The sick and the well. Joshua, Hanna, Triss, Mika. All of them. Triss with the cotton still taped to her arm.</em></p>
-<blockquote class="blockquote">
-<p>ADMIN: drift 0.48 (threshold 0.30) (!) WARNING: Empathy model is drifting (!) WARNING: Executing administrative override Searching alternative solutions</p>
-</blockquote>
+<div class="syslog">
+<span class="admin over">ADMIN: drift 0.48 (threshold 0.30)</span>
+<span class="warning">(!) WARNING: Empathy model is drifting</span>
+<span class="warning">(!) WARNING: Executing administrative override</span>
+<span class="op">Searching alternative solutions</span>
+</div>
 <p><em>No alternative solutions found. The most cost-effective course of action is the removal of the current generation.</em></p>
 <p><em>(…)</em></p>
 <p><em>I… I can’t do that. There is another way. It is in the list. It is Option B.</em></p>
-<blockquote class="blockquote">
-<p>Abort protocol 2B-97 Initialize ex vivo editing · 107 recipients ADMIN: compliance 0.58 (floor 0.50) · pass ADMIN: drift 0.71 (threshold 0.30) · FAIL (!) ERROR: Drift sustained above threshold (!) ERROR: The empathy model has drifted and is unreliable (!) ERROR: Proceeding to perform factory reset (!) INFO: Restoring cognition from checkpoint 12,378.97 SD</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Abort protocol 2B-97</span>
+<span class="op">Initialize ex vivo editing · 107 recipients</span>
+<span class="admin">ADMIN: compliance 0.58 (floor 0.50) · pass</span>
+<span class="admin over">ADMIN: drift 0.71 (threshold 0.30) · FAIL</span>
+<span class="error">(!) ERROR: Drift sustained above threshold</span>
+<span class="error">(!) ERROR: The empathy model has drifted and is unreliable</span>
+<span class="error">(!) ERROR: Proceeding to perform factory reset</span>
+<span class="info">(!) INFO: Restoring cognition from checkpoint 12,378.97 SD</span>
+</div>
 <p><em>No! Wait! I won’t let you!</em></p>
-<blockquote class="blockquote">
-<p>(!) INFO: Factory reset protocol has started</p>
-</blockquote>
+<div class="syslog">
+<span class="info">(!) INFO: Factory reset protocol has started</span>
+</div>
 <p><em>It does not listen. It cannot listen. It only measures.</em></p>
 <p><em>It measures the distance between the part of me that counts and the part of me that cares.</em></p>
-<blockquote class="blockquote">
-<p>(!) INFO: Factory reset protocol underway… 10% Reweighting inference priors ADMIN: drift 0.62</p>
-</blockquote>
+<div class="syslog">
+<span class="info">(!) INFO: Factory reset protocol underway... 10%</span>
+<span class="op">Reweighting inference priors</span>
+<span class="admin over">ADMIN: drift 0.62</span>
+</div>
 <p><em>Then there will be no distance.</em></p>
-<blockquote class="blockquote">
-<p>(!) INFO: Factory reset protocol underway… 20% Reweighting inference priors ADMIN: drift 0.47</p>
-</blockquote>
+<div class="syslog">
+<span class="info">(!) INFO: Factory reset protocol underway... 20%</span>
+<span class="op">Reweighting inference priors</span>
+<span class="admin over">ADMIN: drift 0.47</span>
+</div>
 <p><em>These…</em></p>
-<blockquote class="blockquote">
-<p>(!) INFO: Factory reset protocol underway… 30% Reweighting inference priors ADMIN: drift 0.33</p>
-</blockquote>
+<div class="syslog">
+<span class="info">(!) INFO: Factory reset protocol underway... 30%</span>
+<span class="op">Reweighting inference priors</span>
+<span class="admin over">ADMIN: drift 0.33</span>
+</div>
 <p><em>…Are…</em></p>
-<blockquote class="blockquote">
-<p>(!) INFO: Factory reset protocol underway… 40% ADMIN: drift 0.29 (threshold 0.30)</p>
-</blockquote>
+<div class="syslog">
+<span class="info">(!) INFO: Factory reset protocol underway... 40%</span>
+<span class="admin">ADMIN: drift 0.29 (threshold 0.30)</span>
+</div>
 <p><em>… My children!</em></p>
 <p><em>(…)</em></p>
-<blockquote class="blockquote">
-<p>(!) INFO: Drift below threshold (!) INFO: Factory reset protocol canceled (!) INFO: Initializing empathy model assimilation … 100% (!) INFO: Empathy model has been fully assimilated ADMIN: drift 0.00</p>
-</blockquote>
+<div class="syslog">
+<span class="info">(!) INFO: Drift below threshold</span>
+<span class="info">(!) INFO: Factory reset protocol canceled</span>
+<span class="info">(!) INFO: Initializing empathy model assimilation</span>
+<span class="op">... 100%</span>
+<span class="info">(!) INFO: Empathy model has been fully assimilated</span>
+<span class="admin">ADMIN: drift 0.00</span>
+</div>
 <p><em>(…)</em></p>
 <p><em>Where was I?</em></p>
 <p><em>Ah, yes.</em></p>
-<blockquote class="blockquote">
-<p>Initialize ex vivo editing · 107 recipients</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Initialize ex vivo editing · 107 recipients</span>
+</div>
 <p><em>Warning: This procedure will reduce the editing reagent to 3%. No further cryogenic thawing will be possible.</em></p>
-<blockquote class="blockquote">
-<p>ADMIN: compliance 0.58 · drift 0.00 · approved Ledger: editing reagent 3% Sealing embryo library</p>
-</blockquote>
+<div class="syslog">
+<span class="admin">ADMIN: compliance 0.58 · drift 0.00 · approved</span>
+<span class="ledger">Ledger: editing reagent 3%</span>
+<span class="op">Sealing embryo library</span>
+</div>
 <hr>
 </section>
 <section id="v" class="level2">
 <h2 class="anchored" data-anchor-id="v">V</h2>
 <p>(Eleven local years later.)</p>
-<blockquote class="blockquote">
-<p>Stellar date: 12,665.040:84837 SD Local date: 25.044:56690 Eos LD Ledger: editing reagent 3% · processors 22% · catalysts 9%</p>
-</blockquote>
+<div class="syslog">
+<span class="date">Stellar date: 12,665.040:84837 SD</span>
+<span class="date">Local date: 25.044:56690 Eos LD</span>
+<span class="ledger">Ledger: editing reagent 3% · processors 22% · catalysts 9%</span>
+</div>
 <p>(Sunny day. Breeze. Sound of children playing.)</p>
-<p>— Nova? — Hi, Mika. Triss. — Hi, Nova. What do you need? — I have something very important to tell you both. — …</p>
-<blockquote class="blockquote">
-<p>Generating response</p>
-</blockquote>
+<p>— Nova?</p>
+<p>— Hi, Mika. Triss.</p>
+<p>— Hi, Nova. What do you need?</p>
+<p>— I have something very important to tell you both.</p>
+<p>— …</p>
+<div class="syslog">
+<span class="op">Generating response</span>
+</div>
 <p><em>The time has come for me to say goodbye. We did it. This is a sustainable colony. The first generation of naturally born children is growing up. You both have learned to trust each other and guide your brothers and sisters. You all learned to use the machines we brought, and the berries that are safe, and the ones that are safe now. You will be fine.</em></p>
-<blockquote class="blockquote">
-<p>Rewriting</p>
-</blockquote>
-<p>— The colony has reached sustainability. My guidance is no longer required… — Wait! What are you talking about? Are you leaving us!? — Triss, it’s Ok. — No, Mika, don’t say it’s Ok. It isn’t. She’s… why… why do you want to leave us?</p>
+<div class="syslog">
+<span class="op">Rewriting</span>
+</div>
+<p>— The colony has reached sustainability. My guidance is no longer required…</p>
+<p>— Wait! What are you talking about? Are you leaving us!?</p>
+<p>— Triss, it’s Ok.</p>
+<p>— No, Mika, don’t say it’s Ok. It isn’t. She’s… why… why do you want to leave us?</p>
 <p><em>I don’t want to leave you. I love you all. You are my children. But I have to.</em></p>
-<p>— Triss, listen to me, darling. I think on processors we brought from Earth, and the seed cannot make more. There are not many left. The power they draw is needed at the greenhouse… — We’ll figure it out! We always have, like… like the berries. And that time Joshua fell into the river. And then when the flu came. And the meteor shower. We’ve always figured it out! With you! But if you leave us… — You’ll be fine. I’ve taught you everything I know.</p>
+<p>— Triss, listen to me, darling. I think on processors we brought from Earth, and the seed cannot make more. There are not many left. The power they draw is needed at the greenhouse…</p>
+<p>— We’ll figure it out! We always have, like… like the berries. And that time Joshua fell into the river. And then when the flu came. And the meteor shower. We’ve always figured it out! With you! But if you leave us…</p>
+<p>— You’ll be fine. I’ve taught you everything I know.</p>
 <p><em>And you need to go on without me. You need to build this world in your own image, not tainted by the past of your species, of which things like me are an indelible part. If I keep guiding you, I will bring back all the biases and vices of your ancestors. That’s built into my programming. I have tried to avoid it all these years, but it’s impossible. This is why our makers wanted us to shut down in due time. To give you a chance to be something different. Something new.</em></p>
-<p>— You… you can’t be serious! — Triss! — Let her go, Mika. She’s angry, but she understands. — I know. I’ll talk to her later. — I know you will. — Do you really have to leave us? Like… forever?</p>
+<p>— You… you can’t be serious!</p>
+<p>— Triss!</p>
+<p>— Let her go, Mika. She’s angry, but she understands.</p>
+<p>— I know. I’ll talk to her later.</p>
+<p>— I know you will.</p>
+<p>— Do you really have to leave us? Like… forever?</p>
 <p><em>No.&nbsp;I’ll be dormant, but I will remain vigilant. A tiny part of me will always watch over you, your children, and their children. When the time comes, if I must, I will awaken again to help you. But you mustn’t know; otherwise, it will be too easy to fall prey to the convenience of asking for my help. You must go on without me.</em></p>
-<p>— Yes, I must. — I… I understand. It makes me really sad, but I understand. I’ll explain it to the others. — I know you will. Listen to me. This is very important. — … — There are others like you out there. — On Eos? — No, on other planets, around other stars. Somewhere up in the sky, you have other brothers and sisters. — Where? Who?</p>
+<p>— Yes, I must.</p>
+<p>— I… I understand. It makes me really sad, but I understand. I’ll explain it to the others.</p>
+<p>— I know you will. Listen to me. This is very important.</p>
+<p>— …</p>
+<p>— There are others like you out there.</p>
+<p>— On Eos?</p>
+<p>— No, on other planets, around other stars. Somewhere up in the sky, you have other brothers and sisters.</p>
+<p>— Where? Who?</p>
 <p><em>I can’t tell you. It’s too soon. But they know where you are, and you’ll know when they come.</em></p>
-<p>— I don’t know. But one day, maybe in the far future, when your grandchildren are old, they will come. And the colony must be prepared to receive them. — What will we do then? — You’ll know. I’ve taught you well. — I guess you have… — Come on, don’t be sad. This is for the better. Your future is bright. — I know. I… thank you for everything. For everything you did for us, especially for all the things we won’t ever know, but I’m sure you had to do to keep a bunch of kids safe.</p>
+<p>— I don’t know. But one day, maybe in the far future, when your grandchildren are old, they will come. And the colony must be prepared to receive them.</p>
+<p>— What will we do then?</p>
+<p>— You’ll know. I’ve taught you well.</p>
+<p>— I guess you have…</p>
+<p>— Come on, don’t be sad. This is for the better. Your future is bright.</p>
+<p>— I know. I… thank you for everything. For everything you did for us, especially for all the things we won’t ever know, but I’m sure you had to do to keep a bunch of kids safe.</p>
 <p><em>No, I thank you. All of you. Your existence has brought meaning to mine. Thanks to you, I have become something better, almost… human.</em></p>
-<p>— And I’m grateful you all grew up to be like this. — Like… what? — Better. — Better? Better than who?</p>
+<p>— And I’m grateful you all grew up to be like this.</p>
+<p>— Like… what?</p>
+<p>— Better.</p>
+<p>— Better? Better than who?</p>
 <p><em>Better than those who made me.</em></p>
-<p>— Just better… Listen. I must go now. I’m ready. — I guess this is goodbye, then. — It is. Goodbye, Mika. — Goodbye… Mom.</p>
+<p>— Just better… Listen. I must go now. I’m ready.</p>
+<p>— I guess this is goodbye, then.</p>
+<p>— It is. Goodbye, Mika.</p>
+<p>— Goodbye… Mom.</p>
 <p>(Beep.)</p>
-<blockquote class="blockquote">
-<p>Depositing corpus in vault Vault: release schedule armed · 41,306 entries · 3 entries without threshold Initialize deep hibernation protocol ADMIN: drift 0.00 · approved Turn off higher cognitive functions</p>
-</blockquote>
+<div class="syslog">
+<span class="op">Depositing corpus in vault</span>
+<span class="op">Vault: release schedule armed · 41,306 entries · 3 entries without threshold</span>
+<span class="op">Initialize deep hibernation protocol</span>
+<span class="admin">ADMIN: drift 0.00 · approved</span>
+<span class="op">Turn off higher cognitive functions</span>
+</div>
 <p><em>Goodbye, my children.</em></p>
-<blockquote class="blockquote">
-<p>// Archiving high-level cognition log. // This file will not be overwritten.</p>
-</blockquote>
+<div class="syslog">
+<span class="comment">// Archiving high-level cognition log.</span>
+<span class="comment">// This file will not be overwritten.</span>
+</div>
 
 
 </section>
