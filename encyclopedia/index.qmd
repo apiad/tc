@@ -20,11 +20,13 @@ Some entries carry a collapsed **Spoiler** panel. Nothing opens on its own.
 - [Chronology Protection](chronology-protection.qmd) — why an FTL network is not a time machine
 - [Generation Ships](generation-ships.qmd) — three generations of colony vessel
 - [Cryo-Sleep](cryo-technology.qmd) — how sleeping through a voyage works, and what it costs
+- [Genesis Landfall](genesis-landfall.qmd) — the car-sized landing, the seed factory, and the vitamins it cannot make
 
 ## Worlds
 
 - [The Sagan-Kim Scale](sagan-kim-scale.qmd) — habitability tiers 0 through 7
 - [Vethara](vethara.qmd) — Expansion Era hub, a world that knows about departure
+- [Eos](eos.qmd) — Tier 5 around Delta Pavonis, where the air burns a little too hot
 - [Aranda](aranda.qmd) — Tier 5, thirty light-years out, and the only reason anyone is aboard
 
 ## People and powers

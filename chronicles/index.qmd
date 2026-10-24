@@ -13,7 +13,7 @@ prologues are a reasonable place to begin.
 
 ## Genesis Era
 
-- [My Children](2023-10-22-tc-my-children.qmd)
+- [My Children](2026-10-24-tc-my-children-v2.qmd)
 
 ## Expansion Era
 

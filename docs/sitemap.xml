@@ -2,114 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://apiad.github.io/tc/index.html</loc>
-    <lastmod>2026-07-30T15:12:12.844Z</lastmod>
+    <lastmod>2026-10-24T20:28:12.000Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/vethara.html</loc>
-    <lastmod>2026-08-05T14:11:19.358Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.184Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/synth-technology.html</loc>
-    <lastmod>2026-08-05T14:11:19.357Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.184Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/soren-vael.html</loc>
-    <lastmod>2026-08-05T14:11:19.356Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.183Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/red-dwarf-worlds.html</loc>
-    <lastmod>2026-08-05T14:11:19.355Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.182Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/mireth.html</loc>
-    <lastmod>2026-08-05T14:11:19.354Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.181Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/index.html</loc>
-    <lastmod>2026-07-30T15:12:12.880Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.263Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/guide-vaults.html</loc>
-    <lastmod>2026-08-05T14:11:19.353Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/encyclopedia/galactic-timeline.html</loc>
-    <lastmod>2026-08-05T14:11:19.352Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/encyclopedia/cryo-technology.html</loc>
-    <lastmod>2026-08-05T14:11:19.351Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/encyclopedia/chronology-protection.html</loc>
-    <lastmod>2026-08-05T14:11:19.350Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/chronicles/index.html</loc>
-    <lastmod>2026-07-30T15:12:12.869Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/chronicles/2024-09-02-tc-prologue-historian.html</loc>
-    <lastmod>2026-08-05T14:11:19.359Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/chronicles/2023-10-22-tc-my-children.html</loc>
-    <lastmod>2026-08-05T14:11:19.358Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/chronicles/2023-10-19-tc-prologue-exodus.html</loc>
-    <lastmod>2026-08-05T14:11:19.358Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/chronicles/2023-10-23-tc-sky-is-alive.html</loc>
-    <lastmod>2026-08-05T14:11:19.359Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/chronicles/2026-06-08-tc-threshold-v3.html</loc>
-    <lastmod>2026-08-05T14:11:19.359Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/encyclopedia/aranda.html</loc>
-    <lastmod>2026-08-05T14:11:19.350Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/encyclopedia/cosmography.html</loc>
-    <lastmod>2026-08-05T14:11:19.350Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apiad.github.io/tc/encyclopedia/foundations.html</loc>
-    <lastmod>2026-08-05T14:11:19.351Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.180Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/generation-ships.html</loc>
-    <lastmod>2026-08-05T14:11:19.353Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.179Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/encyclopedia/foundations.html</loc>
+    <lastmod>2026-10-24T20:28:39.178Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/encyclopedia/cryo-technology.html</loc>
+    <lastmod>2026-10-24T20:28:39.177Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/encyclopedia/chronology-protection.html</loc>
+    <lastmod>2026-10-24T20:28:39.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/chronicles/index.html</loc>
+    <lastmod>2026-10-24T20:28:39.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/chronicles/2026-06-08-tc-threshold-v3.html</loc>
+    <lastmod>2026-10-24T20:28:39.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/chronicles/2023-10-23-tc-sky-is-alive.html</loc>
+    <lastmod>2026-10-24T20:28:39.186Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/chronicles/2023-10-19-tc-prologue-exodus.html</loc>
+    <lastmod>2026-10-24T20:28:39.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/chronicles/2024-09-02-tc-prologue-historian.html</loc>
+    <lastmod>2026-10-24T20:28:39.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/chronicles/2026-10-24-tc-my-children-v2.html</loc>
+    <lastmod>2026-10-24T20:28:39.186Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/encyclopedia/aranda.html</loc>
+    <lastmod>2026-10-24T20:28:39.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/encyclopedia/cosmography.html</loc>
+    <lastmod>2026-10-24T20:28:39.177Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/encyclopedia/eos.html</loc>
+    <lastmod>2026-10-24T20:28:39.178Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/encyclopedia/galactic-timeline.html</loc>
+    <lastmod>2026-10-24T20:28:39.179Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apiad.github.io/tc/encyclopedia/genesis-landfall.html</loc>
+    <lastmod>2026-10-24T20:28:39.180Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/house-varen.html</loc>
-    <lastmod>2026-08-05T14:11:19.354Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.180Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/lys.html</loc>
-    <lastmod>2026-08-05T14:11:19.354Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.181Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/propulsion.html</loc>
-    <lastmod>2026-08-05T14:11:19.355Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.182Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/sagan-kim-scale.html</loc>
-    <lastmod>2026-08-05T14:11:19.356Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.183Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/stellar-calendar.html</loc>
-    <lastmod>2026-08-05T14:11:19.356Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.183Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/thorne-nexus.html</loc>
-    <lastmod>2026-08-05T14:11:19.357Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.184Z</lastmod>
   </url>
   <url>
     <loc>https://apiad.github.io/tc/encyclopedia/warp-drive.html</loc>
-    <lastmod>2026-08-05T14:11:19.358Z</lastmod>
+    <lastmod>2026-10-24T20:28:39.185Z</lastmod>
   </url>
 </urlset>

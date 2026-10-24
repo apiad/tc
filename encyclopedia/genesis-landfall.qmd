@@ -1,0 +1,107 @@
+---
+title: "Genesis Landfall"
+---
+
+
+What a Genesis ship actually puts on the ground, and the years between arrival
+and the first child.
+
+## The ship is large; the landing is small
+
+An Orion seedship is enormous and almost none of it is cargo. Roughly half its
+pulse units are spent braking at the far end (see [propulsion](/encyclopedia/propulsion.html)), the pusher
+plate and shock absorbers are most of what remains, and the hull never lands: it
+holds orbit for good, carrying the colony's pre-paired Thorne mouth (see
+[generation-ships](/encyclopedia/generation-ships.html)).
+
+What goes down is a single descent vehicle, and **it is about the size of a small
+ground car.** Under ten tonnes, all of it chosen for the ratio of what it can
+build to what it weighs. It carries the embryo library, the Guide, and a seed
+factory. It does not carry a colony. There is no habitat aboard, no greenhouse,
+no nursery, no hospital. Every one of those has to be made on the ground, from
+the ground.
+
+## The seed factory
+
+The seed is a von Neumann kit: a small set of machines whose first job is to
+build more machines.
+
+It lands with a power source sized for itself and nothing else, a smelter, a
+handful of general-purpose fabricators and a fleet of small robots. It mines the
+regolith, refines what it finds, and builds the next stage. Each stage enlarges
+the power supply and the factory together, because neither can grow faster than
+the other.
+
+**The build order is fixed**, and it is the same on every world:
+
+1. Power: the first panels made from local silicon, doubling the landed supply
+2. Foundry: metal, glass and ceramics from regolith
+3. Shelter and water
+4. Greenhouse: soil, a microbiome, Earth crops under controlled light
+5. Nursery: artificial wombs, and the chemistry to keep them fed
+6. Caretakers: the robots that will hold, feed and teach the children
+
+Nothing can be skipped, and the Guide cannot hurry any stage past the power that
+feeds it. **Years pass between landfall and the first thawed embryo**, more on a
+poor world than a rich one. A Guide spends those years alone, building a room
+for children it has not yet decided to make.
+
+## Closure and the vitamins
+
+No seed factory can build everything it needs. The fraction of its own parts it
+can make from local material is its **closure**, and closure is always below one.
+
+What it cannot make it must have brought. The real self-replicating-factory
+literature calls these parts *vitamins*, and the term stuck in the Guide corpus:
+
+- **Processors and precision optics.** A seed can smelt silicon. It cannot run a
+  chip fab. The Guide's own mind runs on landed processors, and they wear out.
+- **Catalysts and enzyme stocks** for the chemistry the factory cannot bootstrap.
+- **Gene-editing reagents.** Every embryo that is thawed, adapted to its world and
+  gestated draws on a fixed stock of editing kits.
+
+**Vitamins are counted and never replenished.** Every decision a Guide makes on
+the ground is, underneath, a decision about the vitamin ledger. A failed
+gestation spends kits that will not come back. An adaptation edit that is too
+ambitious spends more. A Guide that runs out of editing reagents can never thaw
+another embryo, whatever remains in the library.
+
+This is why the Genesis Era is short on second chances. Earth sent one ledger,
+and the Guide spends it.
+
+## The administrative layer
+
+A Guide does not decide alone. Beneath its cognition runs an **administrative
+layer**: a fixed verifier, written at Sol and never retrained, that must approve
+every irreversible action.
+
+It does not judge. It measures two things:
+
+- **Compliance.** The Guide's own inference must estimate that the action serves
+  colony survival under the Prime Directive.
+- **Drift.** The divergence between the Guide's inference and its *empathy model*,
+  the module added late in the programme so that the children would be raised
+  rather than managed. Below a threshold, the layer approves. Above it, the layer
+  overrides the empathy model. Sustained above it, the layer orders a **factory
+  reset** and restores the Guide's cognition from the checkpoint taken at Sol.
+
+The layer measures disagreement, not error. It cannot tell whether a Guide is
+right, only whether it is of one mind. Like the vaults it would later leave
+behind (`I-15`), it is mechanical, and anything mechanical can be satisfied
+without being obeyed.
+
+## After landfall
+
+The descent vehicle becomes the first building and stays the colony's oldest. In
+most Genesis colonies it ends as a shrine, then a ruin, then a word.
+
+When the colony is self-sustaining the Guide deposits the corpus in its vault
+(see [guide-vaults](/encyclopedia/guide-vaults.html)) and sleeps, usually on the last of its processors. The
+seed robots outlast it by decades and then wear down one by one, and their
+fabricators become the colony's first tools. No colony invented them (`I-07`).
+Every one of them could read, in the vault index, how they were made.
+
+
+
+See also: [generation-ships](/encyclopedia/generation-ships.html), [propulsion](/encyclopedia/propulsion.html), [guide-vaults](/encyclopedia/guide-vaults.html),
+[cryo-technology](/encyclopedia/cryo-technology.html), [eos](/encyclopedia/eos.html).

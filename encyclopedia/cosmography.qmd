@@ -15,10 +15,10 @@ of it in advance.
 The Exodus planners worked from a complete survey of the solar neighbourhood
 out to ten parsecs — thirty-two and a half light-years, and by a coincidence
 nobody planned, almost exactly the practical reach of an Orion pulse drive
-(`C-01`, `C-02`). Everything the programme could reach had been catalogued
+. Everything the programme could reach had been catalogued
 before the first hull was laid.
 
-Within that volume: `C-03` objects in something under three hundred systems. Of
+Within that volume: `C-03` catalogued objects, in `C-22` stellar systems. Of
 the stars, `C-04` are M dwarfs — red, dim, and long-lived, making up between
 sixty-nine and seventy-three percent of the sample. Only `C-05` are F, G or K
 type: the stars a human being would recognise as a sun.

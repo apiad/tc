@@ -54,7 +54,8 @@ learn to route around.
 |---|---|---|---|
 | `C-01` | 30 ly | | Orion practical reach from Sol (150–300 yr at cruise) |
 | `C-02` | 0.03–0.1c | | Orion cruise velocity |
-| `C-03` | ~380 in ~260 | | Objects / systems within 10 pc (RECONS 2012) |
+| `C-03` | ~380 | | Objects within 10 pc (RECONS 2012) |
+| `C-22` | ~260 | | Stellar systems within 10 pc (RECONS 2012) |
 | `C-04` | 217 | | M dwarfs catalogued within 10 pc |
 | `C-05` | 63 | | F/G/K stars catalogued within 10 pc |
 | `C-06` | 32 | `thirty-two` | Primary target systems: F5–K5, stable HZ, within `C-01` |

@@ -1,0 +1,39 @@
+---
+title: "Eos"
+subtitle: "Genesis Era (~12,630 SD)"
+---
+
+
+Prime body of a primary system, and a Tier 5 world where the dossier promised a
+Tier 6. Settled by the Genesis ship whose Guide called itself Nova-136. Setting
+of *My Children*.
+
+## The star
+
+Delta Pavonis: a G-type star 19.9 light-years from Sol, slightly older and
+brighter than the Sun and beginning to leave the main sequence. One of the
+`C-06` systems the Exodus thought worth three hulls.
+
+## The world
+
+- Gravity 1.16 standard. A heavier step, a shorter fall.
+- Day of 26.7 standard hours; year of 478 local days.
+- Free rotation, with seasons and a temperate band (`I-14`).
+- About two thirds ocean.
+- Breathable air, nitrogen and oxygen, with oxygen near 27 percent. That figure
+  is what moves Eos from Tier 6 to Tier 5. It burns hotter, and over a lifetime
+  it ages a human body faster than Earth air does.
+- Abundant plant-like life, no animal-like life at landfall.
+
+The dossier was assembled at Sol from thirty-light-year instruments and was
+centuries stale on arrival (`C-16`). The oxygen figure was not in it.
+
+## The native chemistry
+
+Eos flora shares Earth's handedness and is digestible. Its dominant defensive
+compound is an oxidant close in structure to the vicine of the fava bean, present
+in most native plants and richest in the berries. Unmodified humans tolerate it.
+Humans whose red-cell redox defences have been altered do not. See
+[genesis-landfall](/encyclopedia/genesis-landfall.html) for why that mattered on Eos.
+
+See also: [sagan-kim-scale](/encyclopedia/sagan-kim-scale.html), [cosmography](/encyclopedia/cosmography.html), [genesis-landfall](/encyclopedia/genesis-landfall.html).

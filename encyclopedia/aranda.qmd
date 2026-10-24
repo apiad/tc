@@ -6,7 +6,7 @@ subtitle: "Expansion Era (~15,500 SD)"
 
 Destination world of the CGSS Threshold. A Tier 5 colony world orbiting a K-type star (slightly cooler and more stable than Sol). Colonial rights acquired by House Varen at approximately 15,480 SD. **28.3 light-years from [vethara](/encyclopedia/vethara.html)** — a thirty-year crossing at the Threshold's effective velocity of `C-18`. See [warp-drive](/encyclopedia/warp-drive.html).
 
-The star is catalogued as CD-27 14659 A, a K3 main-sequence star 28.8 light-years from Sol and near the outer edge of what the Exodus could reach (`C-01`, `I-10`). That designation is what the Varen charter says and what the survey dossier says. It is not what anyone who settles there will call it — colonists rename their suns within a generation, and the Earth catalogue numbers survive only in law and in shipping manifests.
+The star is catalogued as CD-27 14659 A, a K3 main-sequence star 28.8 light-years from Sol and near the outer edge of what the Exodus could reach (`I-10`). That designation is what the Varen charter says and what the survey dossier says. It is not what anyone who settles there will call it — colonists rename their suns within a generation, and the Earth catalogue numbers survive only in law and in shipping manifests.
 
 ## Physical Characteristics
 
